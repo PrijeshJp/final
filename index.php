@@ -1,8 +1,6 @@
 <?php
-include ("nav.php");
+    include ("nav.php");
 ?>
-
-
     <!-- Body -->
     <body>
         <!--========== SWIPER SLIDER ==========-->
@@ -350,31 +348,6 @@ include ("nav.php");
                         <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
                             <!-- <li>
                                 <a href="img/logos/sfappechange.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Portfolio Item <br/> by KeenThemes Inc.">
-                                    <i class="ti-fullscreen"></i>
-                                </a>
-                            </li> -->
-                            <li>
-                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                    <i class="ti-link"></i>
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-
-                <!-- Item -->
-                <div class="s-portfolio__item cbp-item crm">
-                    <div class="s-portfolio__img-effect">
-                        <img src="img/logos/LifeRay.png" alt="Portfolio Image">
-                    </div>
-                    <div class="s-portfolio__caption-hover--cc">
-                        <div class="g-margin-b-25--xs">
-                            <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">LIFERAY</h4>
-                            <p class="g-color--white-opacity">Portal.</p>
-                        </div>
-                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                            <!-- <li>
-                                <a href="img/logos/LifeRay.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="LifeRay<br/> Portal.">
                                     <i class="ti-fullscreen"></i>
                                 </a>
                             </li> -->
@@ -992,7 +965,7 @@ include ("nav.php");
                         <div class="s-portfolio__caption-hover--cc">
                             <div class="g-margin-b-25--xs">
                                 <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Ionic</h4>
-                                <p class="g-color--white-opacity">Dynamic and Multipurpose programming language.</p>
+                                <p class="g-color--white-opacity">Hybrid mobile app development.</p>
                             </div>
                             <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
                                 <!-- <li>
@@ -1011,12 +984,36 @@ include ("nav.php");
                     <!-- Item -->
                     <div class="s-portfolio__item cbp-item core">
                         <div class="s-portfolio__img-effect">
-                            <img src="img/logos/ionic.png" alt="Portfolio Image">
+                            <img src="img/logos/android.png" alt="Portfolio Image">
                         </div>
                         <div class="s-portfolio__caption-hover--cc">
                             <div class="g-margin-b-25--xs">
-                                <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Ionic</h4>
-                                <p class="g-color--white-opacity">Dynamic and Multipurpose programming language.</p>
+                                <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Android</h4>
+                                <p class="g-color--white-opacity">Mobile operating system.</p>
+                            </div>
+                            <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
+                                <!-- <li>
+                                    <a href="img/logos/websocket.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
+                                    </a>
+                                </li> -->
+                                <li>
+                                    <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
+                                        <i class="ti-link"></i>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <!-- Item -->
+                    <div class="s-portfolio__item cbp-item core">
+                        <div class="s-portfolio__img-effect">
+                            <img src="img/logos/ios.png" alt="Portfolio Image">
+                        </div>
+                        <div class="s-portfolio__caption-hover--cc">
+                            <div class="g-margin-b-25--xs">
+                                <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">IOS</h4>
+                                <p class="g-color--white-opacity">Mobile operating system.</p>
                             </div>
                             <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
                                 <!-- <li>
@@ -1104,6 +1101,7 @@ include ("nav.php");
         </div>
         <!-- End Testimonials -->
 
+       
         <!-- News -->
         <div class="container g-padding-y-80--xs g-padding-y-125--sm">
             <div class="g-text-center--xs g-margin-b-80--xs">

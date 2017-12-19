@@ -47,7 +47,7 @@
                             <div class="s-header-v2__navbar-col s-header-v2__navbar-col-width--180">
                                 <!-- Logo -->
                                 <div class="s-header-v2__logo">
-                                    <a href="index.html" class="s-header-v2__logo-link" style="padding-top: 10px;padding-bottom: 0px;">
+                                    <a href="index.php" class="s-header-v2__logo-link" style="padding-top: 10px;padding-bottom: 0px;">
                                         <img class="s-header-v2__logo-img s-header-v2__logo-img--default" src="img/minus2.png" alt="Dublin Logo">
                                         <img class="s-header-v2__logo-img s-header-v2__logo-img--shrink" src="img/minus2.png" alt="Dublin Logo">
                                     </a>

@@ -2409,8 +2409,7 @@ em > a, li > a {
 em > a:hover, li > a:hover {
   color: #008ccf !important;
 }
-@media (min-width: 1200px){
-  .newpad {
-      width: 1330px;
-  }
+
+.container.g-display-table--lg.newpad{
+  width: 96vw !important;
 }
