@@ -3,69 +3,6 @@
 ?>
 <!-- Body -->
 <body>
-        <!-- Overlay -->
-        <div class="s-header-bg-overlay js__bg-overlay">
-            <!-- Nav -->
-            <nav class="s-header__nav js__scrollbar">
-                <div class="container-fluid">
-                    <!-- Menu List -->                                
-                    <ul class="list-unstyled s-header__nav-menu">
-                        <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="index.html">Corporate</a></li>
-                        <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="index_app_landing.html">App Landing</a></li>
-                        <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="index_portfolio.html">Portfolio</a></li>
-                        <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="index_events.html">Events</a></li>
-                        <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="index_lawyer.html">Lawyer</a></li>
-                        <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="index_clinic.html">Clinic</a></li>
-                        <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="index_coming_soon.html">Coming Soon</a></li>
-                    </ul>
-                    <!-- End Menu List -->
-
-                    <!-- Menu List -->                                
-                    <ul class="list-unstyled s-header__nav-menu">
-                        <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="about.html">About</a></li>
-                        <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="team.html">Team</a></li>
-                        <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider -is-active" href="services.html">Services</a></li>
-                        <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="events.html">Events</a></li>
-                        <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="faq.html">FAQ</a></li>
-                        <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="contacts.html">Contacts</a></li>
-                    </ul>
-                    <!-- End Menu List -->
-                </div>
-            </nav>
-            <!-- End Nav -->
-            
-            <!-- Action -->
-            <ul class="list-inline s-header__action s-header__action--lb">
-                <li class="s-header__action-item"><a class="s-header__action-link -is-active" href="#">En</a></li>
-                <li class="s-header__action-item"><a class="s-header__action-link" href="#">Fr</a></li>
-            </ul>
-            <!-- End Action -->
-
-            <!-- Action -->
-            <ul class="list-inline s-header__action s-header__action--rb">
-                <li class="s-header__action-item">
-                    <a class="s-header__action-link" href="https://www.behance.net/keenthemes">
-                        <i class="g-padding-r-5--xs ti-facebook"></i>
-                        <span class="g-display-none--xs g-display-inline-block--sm">Facebook</span>
-                    </a>
-                </li>
-                <li class="s-header__action-item">
-                    <a class="s-header__action-link" href="https://twitter.com/keenthemes">
-                        <i class="g-padding-r-5--xs ti-twitter"></i>
-                        <span class="g-display-none--xs g-display-inline-block--sm">Twitter</span>
-                    </a>
-                </li>
-                <li class="s-header__action-item">
-                    <a class="s-header__action-link" href="https://dribbble.com/keenthemes">
-                        <i class="g-padding-r-5--xs ti-dribbble"></i>
-                        <span class="g-display-none--xs g-display-inline-block--sm">Dribbble</span>
-                    </a>
-                </li>
-            </ul>
-            <!-- End Action -->
-        </div>
-        <!-- End Overlay -->
-    </header>
     <!--========== END HEADER ==========-->
 
     <!--========== PROMO BLOCK ==========-->
@@ -459,64 +396,9 @@
     </div>
     <!-- End Clients -->
     <!--========== END PAGE CONTENT ==========-->
-
-    <!--========== FOOTER ==========-->
-    <footer class="g-bg-color--dark">
-        <!-- Links -->
-        <div class="g-hor-divider__dashed--white-opacity-lightest">
-            <div class="container g-padding-y-80--xs">
-                <div class="row">
-                    <div class="col-sm-2 g-margin-b-20--xs g-margin-b-0--md">
-                        <ul class="list-unstyled g-ul-li-tb-5--xs g-margin-b-0--xs">
-                            <li><a class="g-font-size-15--xs g-color--white-opacity" href="http://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes">Home</a></li>
-                            <li><a class="g-font-size-15--xs g-color--white-opacity" href="http://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes">About</a></li>
-                            <li><a class="g-font-size-15--xs g-color--white-opacity" href="http://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes">Work</a></li>
-                            <li><a class="g-font-size-15--xs g-color--white-opacity" href="http://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes">Contact</a></li>
-                        </ul>
-                    </div>
-                    <div class="col-sm-2 g-margin-b-20--xs g-margin-b-0--md">
-                        <ul class="list-unstyled g-ul-li-tb-5--xs g-margin-b-0--xs">
-                            <li><a class="g-font-size-15--xs g-color--white-opacity" href="http://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes">Twitter</a></li>
-                            <li><a class="g-font-size-15--xs g-color--white-opacity" href="http://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes">Facebook</a></li>
-                            <li><a class="g-font-size-15--xs g-color--white-opacity" href="http://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes">Instagram</a></li>
-                            <li><a class="g-font-size-15--xs g-color--white-opacity" href="http://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes">YouTube</a></li>
-                        </ul>
-                    </div>
-                    <div class="col-sm-2 g-margin-b-40--xs g-margin-b-0--md">
-                        <ul class="list-unstyled g-ul-li-tb-5--xs g-margin-b-0--xs">
-                            <li><a class="g-font-size-15--xs g-color--white-opacity" href="http://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes">Subscribe to Our Newsletter</a></li>
-                            <li><a class="g-font-size-15--xs g-color--white-opacity" href="http://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes">Privacy Policy</a></li>
-                            <li><a class="g-font-size-15--xs g-color--white-opacity" href="http://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes">Terms &amp; Conditions</a></li>
-                        </ul>
-                    </div>
-                    <div class="col-md-4 col-md-offset-2 col-sm-5 col-sm-offset-1 s-footer__logo g-padding-y-50--xs g-padding-y-0--md">
-                        <h3 class="g-font-size-18--xs g-color--white">Megakit</h3>
-                        <p class="g-color--white-opacity">We are a creative studio focusing on culture, luxury, editorial &amp; art. Somewhere between sophistication and simplicity.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- End Links -->
-
-        <!-- Copyright -->
-        <div class="container g-padding-y-50--xs">
-            <div class="row">
-                <div class="col-xs-6">
-                    <a href="index.html">
-                        <img class="g-width-100--xs g-height-auto--xs" src="img/logo.png" alt="Megakit Logo">
-                    </a>
-                </div>
-                <div class="col-xs-6 g-text-right--xs">
-                    <p class="g-font-size-14--xs g-margin-b-0--xs g-color--white-opacity-light"><a href="http://keenthemes.com/preview/Megakit/">Megakit</a> Theme Powered by: <a href="http://www.keenthemes.com/">KeenThemes.com</a></p>
-                </div>
-            </div>
-        </div>
-        <!-- End Copyright -->
-    </footer>
-    <!--========== END FOOTER ==========-->
-
-    <!-- Back To Top -->
-    <a href="javascript:void(0);" class="s-back-to-top js__back-to-top"></a>
+    <?php
+            include "footer.php";
+    ?>
 
     <!--========== JAVASCRIPTS (Load javascripts at bottom, this will reduce page load time) ==========-->
     <!-- Vendor -->
