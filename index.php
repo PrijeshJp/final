@@ -1115,8 +1115,10 @@
                         <img class="img-responsive" src="img/970x970/01.jpg" alt="Image">
                         <div class="g-bg-color--white g-box-shadow__dark-lightest-v2 g-text-center--xs g-padding-x-40--xs g-padding-y-40--xs">
                             <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2">News</p>
-                            <h3 class="g-font-size-22--xs g-letter-spacing--1"><a href="">Create Something Great.</a></h3>
-                            <p>The time has come to bring those ideas and plans to life.</p>
+                            <h3 class="g-font-size-22--xs g-letter-spacing--1">
+                                <a href="salesforce_spa.php">SPAs in Salesforce</a>
+                            </h3>
+                            <p>Aura or AngularJS</p>
                         </div>
                     </article>
                     <!-- End News -->
@@ -1127,8 +1129,10 @@
                         <img class="img-responsive" src="img/970x970/02.jpg" alt="Image">
                         <div class="g-bg-color--white g-box-shadow__dark-lightest-v2 g-text-center--xs g-padding-x-40--xs g-padding-y-40--xs">
                             <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2">News</p>
-                            <h3 class="g-font-size-22--xs g-letter-spacing--1"><a href="">Jacks of All. Experts in All.</a></h3>
-                            <p>The time has come to bring those ideas and plans to life.</p>
+                            <h3 class="g-font-size-22--xs g-letter-spacing--1">
+                                <a href="heroku.php">Heroku</a>
+                            </h3>
+                            <p>Heroku - Salesforce integrated Solution</p>
                         </div>
                     </article>
                     <!-- End News -->
@@ -1139,8 +1143,10 @@
                         <img class="img-responsive" src="img/970x970/03.jpg" alt="Image">
                         <div class="g-bg-color--white g-box-shadow__dark-lightest-v2 g-text-center--xs g-padding-x-40--xs g-padding-y-40--xs">
                             <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2">News</p>
-                            <h3 class="g-font-size-22--xs g-letter-spacing--1"><a href="">Finding your Perfect Place.</a></h3>
-                            <p>The time has come to bring those ideas and plans to life.</p>
+                            <h3 class="g-font-size-22--xs g-letter-spacing--1">
+                                <a href="twilio.php">Twilio</a>
+                            </h3>
+                            <p>Twilio API integration and development</p>
                         </div>
                     </article>
                     <!-- End News -->

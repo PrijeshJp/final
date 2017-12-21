@@ -2389,6 +2389,7 @@ fieldset[disabled] .s-btn {
   position: relative;
   background-repeat: no-repeat;
   background-size: cover;
+  height: 90vh;
 }
 /* end service */
 
@@ -2412,4 +2413,16 @@ em > a:hover, li > a:hover {
 
 .container.g-display-table--lg.newpad{
   width: 96vw !important;
+}
+
+.clr{
+  color: rgba(255, 255, 255, 0.4) !important;
+}
+
+.bgjava{
+  background-image: url('../img/1920x1080/java.jpg');
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 90vh;
 }
