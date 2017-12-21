@@ -2426,3 +2426,43 @@ em > a:hover, li > a:hover {
   background-size: cover;
   height: 90vh;
 }
+
+.bgblog{
+  background-image: url('../img/1920x1080/blog.jpg');
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+  
+  
+.bgclr{
+    /* position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 103;
+    height: 70px;
+    width: 100%; */
+    border-bottom: 1px solid #e8ebed;
+    background-color: hsla(225, 100%, 100%, 0.7);
+}
+em > a, li > a {
+    color: #242424 !important;
+}
+  
+em > a:hover, li > a:hover {
+    color: #008ccf !important;
+}
+  
+.container.g-display-table--lg.newpad{
+    width: 96vw !important;
+}
+  
+.blogpad{
+  margin-top: 10vh;
+}
+  
+.bgblog-white{
+    background-color: hsla(225, 100%, 100%, 0.9);
+    line-height: 3.2 !important;
+}
+  
