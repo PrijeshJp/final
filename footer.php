@@ -18,8 +18,8 @@
                             </li>
                             <li class="s-header__action-item">
                                 <a class="s-header__action-link clr" href="#">
-                                    <i class="g-padding-r-5--xs ti-instagram"></i>
-                                    <span class="g-display-none--xs g-display-inline-block--sm">Instagram</span>
+                                    <i class="g-padding-r-5--xs ti-linkedin"></i>
+                                    <span class="g-display-none--xs g-display-inline-block--sm">Linkedin</span>
                                 </a>
                             </li>
                         </ul>
