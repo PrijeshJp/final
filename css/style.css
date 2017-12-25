@@ -2428,10 +2428,11 @@ em > a:hover, li > a:hover {
 }
 
 .bgblog{
-  background-image: url('../img/1920x1080/blog.jpg');
+  background-image: url('../img/1920x1080/herokubanner.jpg');
   position: relative;
   background-repeat: no-repeat;
   background-size: cover;
+  height: 90vh;
   }
   
   
@@ -2482,3 +2483,18 @@ em > a:hover, li > a:hover {
   min-height: 170px;
 } 
 
+.bgdigital{
+  background-image: url('../img/1920x1080/digital.jpg');
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 90vh;
+}
+
+.bgiot{
+  background-image: url('../img/1920x1080/IoT-Graphic.png');
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 90vh;
+}

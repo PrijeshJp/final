@@ -17,9 +17,6 @@
     <!--========== PAGE CONTENT ==========-->
     <div class="container blogpad">
         <div class="center wow fadeInDown animated" style="visibility: visible; animation-name: fadeInDown;">
-            <h2 class="center"><span class="item active">"Intelligence is the ability to adapt to change"</span><span class="author"> - Stephen Hawking</span></h2>
-        </div>
-        <div class="center wow fadeInDown animated" style="visibility: visible; animation-name: fadeInDown;">
             <h2 class="center"><span class="item active">About us</span></h2>
         </div>
         <div class="skill-wrap clearfix">
@@ -34,6 +31,7 @@
         </div>
     </div>
     <!--========== END PAGE CONTENT ==========-->
+
     <?php
         include "footer.php";
     ?>
