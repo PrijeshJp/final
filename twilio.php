@@ -8,9 +8,6 @@
     <!--========== PROMO BLOCK ==========-->
     <section class="bgblog" >
         <div class="container g-position--overlay g-text-center--xs">
-            <div class="g-padding-y-50--xs g-margin-t-100--xs g-margin-b-100--xs g-margin-b-250--md bgblog-white">
-                <h1 class="g-font-size-36--xs g-font-size-50--sm g-font-size-60--md">More Than A Just A Blog</h1>
-            </div>
         </div>
     </section>
     <!--========== END PROMO BLOCK ==========-->
@@ -39,7 +36,36 @@
                 </p>
             </div>
         </div>
-        <!--/.our-skill--><!-- our-team -->
+        <div class="row">
+            <div class="col-sm-3">
+                <div class="sinlge-skill wow fadeInDown animated animated" data-wow-delay="300ms" data-wow-duration="1000ms" style="visibility: visible; animation-duration: 1000ms; animation-delay: 300ms; animation-name: fadeInDown;">
+                    <div class="joomla-skill">
+                        <p>Messaging</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-3">
+                <div class="sinlge-skill wow fadeInDown animated animated" data-wow-delay="600ms" data-wow-duration="1000ms" style="visibility: visible; animation-duration: 1000ms; animation-delay: 600ms; animation-name: fadeInDown;">
+                    <div class="html-skill">
+                        <p>Voice</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-3">
+                <div class="sinlge-skill wow fadeInDown animated animated" data-wow-delay="900ms" data-wow-duration="1000ms" style="visibility: visible; animation-duration: 1000ms; animation-delay: 900ms; animation-name: fadeInDown;">
+                    <div class="css-skill">
+                        <p>Video</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-3">
+                <div class="sinlge-skill wow fadeInDown animated animated" data-wow-delay="1200ms" data-wow-duration="1000ms" style="visibility: visible; animation-duration: 1000ms; animation-delay: 1200ms; animation-name: fadeInDown;">
+                    <div class="wp-skill">
+                        <p>Authentication</p>
+                    </div>
+                </div>
+            </div>
+        </div>
         <!--section-->
     </div>
     <!--========== END PAGE CONTENT ==========-->
@@ -47,30 +73,7 @@
         include "footer.php";
     ?>
 
-    <!--========== JAVASCRIPTS (Load javascripts at bottom, this will reduce page load time) ==========-->
-    <!-- Vendor -->
-    <script type="text/javascript" src="vendor/jquery.min.js"></script>
-    <script type="text/javascript" src="vendor/jquery.migrate.min.js"></script>
-    <script type="text/javascript" src="vendor/bootstrap/js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="vendor/jquery.smooth-scroll.min.js"></script>
-    <script type="text/javascript" src="vendor/jquery.back-to-top.min.js"></script>
-    <script type="text/javascript" src="vendor/scrollbar/jquery.scrollbar.min.js"></script>
-    <script type="text/javascript" src="vendor/vidbg.min.js"></script>
-    <script type="text/javascript" src="vendor/cubeportfolio/js/jquery.cubeportfolio.min.js"></script>
-    <script type="text/javascript" src="vendor/waypoint.min.js"></script>
-    <script type="text/javascript" src="vendor/counterup.min.js"></script>
-    <script type="text/javascript" src="vendor/swiper/swiper.jquery.min.js"></script>
-    <script type="text/javascript" src="vendor/jquery.wow.min.js"></script>
-
-    <!-- General Components and Settings -->
-    <script type="text/javascript" src="js/global.min.js"></script>
-    <script type="text/javascript" src="js/components/header-sticky.min.js"></script>
-    <script type="text/javascript" src="js/components/scrollbar.min.js"></script>
-    <script type="text/javascript" src="js/components/portfolio-4-col-slider.min.js"></script>
-    <script type="text/javascript" src="js/components/counter.min.js"></script>
-    <script type="text/javascript" src="js/components/swiper.min.js"></script>
-    <script type="text/javascript" src="js/components/wow.min.js"></script>
-    <!--========== END JAVASCRIPTS ==========-->
-
+<script type="text/javascript" src="vendor/vidbg.min.js"></script>
+<script type="text/javascript" src="js/components/swiper.min.js"></script>
 </body>
 <!-- End Body -->

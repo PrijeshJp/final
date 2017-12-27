@@ -10,7 +10,7 @@
             <div class="g-fullheight--xs g-bg-position--center swiper-slide" style="background: url('img/1920x1080/image-laptop.jpg');">
                 <div class="container g-text-center--xs g-ver-center--xs">
                     <div class="g-margin-b-30--xs">
-                        <h1 class="g-font-size-35--xs g-font-size-45--sm g-font-size-55--md g-color--white">A Mobile Experience<br>That Inspires Travel</h1>
+                        <h1 class="g-font-size-35--xs g-font-size-45--sm g-font-size-55--md g-color--white">Software Development<br> Perfection at <br>its finest.</h1>
                     </div>
                 </div>
             </div>
@@ -133,18 +133,18 @@
     <!-- End Features -->
 
     <!-- Parallax -->
-    <div class="js__parallax-window" style="background: url(img/1920x1080/laptop2.png) 50% 0 no-repeat fixed;">
+    <!-- <div class="js__parallax-window" style="background: url(img/1920x1080/laptop2.png) 50% 0 no-repeat fixed;">
         <div class="container g-text-center--xs g-padding-y-80--xs g-padding-y-125--sm">
             <div class="g-margin-b-80--xs">
                 <h2 class="g-font-size-40--xs g-font-size-50--sm g-font-size-60--md g-color--white"></h2>
             </div>
             <a href="" class="text-uppercase s-btn s-btn--md s-btn--white-brd g-radius--50">Know more about us</a>
         </div>
-    </div>
+    </div> -->
     <!-- End Parallax -->
 
     <!-- Culture -->
-    <div class="g-promo-section">
+    <div class="g-promo-section g-bg-color--sky-light">
         <div class="container g-padding-y-80--xs g-padding-y-125--sm">
             <div class="row">
                 <div class="col-md-4 g-margin-t-15--xs g-margin-b-60--xs g-margin-b-0--lg">
@@ -170,9 +170,9 @@
     <!-- End Culture -->
 
     <!-- Subscribe -->
-    <div class="js__parallax-window" style="background: url(img/1920x1080/sf1.png) 50% 0 no-repeat fixed;">
+    <!-- <div class="js__parallax-window" style="background: url(img/1920x1080/sf1.png) 50% 0 no-repeat fixed;">
         <div class="g-container--sm g-text-center--xs g-padding-y-80--xs g-padding-y-125--sm">
-            <!-- <div class="g-margin-b-80--xs">
+            <div class="g-margin-b-80--xs">
                 <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--white-opacity g-letter-spacing--2 g-margin-b-25--xs">Subscribe</p>
                 <h2 class="g-font-size-32--xs g-font-size-36--md g-color--white">Join Over 1000+ People</h2>
             </div>
@@ -185,9 +185,9 @@
                         </span>
                     </form>
                 </div>
-            </div> -->
+            </div>
         </div>
-    </div>
+    </div> -->
     <!-- End Subscribe -->
 
     <!-- Portfolio Filter -->
