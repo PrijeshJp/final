@@ -65,13 +65,11 @@
                             <a href="javascript:void(0);" class="dropdown-toggle s-header-v2__nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Services <span class="g-font-size-10--xs g-margin-l-5--xs ti-angle-down"></span></a>
                             <ul class="dropdown-menu s-header-v2__dropdown-menu">
                                 <li><a href="salesforce.php" class="s-header-v2__dropdown-menu-link">Salesforce</a></li>
-                                <!-- <li><a href="heroku.php" class="s-header-v2__dropdown-menu-link">Heroku Integrations</a></li> -->
-                                <li><a href="java.php" class="s-header-v2__dropdown-menu-link">Java Development</a></li>
                                 <li><a href="outsystems.php" class="s-header-v2__dropdown-menu-link">OutSystems</a></li>
-                                <!-- <li><a href="twilio.php" class="s-header-v2__dropdown-menu-link">Twilio Integrations</a></li>
-                                <li><a href="sap.php" class="s-header-v2__dropdown-menu-link">SAP ABAP</a></li> -->
-                                <li><a href="oracle.php" class="s-header-v2__dropdown-menu-link">Oracle Consulting</a></li>
-                                <li><a href="digitalpractice.php" class="s-header-v2__dropdown-menu-link">Digital Practice</a></li>
+                                <li><a href="iotblog.php" class="s-header-v2__dropdown-menu-link">IOT Integrations</a></li>
+                                <li><a href="heroku.php" class="s-header-v2__dropdown-menu-link">Heroku Integrations</a></li>
+                                <li><a href="java.php" class="s-header-v2__dropdown-menu-link">Java Development</a></li>
+                                <li><a href="twilio.php" class="s-header-v2__dropdown-menu-link">Twilio Integrations</a></li>
                             </ul>
                         </li>
                         <!-- End Services -->
@@ -79,11 +77,9 @@
                         <li class="dropdown s-header-v2__nav-item s-header-v2__dropdown-on-hover">
                             <a href="javascript:void(0);" class="dropdown-toggle s-header-v2__nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Blog <span class="g-font-size-10--xs g-margin-l-5--xs ti-angle-down"></span></a>
                             <ul class="dropdown-menu s-header-v2__dropdown-menu">
-                                <li><a href="iotblog.php" class="s-header-v2__dropdown-menu-link">IOT Integrations</a></li>
-                                <li><a href="heroku.php" class="s-header-v2__dropdown-menu-link">Heroku Integrations</a></li>
-                                <li><a href="twilio.php" class="s-header-v2__dropdown-menu-link">Twilio Integrations</a></li>
-                                <li><a href="sap.php" class="s-header-v2__dropdown-menu-link">SAP ABAP</a></li>
                                 <li><a href="oracle.php" class="s-header-v2__dropdown-menu-link">Oracle Consulting</a></li>
+                                <li><a href="digitalpractice.php" class="s-header-v2__dropdown-menu-link">Digital Practice</a></li>
+                                <li><a href="sap.php" class="s-header-v2__dropdown-menu-link">SAP ABAP</a></li>
                             </ul>
                         </li>
                         <!-- End Blog -->

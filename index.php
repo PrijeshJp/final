@@ -18,7 +18,7 @@
                 <div class="container g-text-center--xs g-ver-center--xs">
                     <div class="g-margin-b-30--xs">
                         <div class="g-margin-b-30--xs">
-                            <h2 class="g-font-size-35--xs g-font-size-45--sm g-font-size-55--md g-color--white">We Craft Experience<br>That Help Brands<br>Stand Out</h2>
+                            <h2 class="g-font-size-35--xs g-font-size-45--sm g-font-size-55--md g-color--white">Feel the Ontime delivery!</h2>
                         </div>
                     </div>
                 </div>
@@ -31,7 +31,7 @@
         <a href="javascript:void(0);" class="s-swiper__arrow-v1--left s-icon s-icon--md s-icon--white-brd g-radius--circle ti-angle-left js__swiper-btn--prev"></a>
         <!-- End Arrows -->
         
-        <a href="#js__scroll-to-section" class="s-scroll-to-section-v1--bc g-margin-b-15--xs">
+        <a href="#js__scroll-to-section" class="s-scroll-to-section-v1--bc g-margin-b-15--xs scroll-down">
             <span class="g-font-size-18--xs g-color--white ti-angle-double-down"></span>
             <p class="text-uppercase g-color--white g-letter-spacing--3 g-margin-b-0--xs">Learn More</p>
         </a>
@@ -42,20 +42,21 @@
     <!-- Features -->
     <div class="container g-padding-y-80--xs g-padding-y-125--sm">
         <div class="g-text-center--xs g-margin-b-100--xs">
-            <p id="js__scroll-to-section" class="g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs">Welcome to Minuscule Technologies Ltd.</p>
-            <h2 class="g-font-size-32--xs g-font-size-36--md">We Create Beautiful Experiences <br> That Drive Successful Businesses.</h2>
+            <!-- <p id="js__scroll-to-section" class="g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs">Welcome to Minuscule Technologies Ltd.</p> -->
+            <h2 id="js__scroll-to-section" class="g-font-size-32--xs g-font-size-36--md">We're Serious About  <br> Software Development</h2>
         </div>
         <div class="row g-margin-b-60--xs g-margin-b-70--md">
             <div class="col-sm-4 g-margin-b-60--xs g-margin-b-0--md">
                 <div class="clearfix">
                     <div class="g-media g-width-30--xs">
                         <div class="wow fadeInDown" data-wow-duration=".3" data-wow-delay=".1s">
-                            <i class="g-font-size-28--xs g-color--primary ti-desktop"></i>
+                            <!-- <i class="g-font-size-28--xs g-color--primary ti-desktop"></i> -->
+                            <img src="img/icons/crm.png" alt="crm">
                         </div>
                     </div>
                     <div class="g-media__body g-padding-x-20--xs">
-                        <h3 class="g-font-size-18--xs">Responsive Layout</h3>
-                        <p class="g-margin-b-0--xs">This is where we sit down, grab a cup of coffee and dial in the details.</p>
+                        <h3 class="g-font-size-18--xs">CRM & PaaS</h3>
+                        <p class="g-margin-b-0--xs">We deliver superior customer experience with custom solutions.</p>
                     </div>
                 </div>
             </div>
@@ -63,12 +64,13 @@
                 <div class="clearfix">
                     <div class="g-media g-width-30--xs">
                         <div class="wow fadeInDown" data-wow-duration=".3" data-wow-delay=".2s">
-                            <i class="g-font-size-28--xs g-color--primary ti-settings"></i>
+                            <!-- <i class="g-font-size-28--xs g-color--primary ti-settings"></i> -->
+                            <img src="img/icons/programming.png" alt="crm">
                         </div>
                     </div>
                     <div class="g-media__body g-padding-x-20--xs">
-                        <h3 class="g-font-size-18--xs">Fully Customizable</h3>
-                        <p class="g-margin-b-0--xs">This is where we sit down, grab a cup of coffee and dial in the details.</p>
+                        <h3 class="g-font-size-18--xs">Application Development</h3>
+                        <p class="g-margin-b-0--xs">Application and maintenance solutions to drive efficiency and effectiveness.</p>
                     </div>
                 </div>
             </div>
@@ -80,8 +82,8 @@
                         </div>
                     </div>
                     <div class="g-media__body g-padding-x-20--xs">
-                        <h3 class="g-font-size-18--xs">Pixel Perfect</h3>
-                        <p class="g-margin-b-0--xs">This is where we sit down, grab a cup of coffee and dial in the details.</p>
+                        <h3 class="g-font-size-18--xs">Web & Mobile App Development</h3>
+                        <p class="g-margin-b-0--xs">Design and develop digital products with a user centric approach.</p>
                     </div>
                 </div>
             </div>
@@ -96,8 +98,8 @@
                         </div>
                     </div>
                     <div class="g-media__body g-padding-x-20--xs">
-                        <h3 class="g-font-size-18--xs">Endless Possibilities</h3>
-                        <p class="g-margin-b-0--xs">This is where we sit down, grab a cup of coffee and dial in the details.</p>
+                        <h3 class="g-font-size-18--xs">Digital Solutions</h3>
+                        <p class="g-margin-b-0--xs">We help clients to implement Digital Transformation by unifying business and technology. </p>
                     </div>
                 </div>
             </div>
@@ -109,8 +111,8 @@
                         </div>
                     </div>
                     <div class="g-media__body g-padding-x-20--xs">
-                        <h3 class="g-font-size-18--xs">Powerful Performance</h3>
-                        <p class="g-margin-b-0--xs">This is where we sit down, grab a cup of coffee and dial in the details.</p>
+                        <h3 class="g-font-size-18--xs">Quality Assurance Services</h3>
+                        <p class="g-margin-b-0--xs">QA services that focuses primarily on Software Quality Assurance in a business process context.</p>
                     </div>
                 </div>
             </div>
@@ -122,8 +124,8 @@
                         </div>
                     </div>
                     <div class="g-media__body g-padding-x-20--xs">
-                        <h3 class="g-font-size-18--xs">Parallax Support</h3>
-                        <p class="g-margin-b-0--xs">This is where we sit down, grab a cup of coffee and dial in the details.</p>
+                        <h3 class="g-font-size-18--xs">Latest Thinking</h3>
+                        <p class="g-margin-b-0--xs">Being a polyglot technology team, we do work on latest trends to foster Innovation & Engineering the Future.</p>
                     </div>
                 </div>
             </div>
@@ -131,23 +133,10 @@
         <!-- // end row  -->
     </div>
     <!-- End Features -->
-
-    <!-- Parallax -->
-    <!-- <div class="js__parallax-window" style="background: url(img/1920x1080/laptop2.png) 50% 0 no-repeat fixed;">
-        <div class="container g-text-center--xs g-padding-y-80--xs g-padding-y-125--sm">
-            <div class="g-margin-b-80--xs">
-                <h2 class="g-font-size-40--xs g-font-size-50--sm g-font-size-60--md g-color--white"></h2>
-            </div>
-            <a href="" class="text-uppercase s-btn s-btn--md s-btn--white-brd g-radius--50">Know more about us</a>
-        </div>
-    </div> -->
-    <!-- End Parallax -->
-
-    <!-- Culture -->
     <div class="g-promo-section g-bg-color--sky-light">
         <div class="container g-padding-y-80--xs g-padding-y-125--sm">
             <div class="row">
-                <div class="col-md-4 g-margin-t-15--xs g-margin-b-60--xs g-margin-b-0--lg">
+                <!-- <div class="col-md-4 g-margin-t-15--xs g-margin-b-60--xs g-margin-b-0--lg">
                     <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs">Culture</p>
                     <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".1s">
                         <h2 class="g-font-size-40--xs g-font-size-50--sm g-font-size-60--md">About</h2>
@@ -155,11 +144,15 @@
                     <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".3s">
                         <h2 class="g-font-size-40--xs g-font-size-50--sm g-font-size-60--md">Minuscule</h2>
                     </div>
-                </div>
-                <div class="col-md-4 col-md-offset-1">
-                        
-                    <p class="g-font-size-18--xs"> Minuscule Technologies, an Indian based company was founded by a group of passionate technology people in 2006. They had worked at great places with great clients, but they wanted to create their own - a company where a big IT expertise is merged with a small firm's personal approach and focus.</p>
-                    <p class="g-font-size-18--xs">Minuscule has top-notch talents for Software design, Architecture, Creative and Responsive UI/UX, Mobile App Development, Digital Marketing and Testing. Minuscule serves multiple clients on different technology stacks.</p>                        
+                </div> -->
+                
+                <div class="col-md-7 col-md-offset-1">
+                    <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".1s">
+                            <h2 class="g-font-size-40--xs g-font-size-50--sm g-font-size-60--md">About Minuscule</h2>
+                    </div>
+                    <p class="g-font-size-18--xs wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".3s"> Minuscule Technologies, an Indian software development company, was founded in 2006 by a group of people who are passionate about technology. Our  expertise cover everything from product development to service support. The core team  includes skilled personnel who have experience working with global companies that develop products  and/or serving clients. The motto of  Minuscule Technologies is to leverage the team's technical and domain expertise and work with clients  to help them empower their businesses by creating cutting edge software solutions.</p>
+                    <p class="g-font-size-18--xs wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".4s">Minuscule Technologies has top-notch talents for Software design, Architecture, Creative and Responsive UI/UX, Mobile App Development, Digital Marketing and Quality Assurance Services. The company believes in using different platforms/technologies to find out-of-box solutions for issues that otherwise might throw off others. At Minuscule, we do not give up, we just try harder and harder till we find the solution.</p>                       
+                    <p class="g-font-size-18--xs wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".5s">Minuscule serves multiple clients on different technologies stacks across the globe through state of the art delivery facility and follows the best practices, methodologies and processes  for software development to deliver quality output on time every time</p> 
                 </div>
             </div>
         </div>
@@ -168,27 +161,6 @@
         </div>
     </div>
     <!-- End Culture -->
-
-    <!-- Subscribe -->
-    <!-- <div class="js__parallax-window" style="background: url(img/1920x1080/sf1.png) 50% 0 no-repeat fixed;">
-        <div class="g-container--sm g-text-center--xs g-padding-y-80--xs g-padding-y-125--sm">
-            <div class="g-margin-b-80--xs">
-                <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--white-opacity g-letter-spacing--2 g-margin-b-25--xs">Subscribe</p>
-                <h2 class="g-font-size-32--xs g-font-size-36--md g-color--white">Join Over 1000+ People</h2>
-            </div>
-            <div class="row">
-                <div class="col-sm-6 col-sm-offset-3 col-xs-10 col-xs-offset-1">
-                    <form class="input-group">
-                        <input type="email" class="form-control s-form-v1__input g-radius--left-50" name="email" placeholder="Enter your email">
-                        <span class="input-group-btn">
-                            <button type="submit" class="s-btn s-btn-icon--md s-btn-icon--white-brd s-btn--white-brd g-radius--right-50"><i class="ti-arrow-right"></i></button>
-                        </span>
-                    </form>
-                </div>
-            </div>
-        </div>
-    </div> -->
-    <!-- End Subscribe -->
 
     <!-- Portfolio Filter -->
     <div class="container g-padding-y-80--xs">
@@ -1111,7 +1083,6 @@
     <!-- Blog -->
     <div class="container g-padding-y-80--xs g-padding-y-125--sm">
         <div class="g-text-center--xs g-margin-b-80--xs">
-            <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs">Blog</p>
             <h2 class="g-font-size-32--xs g-font-size-36--md">Latest Blog</h2>
         </div>
         <div class="row">
@@ -1160,49 +1131,6 @@
         </div>
     </div>
     <!-- End Blog -->
-
-    <!-- Counter -->
-    <div class="js__parallax-window" style="background: url(img/1920x1080/06.jpg) 50% 0 no-repeat fixed;">
-        <div class="container g-padding-y-80--xs g-padding-y-125--sm">
-            <div class="row">
-                <div class="col-md-3 col-xs-6 g-full-width--xs g-margin-b-70--xs g-margin-b-0--lg">
-                    <div class="g-text-center--xs">
-                        <div class="g-margin-b-10--xs">
-                            <figure class="g-display-inline-block--xs g-font-size-70--xs g-color--white js__counter">6</figure>
-                            <span class="g-font-size-40--xs g-color--white">k</span>
-                        </div>
-                        <div class="center-block g-hor-divider__solid--white g-width-40--xs g-margin-b-25--xs"></div>
-                        <h4 class="g-font-size-18--xs g-color--white">Lines of Code</h4>
-                    </div>
-                </div>
-                <div class="col-md-3 col-xs-6 g-full-width--xs g-margin-b-70--xs g-margin-b-0--lg">
-                    <div class="g-text-center--xs">
-                        <figure class="g-display-block--xs g-font-size-70--xs g-color--white g-margin-b-10--xs js__counter">5</figure>
-                        <div class="center-block g-hor-divider__solid--white g-width-40--xs g-margin-b-25--xs"></div>
-                        <h4 class="g-font-size-18--xs g-color--white">Award Winners</h4>
-                    </div>
-                </div>
-                <div class="col-md-3 col-xs-6 g-full-width--xs g-margin-b-70--xs g-margin-b-0--sm">
-                    <div class="g-text-center--xs">
-                        <figure class="g-display-block--xs g-font-size-70--xs g-color--white g-margin-b-10--xs js__counter">15</figure>
-                        <div class="center-block g-hor-divider__solid--white g-width-40--xs g-margin-b-25--xs"></div>
-                        <h4 class="g-font-size-18--xs g-color--white">Multiple Pages</h4>
-                    </div>
-                </div>
-                <div class="col-md-3 col-xs-6 g-full-width--xs">
-                    <div class="g-text-center--xs">
-                        <div class="g-margin-b-10--xs">
-                            <figure class="g-display-inline-block--xs g-font-size-70--xs g-color--white js__counter">2</figure>
-                            <span class="g-font-size-40--xs g-color--white">x</span>
-                        </div>
-                        <div class="center-block g-hor-divider__solid--white g-width-40--xs g-margin-b-25--xs"></div>
-                        <h4 class="g-font-size-18--xs g-color--white">Faster Support</h4>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- End Counter -->
 
     <!-- Feedback Form -->
     <div class="g-bg-color--sky-light">

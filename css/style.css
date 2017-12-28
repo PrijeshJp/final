@@ -2383,6 +2383,7 @@ fieldset[disabled] .s-btn {
   font-weight: 300;
   color: white;
 }
+/* jp */
 /* service */
 .bgservice{
   background-image: url('../img/1920x1080/SalesForce_Banner.jpg');
@@ -2538,4 +2539,32 @@ em > a:hover, li > a:hover {
   margin: auto !important;
   height: 25px;
   line-height: 25px;
+}
+.blink {
+  animation: blink-animation 1s steps(5, start) infinite;
+  -webkit-animation: blink-animation 1s steps(5, start) infinite;
+}
+@keyframes blink-animation {
+  to {
+    visibility: hidden;
+  }
+}
+@-webkit-keyframes blink-animation {
+  to {
+    visibility: hidden;
+  }
+}
+
+.scroll-down {
+  opacity: 1;
+  -webkit-transition: all .5s ease-in 3s;
+  transition: all .5s ease-in 3s;
+}
+
+.scroll-down {
+  z-index: 2;
+  -webkit-animation: bounce 2s infinite 2s;
+  animation: bounce 2s infinite 2s;
+  -webkit-transition: all .2s ease-in;
+  transition: all .2s ease-in;
 }
