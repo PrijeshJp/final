@@ -34,15 +34,6 @@
                 <p class="lead">
                     We have extensive expertise in developing and delivering enterprise web and mobile applications in platform as a service (PaaS) product like OutSystems which run in the cloud, on-premises or in hybrid environments. Following are some of the integrations that we have developed.
                     <br>
-                </p>
-            </div>
-        </div>
-        <div class="skill-wrap clearfix">
-            <div class="wow fadeInDown animated" style="visibility: visible; animation-name: fadeInDown;">
-                OutSystems Solutions
-                <p class="lead">
-                    We have extensive expertise in developing and delivering enterprise web and mobile applications in platform as a service (PaaS) product like OutSystems which run in the cloud, on-premises or in hybrid environments. Following are some of the integrations that we have developed.
-                    <br>
                     <ul>				
                         <li>Building mobile apps, web portals</li>
                         <li>Implementing Single Sign-On in OutSystems applications using IDP connector</li>

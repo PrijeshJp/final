@@ -78,7 +78,8 @@
                 <div class="clearfix">
                     <div class="g-media g-width-30--xs">
                         <div class="wow fadeInDown" data-wow-duration=".3" data-wow-delay=".3s">
-                            <i class="g-font-size-28--xs g-color--primary ti-ruler-alt-2"></i>
+                            <!-- <i class="g-font-size-28--xs g-color--primary ti-ruler-alt-2"></i> -->
+                            <img src="img/icons/mob.png" alt="Mobile Development">
                         </div>
                     </div>
                     <div class="g-media__body g-padding-x-20--xs">
@@ -94,7 +95,8 @@
                 <div class="clearfix">
                     <div class="g-media g-width-30--xs">
                         <div class="wow fadeInDown" data-wow-duration=".3" data-wow-delay=".4s">
-                            <i class="g-font-size-28--xs g-color--primary ti-package"></i>
+                            <!-- <i class="g-font-size-28--xs g-color--primary ti-package"></i> -->
+                            <img src="img/icons/think.png" alt="">
                         </div>
                     </div>
                     <div class="g-media__body g-padding-x-20--xs">
@@ -107,7 +109,8 @@
                 <div class="clearfix">
                     <div class="g-media g-width-30--xs">
                         <div class="wow fadeInDown" data-wow-duration=".3" data-wow-delay=".5s">
-                            <i class="g-font-size-28--xs g-color--primary ti-star"></i>
+                            <!-- <i class="g-font-size-28--xs g-color--primary ti-star"></i> -->
+                            <img src="img/icons/award.png" alt="QA">
                         </div>
                     </div>
                     <div class="g-media__body g-padding-x-20--xs">
@@ -120,7 +123,8 @@
                 <div class="clearfix">
                     <div class="g-media g-width-30--xs">
                         <div class="wow fadeInDown" data-wow-duration=".3" data-wow-delay=".6s">
-                            <i class="g-font-size-28--xs g-color--primary ti-panel"></i>
+                            <!-- <i class="g-font-size-28--xs g-color--primary ti-panel"></i> -->
+                            <img src="img/icons/idea.png" alt="Idea">
                         </div>
                     </div>
                     <div class="g-media__body g-padding-x-20--xs">
