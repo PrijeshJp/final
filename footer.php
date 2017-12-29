@@ -41,6 +41,7 @@
         <script type="text/javascript" src="vendor/jquery.min.js"></script>
         <script type="text/javascript" src="vendor/jquery.migrate.min.js"></script>
         <script type="text/javascript" src="vendor/bootstrap/js/bootstrap.min.js"></script>
+        <script type="text/javascript" src="vendor/vidbg.min.js"></script>
         <script type="text/javascript" src="vendor/jquery.smooth-scroll.min.js"></script>
         <script type="text/javascript" src="vendor/jquery.back-to-top.min.js"></script>
         <script type="text/javascript" src="vendor/scrollbar/jquery.scrollbar.min.js"></script>
@@ -48,7 +49,6 @@
         <script type="text/javascript" src="vendor/waypoint.min.js"></script>
         <script type="text/javascript" src="vendor/counterup.min.js"></script>
         <script type="text/javascript" src="vendor/cubeportfolio/js/jquery.cubeportfolio.min.js"></script>
-        <!-- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBsXUGTFS09pLVdsYEE9YrO2y4IAncAO2U"></script> -->
         <script type="text/javascript" src="vendor/jquery.wow.min.js"></script>
 
         <!-- General Components and Settings -->
@@ -59,3 +59,4 @@
         <script type="text/javascript" src="js/components/counter.min.js"></script>
         <script type="text/javascript" src="js/components/portfolio-3-col.min.js"></script>
         <script type="text/javascript" src="js/components/wow.min.js"></script>
+        

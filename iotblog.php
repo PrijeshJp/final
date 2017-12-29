@@ -1,7 +1,13 @@
-<?php
-    include "nav.php";
-?>
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+<head>  
+    <?php
+        include "script.php";
+    ?>
 <body>
+    <?php
+        include "nav.php";
+    ?>
     <section class="bgiot">
         <div class="container g-position--overlay g-text-center--xs">
 

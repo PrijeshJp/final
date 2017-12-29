@@ -1,10 +1,27 @@
-<?php
-    include ("nav.php");
-?>
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+<head>          
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Twilio API integration and development for Messaging, Voice, Video and Authentication - Minuscule Technologies</title>
+    <meta name="description" content="Developing and integrating IVR with Twilio, TwiML Voice, TwiML SMS, Appointment Reminders, Automated Phone Order and Payment Verification, Integrations for Emergency Call, Customer Click to Call, SMS, Twilio REST API with CodeIgniter.">
+    <meta name="author" content="">
+    <link rel="canonical" href="http://www.minusculetechnologies.com/twilio.html" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Twilio API integration and development for Messaging, Voice, Video and Authentication - Minuscule Technologies" />
+    <meta property="og:description" content="Developing and integrating Twilio API for Messaging, Voice, Video and Authentication by Minuscule Technologies " />
+    <meta property="og:url" content="http://www.minusculetechnologies.com/twilio.html" />
+    <meta charset="utf-8">
+    <?php
+        include "script.php";
+    ?>
+</head>
 <!-- Body -->
 <body>
-    <!--========== END HEADER ==========-->
-
+    <?php
+        include ("nav.php");
+    ?>
     <!--========== PROMO BLOCK ==========-->
     <section class="bgblog" >
         <div class="container g-position--overlay g-text-center--xs">

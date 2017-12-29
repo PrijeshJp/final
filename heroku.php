@@ -1,17 +1,41 @@
-<?php
-    include ("nav.php");
-?>
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+<head>  
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>Heroku Solutions | Minuscule Technologies</title>
+    
+    <!-- core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+    <link href="css/prettyPhoto.css" rel="stylesheet">
+    <link href="css/animate.min.css" rel="stylesheet">
+    <link href="css/main.css" rel="stylesheet">
+    <link href="css/responsive.css" rel="stylesheet">
+    
+    <!--[if lt IE 9]>
+    <script src="js/html5shiv.js"></script>
+    <script src="js/respond.min.js"></script>
+    <![endif]-->       
+    <link rel="shortcut icon" href="images/ico/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="images/ico/apple-touch-icon-57-precomposed.png">
+    <?php
+        include "script.php";
+    ?>
+</head>
+
 <!-- Body -->
 <body>
-    <!--========== END HEADER ==========-->
-
+    <?php
+        include ("nav.php");
+    ?>
     <!--========== PROMO BLOCK ==========-->
     <section class="bgblog" >
-        <!-- <div class="container g-position--overlay g-text-center--xs">
-            <div class="g-padding-y-50--xs g-margin-t-100--xs g-margin-b-100--xs g-margin-b-250--md">
-                <h1 class="g-font-size-36--xs g-font-size-50--sm g-font-size-60--md">More Than A Just A Blog</h1>
-            </div>
-        </div> -->
     </section>
     <!--========== END PROMO BLOCK ==========-->
     <!--========== PAGE CONTENT ==========-->
@@ -47,38 +71,11 @@
                 </p>
             </div>
         </div>
-        <!--/.our-skill--><!-- our-team -->
         <!--section-->
     </div>
     <!--========== END PAGE CONTENT ==========-->
     <?php
         include "footer.php";
     ?>
-
-    <!--========== JAVASCRIPTS (Load javascripts at bottom, this will reduce page load time) ==========-->
-    <!-- Vendor -->
-    <script type="text/javascript" src="vendor/jquery.min.js"></script>
-    <script type="text/javascript" src="vendor/jquery.migrate.min.js"></script>
-    <script type="text/javascript" src="vendor/bootstrap/js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="vendor/jquery.smooth-scroll.min.js"></script>
-    <script type="text/javascript" src="vendor/jquery.back-to-top.min.js"></script>
-    <script type="text/javascript" src="vendor/scrollbar/jquery.scrollbar.min.js"></script>
-    <script type="text/javascript" src="vendor/vidbg.min.js"></script>
-    <script type="text/javascript" src="vendor/cubeportfolio/js/jquery.cubeportfolio.min.js"></script>
-    <script type="text/javascript" src="vendor/waypoint.min.js"></script>
-    <script type="text/javascript" src="vendor/counterup.min.js"></script>
-    <script type="text/javascript" src="vendor/swiper/swiper.jquery.min.js"></script>
-    <script type="text/javascript" src="vendor/jquery.wow.min.js"></script>
-
-    <!-- General Components and Settings -->
-    <script type="text/javascript" src="js/global.min.js"></script>
-    <script type="text/javascript" src="js/components/header-sticky.min.js"></script>
-    <script type="text/javascript" src="js/components/scrollbar.min.js"></script>
-    <script type="text/javascript" src="js/components/portfolio-4-col-slider.min.js"></script>
-    <script type="text/javascript" src="js/components/counter.min.js"></script>
-    <script type="text/javascript" src="js/components/swiper.min.js"></script>
-    <script type="text/javascript" src="js/components/wow.min.js"></script>
-    <!--========== END JAVASCRIPTS ==========-->
-
 </body>
 <!-- End Body -->

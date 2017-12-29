@@ -1,10 +1,27 @@
-<?php
-    include ("nav.php");
-?>
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+<head>  
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OutSystems consulting and development solutions outsourcing for rapid enterprise web applications agile development - Minuscule Technologies</title>
+    <meta name="description" content="Expertise in consulting and developing solutions on rapid low code PAAS application delivery platform, Platform as a service (PaaS) like OutSystems from Minuscule Technologies">
+    <meta name="author" content="">
+    <link rel="canonical" href="http://www.minusculetechnologies.com/outsystems.html" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="OutSystems consulting and development solutions outsourcing for rapid enterprise web applications agile development by Minuscule Technologies" />
+    <meta property="og:description" content="Expertise in consulting and developing solutions on rapid application delivery platform, Platform as a service (PaaS) like OutSystems from Minuscule Technologies " />
+    <meta property="og:url" content="http://www.minusculetechnologies.com/outsystems.html" />
+    <meta charset="utf-8">
+    <?php
+        include "script.php";
+    ?>
+</head>
 <!-- Body -->
 <body>
-    <!--========== END HEADER ==========-->
-
+    <?php
+        include ("nav.php");
+    ?>
     <!--========== PROMO BLOCK ==========-->
     <section class="bgout" >
         <div class="container g-position--overlay g-text-center--xs">
@@ -85,31 +102,5 @@
     <?php
         include "footer.php";
     ?>
-
-    <!--========== JAVASCRIPTS (Load javascripts at bottom, this will reduce page load time) ==========-->
-    <!-- Vendor -->
-    <script type="text/javascript" src="vendor/jquery.min.js"></script>
-    <script type="text/javascript" src="vendor/jquery.migrate.min.js"></script>
-    <script type="text/javascript" src="vendor/bootstrap/js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="vendor/jquery.smooth-scroll.min.js"></script>
-    <script type="text/javascript" src="vendor/jquery.back-to-top.min.js"></script>
-    <script type="text/javascript" src="vendor/scrollbar/jquery.scrollbar.min.js"></script>
-    <script type="text/javascript" src="vendor/vidbg.min.js"></script>
-    <script type="text/javascript" src="vendor/cubeportfolio/js/jquery.cubeportfolio.min.js"></script>
-    <script type="text/javascript" src="vendor/waypoint.min.js"></script>
-    <script type="text/javascript" src="vendor/counterup.min.js"></script>
-    <script type="text/javascript" src="vendor/swiper/swiper.jquery.min.js"></script>
-    <script type="text/javascript" src="vendor/jquery.wow.min.js"></script>
-
-    <!-- General Components and Settings -->
-    <script type="text/javascript" src="js/global.min.js"></script>
-    <script type="text/javascript" src="js/components/header-sticky.min.js"></script>
-    <script type="text/javascript" src="js/components/scrollbar.min.js"></script>
-    <script type="text/javascript" src="js/components/portfolio-4-col-slider.min.js"></script>
-    <script type="text/javascript" src="js/components/counter.min.js"></script>
-    <script type="text/javascript" src="js/components/swiper.min.js"></script>
-    <script type="text/javascript" src="js/components/wow.min.js"></script>
-    <!--========== END JAVASCRIPTS ==========-->
-
 </body>
 <!-- End Body -->
