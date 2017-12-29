@@ -2386,7 +2386,7 @@ fieldset[disabled] .s-btn {
 /* jp */
 /* service */
 .bgservice{
-  background-image: url('../img/1920x1080/SalesForce_Banner.jpg');
+  background-image: url('../img/1920x1080/SalesForce_Banner.png');
   position: relative;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2430,6 +2430,13 @@ em > a:hover, li > a:hover {
 
 .bgblog{
   background-image: url('../img/1920x1080/herokubanner.jpg');
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 90vh;
+  }
+.bgout{
+  background-image: url('../img/1920x1080/outsystemban.jpg');
   position: relative;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2567,4 +2574,8 @@ em > a:hover, li > a:hover {
   animation: bounce 2s infinite 2s;
   -webkit-transition: all .2s ease-in;
   transition: all .2s ease-in;
+}
+
+.rad{
+  border: 2px solid !important;
 }

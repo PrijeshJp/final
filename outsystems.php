@@ -6,11 +6,8 @@
     <!--========== END HEADER ==========-->
 
     <!--========== PROMO BLOCK ==========-->
-    <section class="bgblog" >
+    <section class="bgout" >
         <div class="container g-position--overlay g-text-center--xs">
-            <div class="g-padding-y-50--xs g-margin-t-100--xs g-margin-b-100--xs g-margin-b-250--md bgblog-white">
-                <h1 class="g-font-size-36--xs g-font-size-50--sm g-font-size-60--md">More Than A Just A Blog</h1>
-            </div>
         </div>
     </section>
     <!--========== END PROMO BLOCK ==========-->
@@ -34,37 +31,53 @@
                 <p class="lead">
                     We have extensive expertise in developing and delivering enterprise web and mobile applications in platform as a service (PaaS) product like OutSystems which run in the cloud, on-premises or in hybrid environments. Following are some of the integrations that we have developed.
                     <br>
-                    <ul>				
-                        <li>Building mobile apps, web portals</li>
-                        <li>Implementing Single Sign-On in OutSystems applications using IDP connector</li>
-                        <li>Developing process based applications using Business Process Technology (BPT) and offline capabilities of Mobile Apps</li>
-                        <li>Exposing and Consuming REST/SOAP services </li>
-                        <li>Building interactive charts for GUI </li>
-                        <li>Creating responsive applications using Silk UI framework of OutSystems</li>
-                        <li>Developing customized UI widgets using JavaScript and JQuery. </li>
-                        <li>Integrating Third party plugins and Libraries for extending the UI functionalities</li>
-                        <li>Integrating Forge Applications and E spaces provided by OutSystems</li>
-                        <li>Sending SMS and MMS using Twilio API</li>
-                    </ul>
+                    <div class="col-sm-12">
+                        <div class="col-sm-6">
+                            <ul>				
+                                <li>Building mobile apps, web portals</li>
+                                <li>Implementing Single Sign-On in OutSystems applications using IDP connector</li>
+                                <li>Developing process based applications using Business Process Technology (BPT) and offline capabilities of Mobile Apps</li>
+                                <li>Exposing and Consuming REST/SOAP services </li>
+                                <li>Building interactive charts for GUI </li>
+                                <li>Creating responsive applications using Silk UI framework of OutSystems</li>
+                                <li>Developing customized UI widgets using JavaScript and JQuery. </li>
+                                <li>Integrating Third party plugins and Libraries for extending the UI functionalities</li>
+                                <li>Integrating Forge Applications and E spaces provided by OutSystems</li>
+                                <li>Sending SMS and MMS using Twilio API</li>
+                            </ul>
                     <br>
                     Our team has expertise in creating, deploying and managing enterprise mobile and web applications through OutSystems; a high-productivity application platform to deliver innovative business solutions for organisations with quick development and delivery.
                     <br><br>
+                    </div>
+                        <div class="col-sm-6">
+                            <img src="img/970x647/outsystem1.jpg" alt="Outsystem" class="responsive">
+                        </div>    
+                    </div>
                     We have helped our clients to gain maximum ROI and competitive advantage through implementation of OutSystems Technology in the cloud, on-premises or in hybrid environments.
                     <br><br>
-                    Our aim is to have a successful partnership with any organisation, whatever its size or complexity through our unique offerings at optimal cost and reducing the risks to specific business processes and maximizing the ROI through rapid application delivery.
-                    <br>
-                </p>
             </div>
         </div>
-        <ul class="keyFeatureList wow fadeInDown animated" data-wow-delay="600ms" data-wow-duration="1000ms" style="visibility: visible; animation-duration: 1000ms; animation-delay: 600ms; animation-name: fadeInDown;">
-            <li><i class="fa fa-hand-o-right" aria-hidden="true"></i>OutSystems Development</li>
-            <li><i class="fa fa-hand-o-right" aria-hidden="true"></i>OutSystems Customization</li>
-            <li><i class="fa fa-hand-o-right" aria-hidden="true"></i>OutSystems Integration</li>
-            <li><i class="fa fa-hand-o-right" aria-hidden="true"></i>OutSystems Migration</li>
-            <li><i class="fa fa-hand-o-right" aria-hidden="true"></i>OutSystems Developers</li>
-            <li><i class="fa fa-hand-o-right" aria-hidden="true"></i>OutSystems Consulting</li>
-        </ul>
-        <br>
+
+        <div class="col-sm-12 wow fadeInDown animated" style="visibility: visible; animation-name: fadeInDown;">
+
+            <div class="col-sm-6">
+            <img src="img/970x647/outsystems2.gif" alt="Outsystems" class="responsive">
+            </div>
+
+            <div class="col-sm-6">
+                <p>Our aim is to have a successful partnership with any organisation, whatever its size or complexity through our unique offerings at optimal cost and reducing the risks to specific business processes and maximizing the ROI through rapid application delivery.</p><br>
+                    <ul class="keyFeatureList wow fadeInDown animated" data-wow-delay="600ms" data-wow-duration="1000ms" style="visibility: visible; animation-duration: 1000ms; animation-delay: 600ms; animation-name: fadeInDown;">
+                    <li><i class="fa fa-hand-o-right" aria-hidden="true"></i>OutSystems Development</li>
+                    <li><i class="fa fa-hand-o-right" aria-hidden="true"></i>OutSystems Customization</li>
+                    <li><i class="fa fa-hand-o-right" aria-hidden="true"></i>OutSystems Integration</li>
+                    <li><i class="fa fa-hand-o-right" aria-hidden="true"></i>OutSystems Migration</li>
+                    <li><i class="fa fa-hand-o-right" aria-hidden="true"></i>OutSystems Developers</li>
+                    <li><i class="fa fa-hand-o-right" aria-hidden="true"></i>OutSystems Consulting</li>
+                </ul>
+                <br>
+            </div>
+        </div>
+
         <!--/.our-skill--><!-- our-team -->
         <!--section-->
     </div>
