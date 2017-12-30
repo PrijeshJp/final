@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en" class="no-js">
-<head>
+<head>  
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Oracle Business Intelligence Enterprise Edition OBIEE customization and development outsourcing - Minuscule Technologies</title>
@@ -15,15 +15,21 @@
     <meta charset="utf-8">
     <?php
         include "script.php";
-    ?>
+	?>
 </head>
 <!-- Body -->
 <body>
     <?php
         include ("nav.php");
     ?>
+    <!--========== END HEADER ==========-->
+
     <!--========== PROMO BLOCK ==========-->
-    <!-- <section class="bgblog" >
+    <!-- <section class="bgblog g-bg-position--center" >
+        <div class="container g-position--overlay g-text-center--xs">
+            <div class="g-padding-y-50--xs g-margin-t-100--xs g-margin-b-100--xs g-margin-b-250--md bgblog-white">
+                <h1 class="g-font-size-36--xs g-font-size-50--sm g-font-size-60--md">More Than A Just A Blog</h1>
+            </div>
         </div>
     </section> -->
     <!--========== END PROMO BLOCK ==========-->

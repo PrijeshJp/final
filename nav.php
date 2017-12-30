@@ -79,6 +79,9 @@
                                 <!-- End Blog -->
 
                                 <li class="s-header-v2__nav-item">
+                                    <a href="team.php" class="s-header-v2__nav-link">Team</a>
+                                </li>
+                                <li class="s-header-v2__nav-item">
                                     <a href="about.php" class="s-header-v2__nav-link">About</a>
                                 </li>
                                 <li class="s-header-v2__nav-item">

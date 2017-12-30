@@ -8,7 +8,7 @@
     <?php
         include "nav.php";
     ?>
-    <section class="bgiot">
+    <section class="bgiot g-bg-position--center">
         <div class="container g-position--overlay g-text-center--xs">
 
         </div>
