@@ -1,12 +1,31 @@
-<?php
-    include ("nav.php");
-?>
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+<head>  
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oracle Business Intelligence Enterprise Edition OBIEE customization and development outsourcing - Minuscule Technologies</title>
+    <meta name="description" content="OBIEE customization and development outsourcing solutions for reporting, querying, analytic, OLAP, dashboard and scorecard functionalities on OBIEE.">
+    <meta name="author" content="">
+    <link rel="canonical" href="http://www.minusculetechnologies.com/obiee.html" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Oracle Business Intelligence Enterprise Edition OBIEE customization and development outsourcing - Minuscule Technologies" />
+    <meta property="og:description" content="OBIEE customization and development outsourcing solutions for reporting, querying, analytic, OLAP, dashboard and scorecard functionalities on OBIEE" />
+    <meta property="og:url" content="http://www.minusculetechnologies.com/obiee.html" />
+    <meta charset="utf-8">
+    <?php
+        include "script.php";
+	?>
+</head>
 <!-- Body -->
 <body>
+    <?php
+        include ("nav.php");
+    ?>
     <!--========== END HEADER ==========-->
 
     <!--========== PROMO BLOCK ==========-->
-    <section class="bgblog" >
+    <section class="bgblog g-bg-position--center" >
         <div class="container g-position--overlay g-text-center--xs">
             <div class="g-padding-y-50--xs g-margin-t-100--xs g-margin-b-100--xs g-margin-b-250--md bgblog-white">
                 <h1 class="g-font-size-36--xs g-font-size-50--sm g-font-size-60--md">More Than A Just A Blog</h1>

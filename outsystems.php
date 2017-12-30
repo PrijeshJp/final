@@ -23,13 +23,13 @@
         include ("nav.php");
     ?>
     <!--========== PROMO BLOCK ==========-->
-    <section class="bgout" >
+    <section class="bgout g-bg-position--center" >
         <div class="container g-position--overlay g-text-center--xs">
         </div>
     </section>
     <!--========== END PROMO BLOCK ==========-->
     <!--========== PAGE CONTENT ==========-->
-    <div class="container blogpad">
+    <div class="container blogpad ">
         <div class="wow fadeInDown animated " style="visibility: visible; animation-name: fadeInDown;">
             <h2><span class="item active">OutSystems - Platform As a Service (PaaS) Solutions</span></h2>
         </div>
@@ -78,7 +78,7 @@
         <div class="col-sm-12 wow fadeInDown animated" style="visibility: visible; animation-name: fadeInDown;">
 
             <div class="col-sm-6">
-            <img src="img/970x647/outsystems2.gif" alt="Outsystems" class="responsive">
+            <img src="img/970x647/outsystems2.png" alt="Outsystems" class="responsive">
             </div>
 
             <div class="col-sm-6">

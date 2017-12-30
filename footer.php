@@ -59,4 +59,12 @@
         <script type="text/javascript" src="js/components/counter.min.js"></script>
         <script type="text/javascript" src="js/components/portfolio-3-col.min.js"></script>
         <script type="text/javascript" src="js/components/wow.min.js"></script>
-        
+
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+			ga('create', 'UA-76132614-1', 'auto');
+			ga('send', 'pageview');
+        </script>

@@ -23,7 +23,7 @@
         include ("nav.php");
     ?>
     <!--========== PROMO BLOCK ==========-->
-    <section class="bgjava">
+    <section class="bgjava g-bg-position--center">
         <div class="container g-position--overlay g-text-center--xs">
 
         </div>
