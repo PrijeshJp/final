@@ -58,8 +58,7 @@
         <!-- End Arrows -->
 
         <a href="#js__scroll-to-section" class="s-scroll-to-section-v1--bc g-margin-b-15--xs scroll-down">
-            <span class="g-font-size-18--xs g-color--white ti-angle-double-down"></span>
-            <p class="text-uppercase g-color--white g-letter-spacing--3 g-margin-b-0--xs">Learn More</p>
+            <span class="g-font-size-18--xs g-color--white scrolldwn"></span>
         </a>
     </div>
     <!--========== END SWIPER SLIDER ==========-->
@@ -1231,6 +1230,12 @@
                 $(".set-def").click();
             }, 1000);
         });
+        $(function() {
+    $('a[href*=#]').on('click', function(e) {
+      e.preventDefault();
+      $('html, body').animate({ scrollTop: $($(this).attr('href')).offset().top}, 500, 'linear');
+    });
+  });
     </script>
             <!--========== END JAVASCRIPTS ==========-->
 </body>

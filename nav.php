@@ -82,7 +82,7 @@
                                     <a href="about.php" class="s-header-v2__nav-link">About</a>
                                 </li>
                                 <li class="s-header-v2__nav-item">
-                                    <a href="contacts.php" class="s-header-v2__nav-link s-header-v2__nav-link--dark">Contacts</a>
+                                    <a href="contact.php" class="s-header-v2__nav-link s-header-v2__nav-link--dark">Contacts</a>
                                 </li>
                             </ul>
                         </div>

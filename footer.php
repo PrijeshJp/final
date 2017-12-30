@@ -5,19 +5,19 @@
                     <div class="col-xs-6 ">
                         <ul class="list-inline s-header__action">
                             <li class="s-header__action-item">
-                                <a class="s-header__action-link clr" href="#">
+                                <a class="s-header__action-link clr" href="http://www.facebook.com/minusculetechnologies" target="_blank">
                                     <i class="g-padding-r-5--xs ti-facebook"></i>
                                     <span class="g-display-none--xs g-display-inline-block--sm">Facebook</span>
                                 </a>
                             </li>
                             <li class="s-header__action-item">
-                                <a class="s-header__action-link clr" href="#">
+                                <a class="s-header__action-link clr" href="http://twitter.com/minusculetech" target="_blank">
                                     <i class="g-padding-r-5--xs ti-twitter"></i>
                                     <span class="g-display-none--xs g-display-inline-block--sm ">Twitter</span>
                                 </a>
                             </li>
                             <li class="s-header__action-item">
-                                <a class="s-header__action-link clr" href="#">
+                                <a class="s-header__action-link clr" href="https://www.linkedin.com/company/minuscule-technologies-pvt.-ltd." target="_blank">
                                     <i class="g-padding-r-5--xs ti-linkedin"></i>
                                     <span class="g-display-none--xs g-display-inline-block--sm">Linkedin</span>
                                 </a>
