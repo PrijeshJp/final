@@ -26,7 +26,7 @@
     ?>
     <section class="bgdigital" >
 
-        </div>
+    </div>
     </section>
     <!--========== END PROMO BLOCK ==========-->
     <!--========== PAGE CONTENT ==========-->

@@ -1157,12 +1157,12 @@
                 <!-- News -->
                 <article>
                     <a href="heroku.php">
-                        <img class="img-responsive" src="img/970x970/heroku.jpg" alt="Image">
+                        <img class="img-responsive" src="img/970x970/digital.jpg" alt="Image">
                         <div class="g-bg-color--white g-box-shadow__dark-lightest-v2 g-text-center--xs g-padding-x-40--xs g-padding-y-40--xs">
                             <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2">Blog</p>
-                            <h3 class="g-font-size-22--xs g-letter-spacing--1">Heroku</h3>
+                            <h3 class="g-font-size-22--xs g-letter-spacing--1">Digital Practice</h3>
                     </a>
-                        <p>Heroku - Salesforce integrated Solution</p>
+                        <p>Digital</p>
                     </div>
                 </article>
                 <!-- End Blog -->
@@ -1170,13 +1170,13 @@
             <div class="col-sm-4">
                 <!-- News -->
                 <article>
-                    <a href="twilio.php">
+                    <a href="oracle.php">
                         <img class="img-responsive" src="img/970x970/twilio.jpg" alt="Image">
                         <div class="g-bg-color--white g-box-shadow__dark-lightest-v2 g-text-center--xs g-padding-x-40--xs g-padding-y-40--xs">
                             <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2">Blog</p>
-                            <h3 class="g-font-size-22--xs g-letter-spacing--1">Twilio</h3>
+                            <h3 class="g-font-size-22--xs g-letter-spacing--1">Oracle</h3>
                     </a>
-                        <p>Twilio API integration and development</p>
+                        <p>Oracle Consulting</p>
                     </div>
                 </article>
                 <!-- End Blog -->

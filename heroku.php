@@ -31,8 +31,9 @@
 
 <!-- Body -->
 <body>
+    <div class="se-pre-con"></div>
     <?php
-        include ("nav.php");
+        include "nav.php";
     ?>
     <!--========== PROMO BLOCK ==========-->
     <section class="bgblog" >
