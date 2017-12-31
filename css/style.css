@@ -2473,7 +2473,7 @@ em > a:hover, li > a:hover {
 }
   
 .blogpad{
-  margin-top: 10vh;
+  margin-top: 15vh;
 }
   
 .bgblog-white{
@@ -2563,6 +2563,7 @@ em > a:hover, li > a:hover {
   margin: auto !important;
   height: 25px;
   line-height: 25px;
+  color: white !important;
 }
 .blink {
   animation: blink-animation 1s steps(5, start) infinite;
@@ -2670,4 +2671,8 @@ box-sizing: border-box;
 
 .gmappad{
   margin-top: 80px;
+}
+
+.fntstyle{
+  color: white !important;
 }

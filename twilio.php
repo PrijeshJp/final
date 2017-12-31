@@ -24,7 +24,7 @@
         include ("nav.php");
     ?>
     <!--========== PROMO BLOCK ==========-->
-    <section class="bgblog" >
+    <section class="" >
         <div class="container g-position--overlay g-text-center--xs">
         </div>
     </section>
