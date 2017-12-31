@@ -34,7 +34,7 @@
             <div class="g-fullheight--xs g-bg-position--center swiper-slide" style="background: url('img/1920x1080/image-laptop.jpg');">
                 <div class="container g-text-center--xs g-ver-center--xs">
                     <div class="g-margin-b-30--xs">
-                        <h1 class="g-font-size-35--xs g-font-size-45--sm g-font-size-55--md g-color--white">Software Development
+                        <h1 class="g-font-size-35--xs g-font-size-45--sm g-font-size-55--md g-color--white shadow">Software Development
                             <br> Perfection at
                             <br>its finest.</h1>
                     </div>
@@ -44,7 +44,7 @@
                 <div class="container g-text-center--xs g-ver-center--xs">
                     <div class="g-margin-b-30--xs">
                         <div class="g-margin-b-30--xs">
-                            <h2 class="g-font-size-35--xs g-font-size-45--sm g-font-size-55--md g-color--white">Feel the Ontime delivery!</h2>
+                            <h2 class="g-font-size-35--xs g-font-size-45--sm g-font-size-55--md g-color--white shadow">Feel the Ontime delivery!</h2>
                         </div>
                     </div>
                 </div>
