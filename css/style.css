@@ -1774,6 +1774,7 @@ fieldset[disabled] .s-btn {
 @media (max-width: 61.9em) {
   .s-header-v2__toggle {
     display: block;
+    bottom: 10px;
   }
 }
 
@@ -2597,7 +2598,7 @@ em > a:hover, li > a:hover {
   width: 100%;
   height: 100%;
   z-index: 9999;
-  background: url(img/loader/Preloader_2.gif) center no-repeat #fff;
+  background: url(img/loader/Preloader_3.gif) center no-repeat #fff;
 }
 
 .scrolldwn{
@@ -2630,4 +2631,12 @@ box-sizing: border-box;
 
 .g-color--blue{
   color: #3471b6!important;
+}
+
+.gmap-area {
+  background-image: url(img/map.jpg);
+  background-position: 0 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 70px 0;
 }

@@ -1069,7 +1069,7 @@
                                 </p>
                             </div>
                             <div class="center-block g-hor-divider__solid--white-opacity-lightest g-width-100--xs g-margin-b-30--xs"></div>
-                            <h4 class="g-font-size-15--xs g-font-size-18--sm g-color--white-opacity-light g-margin-b-5--xs"> - Client</h4>
+                            <h4 class="g-font-size-15--xs g-font-size-18--sm g-color--white-opacity-light g-margin-b-5--xs"> - John</h4>
                         </div>
                     </div>
                     <div class="swiper-slide g-padding-x-130--sm g-padding-x-150--lg">
@@ -1080,7 +1080,7 @@
                                 </p>
                             </div>
                             <div class="center-block g-hor-divider__solid--white-opacity-lightest g-width-100--xs g-margin-b-30--xs"></div>
-                            <h4 class="g-font-size-15--xs g-font-size-18--sm g-color--white-opacity-light g-margin-b-5--xs"> - Client</h4>
+                            <h4 class="g-font-size-15--xs g-font-size-18--sm g-color--white-opacity-light g-margin-b-5--xs"> - Christy</h4>
                         </div>
                     </div>
                     <div class="swiper-slide g-padding-x-130--sm g-padding-x-150--lg">
@@ -1092,7 +1092,7 @@
                                 </p>
                             </div>
                             <div class="center-block g-hor-divider__solid--white-opacity-lightest g-width-100--xs g-margin-b-30--xs"></div>
-                            <h4 class="g-font-size-15--xs g-font-size-18--sm g-color--white-opacity-light g-margin-b-5--xs"> - Client</h4>
+                            <h4 class="g-font-size-15--xs g-font-size-18--sm g-color--white-opacity-light g-margin-b-5--xs"> - Steven</h4>
                         </div>
                     </div>
                     <div class="swiper-slide g-padding-x-130--sm g-padding-x-150--lg">
@@ -1103,7 +1103,7 @@
                                 </p>
                             </div>
                             <div class="center-block g-hor-divider__solid--white-opacity-lightest g-width-100--xs g-margin-b-30--xs"></div>
-                            <h4 class="g-font-size-15--xs g-font-size-18--sm g-color--white-opacity-light g-margin-b-5--xs"> - Client</h4>
+                            <h4 class="g-font-size-15--xs g-font-size-18--sm g-color--white-opacity-light g-margin-b-5--xs"> - Xue helan</h4>
                         </div>
                     </div>
                     <div class="swiper-slide g-padding-x-130--sm g-padding-x-150--lg">
@@ -1114,7 +1114,7 @@
                                 </p>
                             </div>
                             <div class="center-block g-hor-divider__solid--white-opacity-lightest g-width-100--xs g-margin-b-30--xs"></div>
-                            <h4 class="g-font-size-15--xs g-font-size-18--sm g-color--white-opacity-light g-margin-b-5--xs"> - Client</h4>
+                            <h4 class="g-font-size-15--xs g-font-size-18--sm g-color--white-opacity-light g-margin-b-5--xs"> - Jack</h4>
                         </div>
                     </div>
                 </div>
