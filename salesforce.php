@@ -26,18 +26,14 @@
     <!--========== END HEADER ==========-->
 
     <!--========== PROMO BLOCK ==========-->
-    <section class="bgservice">
-        <div class="container g-position--overlay g-text-center--xs">
-
-        </div>
-    </section>
+    <img src="img/1920x1080/salesforce.jpg" class="img-responsive res">
     <!--========== END PROMO BLOCK ==========-->
 
     <!--========== PAGE CONTENT ==========-->
     <!-- Mockup -->
     <div class="container g-margin-t-o-150--xs">
         <div class="center-block s-mockup-v1">
-            <img class="img-responsive" src="img/mockups/sfmoblap.png" alt="sf Image">
+            <img class="img-responsive res1" src="img/mockups/sfmoblap.png" alt="sf Image">
         </div>
     </div>
     <!-- End Mockup -->
@@ -118,9 +114,6 @@
                                 <li>  Seamless real-time integration for exchange of information with other applications in the enterprise landscape  </li>
                                 <li> Complete revamping of the Salesforce provided User Interface into an all intuitive, highly efficient interface using state of the art Single Page Application (SPA) frameworks     </li>
                             </ul>
-                            <div class="col-sm-12">
-                                    <img src="img/newImg/salesforce.png" alt="Domain" class="responsive" style="padding-top: 10px; padding-bottom: 15px;">
-                                </div>
                             <h3> Enterprise Cloud Applications using Salesforce as a Platform</h3>
                             <ul>
                                 <li>Using Salesforce as a platform to build enterprise grade applications without using any of the Salesforce applications services such as Sales Cloud, Service Cloud, etc.</li>

@@ -36,8 +36,7 @@
         include "nav.php";
     ?>
     <!--========== PROMO BLOCK ==========-->
-    <section class="bgblog" >
-    </section>
+    <img src="img/1920x1080/herokubanner.jpg" class="img-responsive res">
     <!--========== END PROMO BLOCK ==========-->
     <!--========== PAGE CONTENT ==========-->
     <div class="container blogpad">

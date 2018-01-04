@@ -2168,6 +2168,7 @@
 
 .g-margin-b-40--xs {
   margin-bottom: 2.5rem;
+  margin-top: 80px;
 }
 
 .g-margin-b-45--xs {
@@ -2574,6 +2575,7 @@
   }
   .g-margin-b-0--lg {
     margin-bottom: 0rem;
+    margin-top: 0rem;
   }
   .g-margin-b-5--lg {
     margin-bottom: 0.3125rem;
@@ -7371,4 +7373,24 @@
   display: block;
   height: auto;
   max-width: 100%;
+}
+@media (max-width: 768px) {
+  img.img-responsive.res {
+    position: relative;
+    top: 88px;
+  }
+}
+.row.g-overflow--hidden{
+  margin-top: 35px;
+}
+@media (max-width: 1000px){
+  img.img-responsive.res {
+    position: relative;
+    top: 88px;
+  }
+  img.img-responsive.res1{
+    position: relative;
+    top: 150px;
+    width: 50%;
+  }
 }

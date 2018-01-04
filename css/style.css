@@ -1931,6 +1931,7 @@ fieldset[disabled] .s-btn {
     color: rgba(34, 35, 36, 0.7);
     line-height: 1.6;
     margin: 1.5rem 0;
+    text-shadow: none !important;
   }
   .s-header-v2__nav-link:focus, .s-header-v2__nav-link:hover {
     color: rgba(34, 35, 36, 0.7);
@@ -2423,7 +2424,7 @@ fieldset[disabled] .s-btn {
   background: linear-gradient(to right, rgba(255,255,255,1),hsla(225, 100%, 100%, 0.9));
 }
 em > a, li > a {
-  color: #242424 !important;
+  color: #242424 ;
 }
 
 em > a:hover, li > a:hover {
@@ -2462,7 +2463,7 @@ em > a:hover, li > a:hover {
   }
   
 em > a, li > a {
-    color: #fffbfb !important;
+    color: #fffbfb ;
 }
   
 em > a:hover, li > a:hover {
