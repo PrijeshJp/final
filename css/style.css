@@ -2014,6 +2014,7 @@ fieldset[disabled] .s-btn {
   /* Nav Link */
   .s-header__shrink .s-header-v2__nav-link {
     color: rgba(34, 35, 36, 0.7) !important;
+    text-shadow: 2px 1px white ;
   }
   .s-header__shrink .s-header-v2__nav-link:hover {
     color: #0e7cc1 !important;
