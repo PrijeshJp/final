@@ -36,15 +36,16 @@
         include "nav.php";
     ?>
     <!--========== PROMO BLOCK ==========-->
-    <img src="img/1920x1080/herokubanner.jpg" class="img-responsive res">
-    <!--========== END PROMO BLOCK ==========-->
+    <section class="bgblog" >
+    <div class="container g-position--overlay g-text-center--xs"></div>
+    </section>    <!--========== END PROMO BLOCK ==========-->
     <!--========== PAGE CONTENT ==========-->
     <div class="container blogpad">
-        <div class="wow fadeInDown animated " style="visibility: visible; animation-name: fadeInDown;">
+        <div class="wow fadeInLeft animated " style="visibility: visible; animation-name: fadeInLeft;">
             <h2><span class="item active">Heroku - Salesforce integrated Solution</span></h2>
         </div>
         <div class="skill-wrap clearfix">
-            <div class="wow fadeInDown animated" style="visibility: visible; animation-name: fadeInDown;">
+            <div class="wow fadeInRight animated" style="visibility: visible; animation-name: fadeInRight;">
                 <p class="lead">
                     We at Minuscule Technologies have done a solution on <b>Heroku</b> which interfaced with <b>Salesforce</b> and other applications. Following are the high-level details of our solution.
                     <br><br>

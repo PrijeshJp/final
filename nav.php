@@ -28,11 +28,11 @@
                         <div class="collapse navbar-collapse s-header-v2__navbar-collapse" id="nav-collapse">
                             <ul class="s-header-v2__nav">
                                 <li class="s-header-v2__nav-item">
-                                    <a href="index.php" class="s-header-v2__nav-link shadow">Home</a>
+                                    <a href="index.php" class="s-header-v2__nav-link">Home</a>
                                 </li>
                                 <!-- Services -->
                                 <li class="dropdown s-header-v2__nav-item s-header-v2__dropdown-on-hover">
-                                    <a href="javascript:void(0);" class="dropdown-toggle s-header-v2__nav-link shadow" data-toggle="dropdown" role="button" aria-haspopup="true"
+                                    <a href="javascript:void(0);" class="dropdown-toggle s-header-v2__nav-link" data-toggle="dropdown" role="button" aria-haspopup="true"
                                         aria-expanded="false">Services
                                         <span class="g-font-size-10--xs g-margin-l-5--xs ti-angle-down"></span>
                                     </a>
@@ -60,7 +60,7 @@
                                 <!-- End Services -->
                                 <!-- Blog -->
                                 <li class="dropdown s-header-v2__nav-item s-header-v2__dropdown-on-hover">
-                                    <a href="javascript:void(0);" class="dropdown-toggle s-header-v2__nav-link shadow" data-toggle="dropdown" role="button" aria-haspopup="true"
+                                    <a href="javascript:void(0);" class="dropdown-toggle s-header-v2__nav-link" data-toggle="dropdown" role="button" aria-haspopup="true"
                                         aria-expanded="false">Blog
                                         <span class="g-font-size-10--xs g-margin-l-5--xs ti-angle-down"></span>
                                     </a>
@@ -79,13 +79,13 @@
                                 <!-- End Blog -->
 
                                 <li class="s-header-v2__nav-item">
-                                    <a href="team.php" class="s-header-v2__nav-link shadow">Team</a>
+                                    <a href="team.php" class="s-header-v2__nav-link">Team</a>
                                 </li>
                                 <li class="s-header-v2__nav-item">
-                                    <a href="about.php" class="s-header-v2__nav-link shadow">About</a>
+                                    <a href="about.php" class="s-header-v2__nav-link">About</a>
                                 </li>
                                 <li class="s-header-v2__nav-item">
-                                    <a href="contact.php" class="s-header-v2__nav-link s-header-v2__nav-link--dark shadow">Contacts</a>
+                                    <a href="contact.php" class="s-header-v2__nav-link s-header-v2__nav-link--dark">Contacts</a>
                                 </li>
                             </ul>
                         </div>
