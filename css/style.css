@@ -717,9 +717,10 @@ fieldset[disabled] .s-btn {
 
 .s-icon--white-brd:focus, .s-icon--white-brd:hover {
   color: #fff;
-  background-color: #0d7dc1;
-  border-color: #0d7dc1;
-  border: 2px solid #0d7dc1!important;
+  background-color: rgba(0,0,0,.3);
+  /* border-color: rgba(0,0,0,.5); */
+  /* border: 2px solid rgba(0,0,0,.5)!important; */
+  border: none !important;
 }
 
 .s-icon--white-bg {
@@ -2679,8 +2680,7 @@ box-sizing: border-box;
   color: white !important;
 }
 
-.swiper-slide:after {
-  position: absolute;
+.backdrop:after {
   z-index: 1;
   top: 0;
   left: 0;
