@@ -40,7 +40,7 @@
     </div>
     <!-- End Mockup -->
     <div class="container">
-				<div class="center wow fadeInDown spacebtm animated" style="visibility: visible; animation-name: fadeInDown;">
+				<div class="center wow fadeInLeft spacebtm animated" style="visibility: visible; animation-name: fadeInLeft;">
 					<h2 class="text-left">Java Development Services</h2>
 					<p class="text-left lead">Minuscule Technologies offers exceptional Java/J2EE programming services to suit the Enterprise, web and mobile application development requirements of the clients. We do fulfill the needs of diverse enterprises impeccably. Our Java application development service is scalable and easy to implement.</p>
 					<br><br>
@@ -60,7 +60,7 @@
 				</div>
 				<div class="row">
 					<div class="col-sm-6 col-md-4 curPoint">
-						<div class="media services-wrap wow fadeInDown animated" style="visibility: visible; animation-name: fadeInDown;">
+						<div class="media services-wrap wow fadeInRight animated" style="visibility: visible; animation-name: fadeInRight;">
 
 							<div class="media-body">
 								<h4 class="media-heading">ENTERPRISE JAVA DEVELOPMENT </h4>
@@ -69,7 +69,7 @@
 						</div>
 					</div>
 					<div class="col-sm-6 col-md-4 curPoint">
-						<div class="media services-wrap wow fadeInDown animated" style="visibility: visible; animation-name: fadeInDown;">
+						<div class="media services-wrap wow fadeInLeft animated" style="visibility: visible; animation-name: fadeInLeft;">
 							<div class="media-body">
 								<h4 class="media-heading">JAVA WEB DEVELOPMENT</h4>
 								<p>Well-equipped to build fast, secure &amp; incredible Java websites for varied sectors, like healthcare, finance retail, telecommunication, etc.</p>
@@ -77,7 +77,7 @@
 						</div>
 					</div>
 					<div class="col-sm-6 col-md-4 curPoint">
-						<div class="media services-wrap wow fadeInDown animated" style="visibility: visible; animation-name: fadeInDown;">
+						<div class="media services-wrap wow fadeInRight animated" style="visibility: visible; animation-name: fadeInRight;">
 							<div class="media-body">
 								<h4 class="media-heading">CUSTOM JAVA DEVELOPMENT</h4>
 								<p>Deploys collaborative and integrated approach in customizing Java-based applications and website to fulfill the businesses’ requirements.</p>
@@ -87,7 +87,7 @@
                 </div>
                 <div class="row">
 					<div class="col-sm-6 col-md-4">
-						<div class="media services-wrap wow fadeInDown animated" style="visibility: visible; animation-name: fadeInDown;">
+						<div class="media services-wrap wow fadeInLeft animated" style="visibility: visible; animation-name: fadeInLeft;">
 							<div class="media-body">
 								<h4 class="media-heading">JAVA MAINTENANCE SUPPORT</h4>
 								<p>Ensures smooth workflow of the Java application and website with all-the-time active Java application and maintenance technical support.</p>
@@ -95,7 +95,7 @@
 						</div>
 					</div>
 					<div class="col-sm-6 col-md-4">
-						<div class="media services-wrap wow fadeInDown animated" style="visibility: visible; animation-name: fadeInDown;">
+						<div class="media services-wrap wow fadeInRight animated" style="visibility: visible; animation-name: fadeInRight;">
 							<div class="media-body">
 								<h4 class="media-heading">JAVA/J2EE DEVELOPMENT</h4>
 								<p>Renders scalable, robust, high-end &amp; cost-effective Java application by using the advanced framework J2EE brilliantly for different enterprises.</p>
@@ -103,7 +103,7 @@
 						</div>
 					</div>
 					<div class="col-sm-6 col-md-4 curPoint">
-						<div class="media services-wrap wow fadeInDown animated" style="visibility: visible; animation-name: fadeInDown;">
+						<div class="media services-wrap wow fadeInLeft animated" style="visibility: visible; animation-name: fadeInLeft;">
 							<div class="media-body">
 								<h4 class="media-heading">JAVA MIGRATION SERVICE</h4>
 								<p>We have expertise in migrating the business platform to Java-based framework in order to ensure a better, scalable prospect in the future.</p>

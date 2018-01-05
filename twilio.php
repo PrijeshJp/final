@@ -31,12 +31,12 @@
     <!--========== END PROMO BLOCK ==========-->
     <!--========== PAGE CONTENT ==========-->
     <div class="container blogpad">
-        <div class="wow fadeInDown animated " style="visibility: visible; animation-name: fadeInDown;">
+        <div class="wow fadeInLeft animated " style="visibility: visible; animation-name: fadeInLeft;">
             <h2><span class="item active">Twilio API integration and development</span></h2>
         </div>
         <!-- about us slider -->
         <div class="skill-wrap clearfix">
-            <div class="wow fadeInDown animated" style="visibility: visible; animation-name: fadeInDown;">
+            <div class="wow fadeInRight animated" style="visibility: visible; animation-name: fadeInRight;">
                 <p class="lead">
                     Twilio API InTwilio is a Cloud communications platform which provides API for Messaging, Voice, Video, and Authentication. Its very easy to setup with great programmable communications with super network to reach anyone in the world with a very high quality experience.
                     <br><br>
@@ -56,28 +56,28 @@
         </div>
         <div class="row">
             <div class="col-sm-3">
-                <div class="sinlge-skill wow fadeInDown animated animated" data-wow-delay="300ms" data-wow-duration="1000ms" style="visibility: visible; animation-duration: 1000ms; animation-delay: 300ms; animation-name: fadeInDown;">
+                <div class="sinlge-skill wow fadeInLeft animated animated" data-wow-delay="300ms" data-wow-duration="1000ms" style="visibility: visible; animation-duration: 1000ms; animation-delay: 300ms; animation-name: fadeInLeft;">
                     <div class="joomla-skill">
                         <p>Messaging</p>
                     </div>
                 </div>
             </div>
             <div class="col-sm-3">
-                <div class="sinlge-skill wow fadeInDown animated animated" data-wow-delay="600ms" data-wow-duration="1000ms" style="visibility: visible; animation-duration: 1000ms; animation-delay: 600ms; animation-name: fadeInDown;">
+                <div class="sinlge-skill wow fadeInRight animated animated" data-wow-delay="600ms" data-wow-duration="1000ms" style="visibility: visible; animation-duration: 1000ms; animation-delay: 600ms; animation-name: fadeInRight;">
                     <div class="html-skill">
                         <p>Voice</p>
                     </div>
                 </div>
             </div>
             <div class="col-sm-3">
-                <div class="sinlge-skill wow fadeInDown animated animated" data-wow-delay="900ms" data-wow-duration="1000ms" style="visibility: visible; animation-duration: 1000ms; animation-delay: 900ms; animation-name: fadeInDown;">
+                <div class="sinlge-skill wow fadeInLeft animated animated" data-wow-delay="900ms" data-wow-duration="1000ms" style="visibility: visible; animation-duration: 1000ms; animation-delay: 900ms; animation-name: fadeInLeft;">
                     <div class="css-skill">
                         <p>Video</p>
                     </div>
                 </div>
             </div>
             <div class="col-sm-3">
-                <div class="sinlge-skill wow fadeInDown animated animated" data-wow-delay="1200ms" data-wow-duration="1000ms" style="visibility: visible; animation-duration: 1000ms; animation-delay: 1200ms; animation-name: fadeInDown;">
+                <div class="sinlge-skill wow fadeInRight animated animated" data-wow-delay="1200ms" data-wow-duration="1000ms" style="visibility: visible; animation-duration: 1000ms; animation-delay: 1200ms; animation-name: fadeInRight;">
                     <div class="wp-skill">
                         <p>Authentication</p>
                     </div>

@@ -23,7 +23,10 @@
         <script>
             // Wait for window load
             $(window).load(function() {
-                    // Animate loader off screen
-                    $(".se-pre-con").fadeOut("slow");;
+                // Animate loader off screen
+                $(".se-pre-con").fadeOut("slow");
+                setTimeout(function () {
+                        $(".set-def").click();
+                }, 1000);
             });
         </script>
