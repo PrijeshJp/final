@@ -208,7 +208,7 @@
 
     <!-- Portfolio Filter -->
     <div class="g-promo-section g-bg-color--sky-light">
-        <div class="container g-padding-y-80--xs">
+        <div class="container">
             <div class="g-text-center--xs g-margin-b-40--xs">
                 <h2 class="g-font-size-32--xs g-font-size-36--md">Technologies</h2>
             </div>
@@ -1174,6 +1174,7 @@
     <script type="text/javascript" src="js/components/magnific-popup.min.js"></script>
     <script type="text/javascript" src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
     <script type="text/javascript" src="js/components/parallax.min.js"></script>
+   
     <script type="text/javascript">
         jQuery(document).ready(function ($) {
             setTimeout(function () {
@@ -1186,7 +1187,8 @@
       $('html, body').animate({ scrollTop: $($(this).attr('href')).offset().top}, 500, 'linear');
     });
   });
-	jQuery(function($) {'use strict',
+
+  jQuery(function($) {'use strict',
 	//#main-slider
 	$(function(){
 		$('#main-slider .carousel').carousel({

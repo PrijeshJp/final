@@ -42,7 +42,7 @@
     <!-- End Mockup -->
 
     <!-- Portfolio -->
-    <div class="container g-padding-y-80--xs g-padding-y-125--xsm">
+    <div class="container g-padding-y-125--xsm">
 
         <div class="row g-margin-b-30--xs">
             <div class="col-sm-12">
