@@ -1113,33 +1113,56 @@
     <!-- End Blog -->
 
     <!-- Feedback Form -->
-    <div class="g-bg-color--sky-light">
-        <div class="container g-padding-y-80--xs g-padding-y-125--sm">
-            <div class="g-text-center--xs g-margin-b-80--xs">
-                <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs">Feedback</p>
-                <h2 class="g-font-size-32--xs g-font-size-36--md">Send us a note</h2>
-            </div>
-            <form>
-                <div class="row g-margin-b-40--xs">
-                    <div class="col-sm-6 g-margin-b-20--xs g-margin-b-0--md">
-                        <div class="g-margin-b-20--xs">
-                            <input type="text" class="form-control s-form-v2__input g-radius--50" placeholder="* Name">
-                        </div>
-                        <div class="g-margin-b-20--xs">
-                            <input type="email" class="form-control s-form-v2__input g-radius--50" placeholder="* Email">
-                        </div>
-                        <input type="text" class="form-control s-form-v2__input g-radius--50" placeholder="* Phone">
+    <section id="contact-page">
+    <div class="container">
+        <div class="center">
+            <h2>How can we help you?</h2>
+            <p class="lead">Please give us your details and we will get back to you soon</p>
+        </div>
+        <div class="row contact-wrap">
+            <div class="status alert alert-success" style="display: none">&nbsp;</div>
+            <form action="sendemail.php" class="contact-form" id="main-contact-form" method="post" name="contact-form">
+                <div class="col-sm-5 col-sm-offset-1">
+                    <div class="form-group">
+                        <label>Name <em>*</em></label>
+                        <input class="form-control required nameReq" autocomplete="off" onKeyUp="errorRemove(this);" name="name" type="text" />
+                        <span class="contError">Please Enter Your Name</span>
                     </div>
-                    <div class="col-sm-6">
-                        <textarea class="form-control s-form-v2__input g-radius--10 g-padding-y-20--xs" rows="8" placeholder="* Your message"></textarea>
+                    <div class="form-group">
+                        <label>Email <em>*</em></label>
+                        <input class="form-control required emailReq" autocomplete="off" onKeyUp="errorRemove(this);" name="email" type="text" />
+                        <span class="contError">Please Enter Your Email</span>
+                    </div>
+                    <div class="form-group">
+                        <label>Phone</label>
+                        <input class="form-control" type="phone" name="phone" />
+                    </div>
+                    <div class="form-group">
+                        <label>Company Name</label>
+                        <input class="form-control" type="text" name="company" />
                     </div>
                 </div>
-                <div class="g-text-center--xs">
-                    <button type="submit" class="text-uppercase s-btn s-btn--md s-btn--primary-bg g-radius--50 g-padding-x-80--xs">Submit</button>
+                <div class="col-sm-5">
+                    <div class="form-group">
+                        <label>Subject <em>*</em></label>
+                        <input class="form-control required subjectReq" autocomplete="off" onKeyUp="errorRemove(this);" name="subject" type="text" />
+                        <span class="contError">Please Enter Subject</span>
+                    </div>
+                    <div class="form-group">
+                        <label>Message <em>*</em></label>
+                        <textarea class="form-control required messageReq" autocomplete="off" onKeyUp="errorRemove(this);" id="message" name="message" rows="8"></textarea>
+                        <span class="contError cont">Please Enter Message</span>
+                    </div>
+                    <div class="form-group">
+                        <button class="btn btn-primary btn-lg" name="submit" type="submit" >Submit</button>
+                    </div>
                 </div>
             </form>
         </div>
+        <!--/.row-->
     </div>
+    <!--/.container-->
+</section>
     <!-- End Feedback Form -->
 
     </section>
@@ -1163,6 +1186,125 @@
       $('html, body').animate({ scrollTop: $($(this).attr('href')).offset().top}, 500, 'linear');
     });
   });
+	jQuery(function($) {'use strict',
+	//#main-slider
+	$(function(){
+		$('#main-slider .carousel').carousel({
+			interval: 4000,
+			cycle: true
+		});
+	});
+	// accordian
+	$('.accordion-toggle').on('click', function(){
+		$(this).closest('.panel-group').children().each(function(){
+		$(this).find('>.panel-heading').removeClass('active');
+		 });
+
+	 	$(this).closest('.panel-heading').toggleClass('active');
+	});
+	//Initiat WOW JS
+	new WOW().init();
+	// portfolio filter
+	$(window).load(function(){'use strict';
+		var $portfolio_selectors = $('.portfolio-filter >li>a');
+		var $portfolio = $('.portfolio-items');
+		$portfolio.isotope({
+			itemSelector : '.portfolio-item',
+			layoutMode : 'fitRows'
+		});
+		
+		$portfolio_selectors.on('click', function(){
+			$portfolio_selectors.removeClass('active');
+			$(this).addClass('active');
+			var selector = $(this).attr('data-filter');
+			$portfolio.isotope({ filter: selector });
+			return false;
+		});
+	});
+	// Contact form
+	var form = $('#main-contact-form');
+	form.submit(function(event){
+		event.preventDefault();
+		
+		var is_valid = true;
+		
+		if($('.nameReq').val()==''){
+			is_valid = false;
+			$('.nameReq').next('.contError').slideDown();
+		} 
+		if($('.subjectReq').val()==''){
+			is_valid = false;
+			$('.subjectReq').next('.contError').slideDown();
+		} 
+		if($('.messageReq').val()==''){
+			is_valid = false;
+			$('.messageReq').next('.contError').slideDown();
+		}
+		if($('.emailReq').val()==''){
+			is_valid = false;
+			$('.emailReq').next('.contError').slideDown();
+		} else {
+			var email = $('.emailReq').val();
+			if(isValidEmailAddress(email)) {
+                $('.emailReq').next('.contError').slideUp;
+            } else {
+				is_valid = false;
+               $('.emailReq').next('.contError').slideDown().html("Please Enter a valid Email Address");
+            }
+		}
+		if(is_valid)
+			validateComplete(form);
+	});
+	//goto top
+	$('.gototop').click(function(event) {
+		event.preventDefault();
+		$('html, body').animate({
+			scrollTop: $("body").offset().top
+		}, 500);
+	});	
+
+	//Pretty Photo
+	$("a[rel^='prettyPhoto']").prettyPhoto({
+		social_tools: false
+	});	
+	
+	if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+	 	$(".dropdown > a").attr("href", "javascript:;");
+	}
+
+});
+
+$(window).scroll(function() {
+	if($("body").scrollTop() > 300){
+		$('.gototop').addClass("gototopAct");
+	} else {
+		$('.gototop').removeClass("gototopAct");
+	}
+});
+
+function errorRemove(that){
+	$(that).next('span').slideUp();
+}
+
+function isValidEmailAddress(emailAddress) {
+    var pattern = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
+    return pattern.test(emailAddress);
+}
+
+function validateComplete(form){
+	var form_status = $('<div class="form_status center"></div>');
+	$.ajax({
+		url: $(form).attr('action'),
+		type: 'post',
+               data: $(form).serialize(),
+		beforeSend: function(){
+			form.prepend( form_status.html('<p class="mailSendingLoader"><i class="fa fa-spinner fa-spin"></i> Email is sending...</p>').fadeIn() );
+		}
+	}).done(function(data){
+		form_status.html('<p class="text-success">' + data.message + '</p>').delay(3000).slideUp();
+               $('.form-control').delay(3000).val('');
+	});
+}
     </script>
             <!--========== END JAVASCRIPTS ==========-->
 </body>

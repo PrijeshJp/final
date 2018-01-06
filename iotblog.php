@@ -12,7 +12,7 @@
     <?php
         include "nav.php";
     ?>
-    <section class="bgiot g-bg-position--center">
+    <section class="bgiot g-bg-position--center backdrop-60px">
         <div class="container g-position--overlay g-text-center--xs">
 
         </div>
