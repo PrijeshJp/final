@@ -31,7 +31,7 @@
     <div class="s-swiper js__swiper-one-item">
         <!-- Swiper Wrapper -->
         <div class="swiper-wrapper">
-            <div class="g-fullheight--xs g-bg-position--center swiper-slide" style="background: url('img/1920x1080/image-laptop.jpg');">
+            <div class="g-fullheight--xs g-bg-position--center swiper-slide backdrop" style="background: url('img/1920x1080/image-laptop.jpg');">
                 <div class="container g-text-center--xs g-ver-center--xs">
                     <div class="g-margin-b-30--xs">
                         <h1 class="g-font-size-35--xs g-font-size-45--sm g-font-size-55--md g-color--white shadow">Software Development
@@ -40,7 +40,7 @@
                     </div>
                 </div>
             </div>
-            <div class="g-fullheight--xs g-bg-position--center swiper-slide" style="background: url('img/1920x1080/laptop.jpg');">
+            <div class="g-fullheight--xs g-bg-position--center swiper-slide backdrop" style="background: url('img/1920x1080/laptop.jpg');">
                 <div class="container g-text-center--xs g-ver-center--xs">
                     <div class="g-margin-b-30--xs">
                         <div class="g-margin-b-30--xs">
