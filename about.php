@@ -45,12 +45,27 @@
                     As Stephen Hawking said that Intelligence is the ability to adapt to change, we have leveraged our extensive web application development experience to deliver best in class solutions on latest technology platforms like SalesForce, Mobile app development, cloud based solutions and Oracle Business Intelligence suits. Also, our team has expertise in developing and delivering enterprise web and mobile applications in platform as a service (PaaS) products like OutSystems which run in the cloud, on-premises or in hybrid environments.
                     <br><br>
                 </p>
+                <p class="lead">
+                    Minuscule Technologies, an Indian software development company, was founded in 2006 by a group of
+                    people who are passionate about technology. Our expertise cover everything from product development
+                    to service support. The core team includes skilled personnel who have experience working with
+                    global companies that develop products and/or serving clients. The motto of Minuscule Technologies
+                    is to leverage the team's technical and domain expertise and work with clients to help them empower
+                    their businesses by creating cutting edge software solutions.
+               </p>
+               <p class="lead">
+                    Minuscule Technologies has top-notch talents for Software design, Architecture, Creative and Responsive
+                    UI/UX, Mobile App Development, Digital Marketing and Quality Assurance Services. The company
+                    believes in using different platforms/technologies to find out-of-box solutions for issues that
+                    otherwise might throw off others. At Minuscule, we do not give up, we just try harder and harder
+                    till we find the solution.Minuscule serves multiple clients on different technologies stacks across the globe through state
+                    of the art delivery facility and follows the best practices, methodologies and processes for
+                    software development to deliver quality output on time every time.
+                </p>
             </div>
         </div>
     </div>
     <!--========== END PAGE CONTENT ==========-->
-
-
     <?php
         include "footer.php";
     ?>

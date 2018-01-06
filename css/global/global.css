@@ -7379,6 +7379,9 @@
     position: relative;
     top: 88px;
   }
+  .javaHeader{
+    margin-top: 230px;
+  }
 }
 .row.g-overflow--hidden{
   margin-top: 35px;
@@ -7393,5 +7396,8 @@
     top: 220px;
     width: 30%;
     left: 26px;
+  }
+  .javaHeader{
+    margin-top: 230px;
   }
 }

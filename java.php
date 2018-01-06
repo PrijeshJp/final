@@ -24,24 +24,20 @@
         include ("nav.php");
     ?>
     <!--========== PROMO BLOCK ==========-->
-    <section class="bgjava g-bg-position--center">
-        <div class="container g-position--overlay g-text-center--xs">
-
-        </div>
-    </section>
+		<img src="img/1920x1080/java3.jpg" alt="Java development" class="img-responsive res">
     <!--========== END PROMO BLOCK ==========-->
 
     <!--========== PAGE CONTENT ==========-->
     <!-- Mockup -->
     <div class="container g-margin-t-o-150--xs">
         <div class="center-block s-mockup-v1">
-            <img class="img-responsive" src="img/mockups/acerLaptop.png" alt="Mockup Image">
+            <img class="img-responsive res1" src="img/mockups/acerLaptop.png" alt="Mockup Image">
         </div>
     </div>
     <!-- End Mockup -->
     <div class="container">
 				<div class="center wow fadeInLeft spacebtm animated" style="visibility: visible; animation-name: fadeInLeft;">
-					<h2 class="text-left">Java Development Services</h2>
+					<h2 class="text-left javaHeader">Java Development Services</h2>
 					<p class="text-left lead">Minuscule Technologies offers exceptional Java/J2EE programming services to suit the Enterprise, web and mobile application development requirements of the clients. We do fulfill the needs of diverse enterprises impeccably. Our Java application development service is scalable and easy to implement.</p>
 					<br><br>
                     <div class="col-sm-12">

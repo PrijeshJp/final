@@ -1,64 +1,70 @@
         <!--========== FOOTER ==========-->
         <footer class="g-bg-color--dark">
-            <div class="container g-padding-y-50--xs">
+            <div class="">
                 <div class="g-hor-divider__dashed--white-opacity-lightest">
                     <div class="container g-padding-y-80--xs">
                         <div class="row">
                             <div class="col-sm-2 g-margin-b-20--xs g-margin-b-0--md">
                                 <ul class="list-unstyled g-ul-li-tb-5--xs g-margin-b-0--xs">
-                                    <li><a class="g-font-size-15--xs g-color--white-opacity" href="http://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes">Home</a></li>
-                                    <li><a class="g-font-size-15--xs g-color--white-opacity" href="http://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes">About</a></li>
-                                    <li><a class="g-font-size-15--xs g-color--white-opacity" href="http://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes">Work</a></li>
-                                    <li><a class="g-font-size-15--xs g-color--white-opacity" href="http://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes">Contact</a></li>
+                                    <li><a class="g-font-size-15--xs g-color--white-opacity" href="index.php">Home</a></li>
+                                    <li><a class="g-font-size-15--xs g-color--white-opacity" href="team.php">Team</a></li>
+                                    <li><a class="g-font-size-15--xs g-color--white-opacity" href="about.php">About</a></li>
+                                    <li><a class="g-font-size-15--xs g-color--white-opacity" href="contact.php">Contact</a></li>
                                 </ul>
                             </div>
                             <div class="col-sm-2 g-margin-b-20--xs g-margin-b-0--md">
+                                <label class="g-font-size-15--xs g-color--white-opacity">Services</label>
                                 <ul class="list-unstyled g-ul-li-tb-5--xs g-margin-b-0--xs">
-                                    <li><a class="g-font-size-15--xs g-color--white-opacity" href="http://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes">Twitter</a></li>
-                                    <li><a class="g-font-size-15--xs g-color--white-opacity" href="http://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes">Facebook</a></li>
-                                    <li><a class="g-font-size-15--xs g-color--white-opacity" href="http://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes">Instagram</a></li>
-                                    <li><a class="g-font-size-15--xs g-color--white-opacity" href="http://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes">YouTube</a></li>
+                                    <li><a class="g-font-size-15--xs g-color--white-opacity" href="salesforce.php">Salesforce</a></li>
+                                    <li><a class="g-font-size-15--xs g-color--white-opacity" href="outsystems.php">Outsystem</a></li>
+                                    <li><a class="g-font-size-15--xs g-color--white-opacity" href="iotblog.php">IOT Integrations</a></li>
+                                    <li><a class="g-font-size-15--xs g-color--white-opacity" href="heroku.php">Heroku Integrations</a></li>
+                                    <li><a class="g-font-size-15--xs g-color--white-opacity" href="java.php">Java Development</a></li>
+                                    <li><a class="g-font-size-15--xs g-color--white-opacity" href="twilio.php">Twilio Integrations</a></li>
                                 </ul>
                             </div>
                             <div class="col-sm-2 g-margin-b-20--xs g-margin-b-0--md">
+                                <label class="g-font-size-15--xs g-color--white-opacity" >Blog</label>
                                 <ul class="list-unstyled g-ul-li-tb-5--xs g-margin-b-0--xs">
-                                    <li><a class="g-font-size-15--xs g-color--white-opacity" href="http://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes">Subscribe to Our Newsletter</a></li>
-                                    <li><a class="g-font-size-15--xs g-color--white-opacity" href="http://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes">Privacy Policy</a></li>
-                                    <li><a class="g-font-size-15--xs g-color--white-opacity" href="http://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes">Terms &amp; Conditions</a></li>
+                                    <li><a class="g-font-size-15--xs g-color--white-opacity" href="oracle.php">Oracle Consulting</a></li>
+                                    <li><a class="g-font-size-15--xs g-color--white-opacity" href="digitalpractice.php">Digital Practice</a></li>
+                                    
+                                    <li><a class="g-font-size-15--xs g-color--white-opacity" href="salesforce_spa.php">Salesforce SPA</a></li>
                                 </ul>
                             </div>
                             <div class="col-md-4 col-md-offset-2 col-sm-5 col-sm-offset-1 s-footer__logo g-padding-y-50--xs g-padding-y-0--md">
-                                <h3 class="g-font-size-18--xs g-color--white">Megakit</h3>
-                                <p class="g-color--white-opacity">We are a creative studio focusing on culture, luxury, editorial &amp; art. Somewhere between sophistication and simplicity.</p>
+                                
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-xs-6 ">
-                        <ul class="list-inline s-header__action">
-                            <li class="s-header__action-item">
-                                <a class="s-header__action-link clr" href="http://www.facebook.com/minusculetechnologies" target="_blank">
-                                    <i class="g-padding-r-5--xs ti-facebook"></i>
-                                    <span class="g-display-none--xs g-display-inline-block--sm">Facebook</span>
-                                </a>
-                            </li>
-                            <li class="s-header__action-item">
-                                <a class="s-header__action-link clr" href="http://twitter.com/minusculetech" target="_blank">
-                                    <i class="g-padding-r-5--xs ti-twitter"></i>
-                                    <span class="g-display-none--xs g-display-inline-block--sm ">Twitter</span>
-                                </a>
-                            </li>
-                            <li class="s-header__action-item">
-                                <a class="s-header__action-link clr" href="https://www.linkedin.com/company/minuscule-technologies-pvt.-ltd." target="_blank">
-                                    <i class="g-padding-r-5--xs ti-linkedin"></i>
-                                    <span class="g-display-none--xs g-display-inline-block--sm">Linkedin</span>
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="col-xs-6 g-text-right--xs">
-                        <p class="g-font-size-14--xs g-margin-b-0--xs g-color--white-opacity-light">© 2016 Minuscule Technologies Pvt. Ltd.. All Rights Reserved.</p>
+                    <div class="container g-padding-y-50--xs">
+                        <div class="col-xs-6 ">
+                            <ul class="list-inline s-header__action">
+                                <li class="s-header__action-item">
+                                    <a class="s-header__action-link clr" href="http://www.facebook.com/minusculetechnologies" target="_blank">
+                                        <i class="g-padding-r-5--xs ti-facebook"></i>
+                                        <span class="g-display-none--xs g-display-inline-block--sm">Facebook</span>
+                                    </a>
+                                </li>
+                                <li class="s-header__action-item">
+                                    <a class="s-header__action-link clr" href="http://twitter.com/minusculetech" target="_blank">
+                                        <i class="g-padding-r-5--xs ti-twitter"></i>
+                                        <span class="g-display-none--xs g-display-inline-block--sm ">Twitter</span>
+                                    </a>
+                                </li>
+                                <li class="s-header__action-item">
+                                    <a class="s-header__action-link clr" href="https://www.linkedin.com/company/minuscule-technologies-pvt.-ltd." target="_blank">
+                                        <i class="g-padding-r-5--xs ti-linkedin"></i>
+                                        <span class="g-display-none--xs g-display-inline-block--sm">Linkedin</span>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="col-xs-6 g-text-right--xs">
+                            <p class="g-font-size-14--xs g-margin-b-0--xs g-color--white-opacity-light">© 2016 Minuscule Technologies Pvt. Ltd.. All Rights Reserved.</p>
+                        </div>
                     </div>
                 </div>
             </div>
