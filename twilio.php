@@ -24,10 +24,13 @@
         include ("nav.php");
     ?>
     <!--========== PROMO BLOCK ==========-->
-    <section class="" >
+    <div style="max-height:55vh; overflow:hidden;">
+        <img src="img/1920x1080/blog.jpg" class="img-responsive res" style="width:100%">
+    </div>
+    <!-- <section class="" >
         <div class="container g-position--overlay g-text-center--xs">
         </div>
-    </section>
+    </section> -->
     <!--========== END PROMO BLOCK ==========-->
     <!--========== PAGE CONTENT ==========-->
     <div class="container blogpad">

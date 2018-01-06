@@ -20,6 +20,11 @@
     <?php
         include "nav.php";
     ?>  
+    <div style="max-height:55vh; overflow:hidden;">
+        <section class="backdrop-60px">
+            <img src="img/1920x1080/topbanner.jpg" class="img-responsive res" style="width:100%">
+        </section>
+    </div>  
         <!--========== PAGE CONTENT ==========-->
         <!-- Feedback Form -->
         <div class="se-pre-con"></div>

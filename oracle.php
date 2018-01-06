@@ -23,6 +23,7 @@
     <?php
         include ("nav.php");
     ?>
+    <section class="g-bg-position--center backdrop-60px"></section>
     <!--========== END HEADER ==========-->
 
     <!--========== PROMO BLOCK ==========-->
