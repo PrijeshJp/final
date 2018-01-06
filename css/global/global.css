@@ -2168,7 +2168,7 @@
 
 .g-margin-b-40--xs {
   margin-bottom: 2.5rem;
-  margin-top: 80px;
+  margin-top: 151px;
 }
 
 .g-margin-b-45--xs {
@@ -7390,8 +7390,9 @@
   }
   img.img-responsive.res1{
     position: relative;
-    top: 150px;
-    width: 50%;
+    top: 220px;
+    width: 30%;
+    left: 26px;
   }
 }
 #contact-page {
