@@ -36,9 +36,8 @@
         include "nav.php";
     ?>
     <!--========== PROMO BLOCK ==========-->
-    <section class="bgblog" >
-    <div class="container g-position--overlay g-text-center--xs"></div>
-    </section>    <!--========== END PROMO BLOCK ==========-->
+    <img src="img/1920x1080/herokubanner.jpg" class="img-responsive res">
+    <!--========== END PROMO BLOCK ==========-->
     <!--========== PAGE CONTENT ==========-->
     <div class="container blogpad">
         <div class="wow fadeInLeft animated " style="visibility: visible; animation-name: fadeInLeft;">
