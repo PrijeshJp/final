@@ -7394,3 +7394,56 @@
     width: 50%;
   }
 }
+#contact-page {
+  padding-top: 0;
+}
+body > section {
+  padding: 70px 0;
+}
+.center {
+  text-align: center;
+}
+#contact-page .contact-wrap {
+  margin-top: 20px;
+}
+.alert-success {
+  color: #3c763d;
+  background-color: #dff0d8;
+  border-color: #d6e9c6;
+}
+.alert {
+  padding: 15px;
+  margin-bottom: 20px;
+  border: 1px solid transparent;
+  border-radius: 4px;
+}
+#main-contact-form em {
+  color: #FF0000;
+}
+.contError {
+  display: none;
+  background: red;
+  position: absolute;
+  z-index: 10;
+  color: #fff;
+  border-radius: 3px;
+  bottom: 62px;
+  position: relative;
+  left: 22%;
+  font-size: 11px;
+  padding: 0 15px;
+}
+.contError:before {
+  content: "";
+  width: 0;
+  height: 0;
+  border-left: 7px solid transparent;
+  border-right: 7px solid transparent;
+  border-top: 7px solid red;
+  position: absolute;
+  right: 15px;
+  bottom: -5px;
+  }
+  .cont{
+    bottom: 204px;
+  }

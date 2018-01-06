@@ -63,10 +63,11 @@
 				</div>
 				<!--/.our-skill--><!-- our-team -->
 				<!--section-->
-			</div>
+	</div>
     <!--========== END PAGE CONTENT ==========-->
     <?php
             include "footer.php";
     ?>
 </body>
 <!-- End Body -->
+</html>
