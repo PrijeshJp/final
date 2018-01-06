@@ -1059,7 +1059,7 @@
     <!-- End Portfolio -->
 
     <!-- Blog -->
-    <div class="container g-padding-y-80--xs g-padding-y-125--sm">
+    <div class="container g-padding-y-80--xs g-padding-y-125--sm" style="padding-top:0px;">
         <div class="g-text-center--xs g-margin-b-80--xs">
             <h2 class="g-font-size-32--xs g-font-size-36--md">Latest Blog</h2>
         </div>

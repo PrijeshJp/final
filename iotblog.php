@@ -27,7 +27,7 @@
         </div>
     </div>
     <div class="container">
-        <div class="center">
+        <div class="">
             <h2 class="text-left wow fadeInLeft spacebtm animated" style="visibility: visible; animation-name: fadeInLeft;">Minuscule’s IoT Projects</h2>
             <div class="col-sm-12 wow fadeInRight spacebtm animated" style="visibility: visible; animation-name: fadeInRight;">
                     <ul class="text-left lead">
