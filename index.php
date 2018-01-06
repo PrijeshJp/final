@@ -31,7 +31,7 @@
     <div class="s-swiper js__swiper-one-item">
         <!-- Swiper Wrapper -->
         <div class="swiper-wrapper">
-            <div class="g-fullheight--xs g-bg-position--center swiper-slide" style="background: url('img/1920x1080/image-laptop.jpg');">
+            <div class="g-fullheight--xs g-bg-position--center swiper-slide backdrop" style="background: url('img/1920x1080/image-laptop.jpg');">
                 <div class="container g-text-center--xs g-ver-center--xs">
                     <div class="g-margin-b-30--xs">
                         <h1 class="g-font-size-35--xs g-font-size-45--sm g-font-size-55--md g-color--white shadow">Software Development
@@ -40,7 +40,7 @@
                     </div>
                 </div>
             </div>
-            <div class="g-fullheight--xs g-bg-position--center swiper-slide" style="background: url('img/1920x1080/laptop.jpg');">
+            <div class="g-fullheight--xs g-bg-position--center swiper-slide backdrop" style="background: url('img/1920x1080/laptop.jpg');">
                 <div class="container g-text-center--xs g-ver-center--xs">
                     <div class="g-margin-b-30--xs">
                         <div class="g-margin-b-30--xs">
@@ -65,106 +65,108 @@
 
     <!--========== PAGE CONTENT ==========-->
     <!-- Features -->
-    <div class="container g-padding-y-80--xs g-padding-y-125--sm">
-        <div class="g-text-center--xs g-margin-b-100--xs">
-            <!-- <p id="js__scroll-to-section" class="g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs">Welcome to Minuscule Technologies Ltd.</p> -->
-            <h2 id="js__scroll-to-section" class="g-font-size-32--xs g-font-size-36--md">We're Serious About
-                <br> Software Development</h2>
+    <div class="g-promo-section g-bg-color--sky-light">
+        <div class="container g-padding-y-80--xs g-padding-y-125--sm">
+            <div class="g-text-center--xs g-margin-b-100--xs">
+                <!-- <p id="js__scroll-to-section" class="g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs">Welcome to Minuscule Technologies Ltd.</p> -->
+                <h2 id="js__scroll-to-section" class="g-font-size-32--xs g-font-size-36--md">We're Serious About
+                    <br> Software Development</h2>
+            </div>
+            <div class="row g-margin-b-60--xs g-margin-b-70--md">
+                <div class="col-sm-4 g-margin-b-60--xs g-margin-b-0--md">
+                    <div class="clearfix">
+                        <div class="g-media g-width-30--xs">
+                            <div class="wow fadeInDown" data-wow-duration=".3" data-wow-delay=".1s">
+                                <!-- <i class="g-font-size-28--xs g-color--primary ti-desktop"></i> -->
+                                <img src="img/icons/crm.png" alt="crm">
+                            </div>
+                        </div>
+                        <div class="g-media__body g-padding-x-20--xs">
+                            <h3 class="g-font-size-18--xs">CRM & PaaS</h3>
+                            <p class="g-margin-b-0--xs">We deliver superior customer experience with custom solutions.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4 g-margin-b-60--xs g-margin-b-0--md">
+                    <div class="clearfix">
+                        <div class="g-media g-width-30--xs">
+                            <div class="wow fadeInDown" data-wow-duration=".3" data-wow-delay=".2s">
+                                <!-- <i class="g-font-size-28--xs g-color--primary ti-settings"></i> -->
+                                <img src="img/icons/programming.png" alt="crm">
+                            </div>
+                        </div>
+                        <div class="g-media__body g-padding-x-20--xs">
+                            <h3 class="g-font-size-18--xs">Application Development</h3>
+                            <p class="g-margin-b-0--xs">Application and maintenance solutions to drive efficiency and effectiveness.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="clearfix">
+                        <div class="g-media g-width-30--xs">
+                            <div class="wow fadeInDown" data-wow-duration=".3" data-wow-delay=".3s">
+                                <!-- <i class="g-font-size-28--xs g-color--primary ti-ruler-alt-2"></i> -->
+                                <img src="img/icons/mob.png" alt="Mobile Development">
+                            </div>
+                        </div>
+                        <div class="g-media__body g-padding-x-20--xs">
+                            <h3 class="g-font-size-18--xs">Web & Mobile App Development</h3>
+                            <p class="g-margin-b-0--xs">Design and develop digital products with a user centric approach.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- // end row  -->
+            <div class="row">
+                <div class="col-sm-4 g-margin-b-60--xs g-margin-b-0--md">
+                    <div class="clearfix">
+                        <div class="g-media g-width-30--xs">
+                            <div class="wow fadeInDown" data-wow-duration=".3" data-wow-delay=".4s">
+                                <!-- <i class="g-font-size-28--xs g-color--primary ti-package"></i> -->
+                                <img src="img/icons/think.png" alt="">
+                            </div>
+                        </div>
+                        <div class="g-media__body g-padding-x-20--xs">
+                            <h3 class="g-font-size-18--xs">Digital Solutions</h3>
+                            <p class="g-margin-b-0--xs">We help clients to implement Digital Transformation by unifying business and technology. </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4 g-margin-b-60--xs g-margin-b-0--md">
+                    <div class="clearfix">
+                        <div class="g-media g-width-30--xs">
+                            <div class="wow fadeInDown" data-wow-duration=".3" data-wow-delay=".5s">
+                                <!-- <i class="g-font-size-28--xs g-color--primary ti-star"></i> -->
+                                <img src="img/icons/award.png" alt="QA">
+                            </div>
+                        </div>
+                        <div class="g-media__body g-padding-x-20--xs">
+                            <h3 class="g-font-size-18--xs">Quality Assurance Services</h3>
+                            <p class="g-margin-b-0--xs">QA services that focuses primarily on Software Quality Assurance in a business process context.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="clearfix">
+                        <div class="g-media g-width-30--xs">
+                            <div class="wow fadeInDown" data-wow-duration=".3" data-wow-delay=".6s">
+                                <!-- <i class="g-font-size-28--xs g-color--primary ti-panel"></i> -->
+                                <img src="img/icons/idea.png" alt="Idea">
+                            </div>
+                        </div>
+                        <div class="g-media__body g-padding-x-20--xs">
+                            <h3 class="g-font-size-18--xs">Latest Thinking</h3>
+                            <p class="g-margin-b-0--xs">Being a polyglot technology team, we do work on latest trends to foster Innovation & Engineering
+                                the Future.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- // end row  -->
         </div>
-        <div class="row g-margin-b-60--xs g-margin-b-70--md">
-            <div class="col-sm-4 g-margin-b-60--xs g-margin-b-0--md">
-                <div class="clearfix">
-                    <div class="g-media g-width-30--xs">
-                        <div class="wow fadeInDown" data-wow-duration=".3" data-wow-delay=".1s">
-                            <!-- <i class="g-font-size-28--xs g-color--primary ti-desktop"></i> -->
-                            <img src="img/icons/crm.png" alt="crm">
-                        </div>
-                    </div>
-                    <div class="g-media__body g-padding-x-20--xs">
-                        <h3 class="g-font-size-18--xs">CRM & PaaS</h3>
-                        <p class="g-margin-b-0--xs">We deliver superior customer experience with custom solutions.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-sm-4 g-margin-b-60--xs g-margin-b-0--md">
-                <div class="clearfix">
-                    <div class="g-media g-width-30--xs">
-                        <div class="wow fadeInDown" data-wow-duration=".3" data-wow-delay=".2s">
-                            <!-- <i class="g-font-size-28--xs g-color--primary ti-settings"></i> -->
-                            <img src="img/icons/programming.png" alt="crm">
-                        </div>
-                    </div>
-                    <div class="g-media__body g-padding-x-20--xs">
-                        <h3 class="g-font-size-18--xs">Application Development</h3>
-                        <p class="g-margin-b-0--xs">Application and maintenance solutions to drive efficiency and effectiveness.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-sm-4">
-                <div class="clearfix">
-                    <div class="g-media g-width-30--xs">
-                        <div class="wow fadeInDown" data-wow-duration=".3" data-wow-delay=".3s">
-                            <!-- <i class="g-font-size-28--xs g-color--primary ti-ruler-alt-2"></i> -->
-                            <img src="img/icons/mob.png" alt="Mobile Development">
-                        </div>
-                    </div>
-                    <div class="g-media__body g-padding-x-20--xs">
-                        <h3 class="g-font-size-18--xs">Web & Mobile App Development</h3>
-                        <p class="g-margin-b-0--xs">Design and develop digital products with a user centric approach.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- // end row  -->
-        <div class="row">
-            <div class="col-sm-4 g-margin-b-60--xs g-margin-b-0--md">
-                <div class="clearfix">
-                    <div class="g-media g-width-30--xs">
-                        <div class="wow fadeInDown" data-wow-duration=".3" data-wow-delay=".4s">
-                            <!-- <i class="g-font-size-28--xs g-color--primary ti-package"></i> -->
-                            <img src="img/icons/think.png" alt="">
-                        </div>
-                    </div>
-                    <div class="g-media__body g-padding-x-20--xs">
-                        <h3 class="g-font-size-18--xs">Digital Solutions</h3>
-                        <p class="g-margin-b-0--xs">We help clients to implement Digital Transformation by unifying business and technology. </p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-sm-4 g-margin-b-60--xs g-margin-b-0--md">
-                <div class="clearfix">
-                    <div class="g-media g-width-30--xs">
-                        <div class="wow fadeInDown" data-wow-duration=".3" data-wow-delay=".5s">
-                            <!-- <i class="g-font-size-28--xs g-color--primary ti-star"></i> -->
-                            <img src="img/icons/award.png" alt="QA">
-                        </div>
-                    </div>
-                    <div class="g-media__body g-padding-x-20--xs">
-                        <h3 class="g-font-size-18--xs">Quality Assurance Services</h3>
-                        <p class="g-margin-b-0--xs">QA services that focuses primarily on Software Quality Assurance in a business process context.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-sm-4">
-                <div class="clearfix">
-                    <div class="g-media g-width-30--xs">
-                        <div class="wow fadeInDown" data-wow-duration=".3" data-wow-delay=".6s">
-                            <!-- <i class="g-font-size-28--xs g-color--primary ti-panel"></i> -->
-                            <img src="img/icons/idea.png" alt="Idea">
-                        </div>
-                    </div>
-                    <div class="g-media__body g-padding-x-20--xs">
-                        <h3 class="g-font-size-18--xs">Latest Thinking</h3>
-                        <p class="g-margin-b-0--xs">Being a polyglot technology team, we do work on latest trends to foster Innovation & Engineering
-                            the Future.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- // end row  -->
     </div>
     <!-- End Features -->
-    <div class="g-promo-section g-bg-color--sky-light">
+    <div class="g-promo-section">
         <div class="container g-padding-y-80--xs g-padding-y-125--sm">
             <div class="row">
                 <!-- <div class="col-md-4 g-margin-t-15--xs g-margin-b-60--xs g-margin-b-0--lg">
@@ -205,931 +207,856 @@
     <!-- End Culture -->
 
     <!-- Portfolio Filter -->
-    <div class="container g-padding-y-80--xs">
-        <div class="g-text-center--xs g-margin-b-40--xs">
-            <h2 class="g-font-size-32--xs g-font-size-36--md">Technologies</h2>
-        </div>
-        <div class="s-portfolio">
-            <div id="js__filters-portfolio-gallery" class="s-portfolio__filter-v1 cbp-l-filters-text cbp-l-filters-center">
-                <div data-filter=".crm" class="set-def s-portfolio__filter-v1-item cbp-filter-item">CRM & Portal</div>
-                <div data-filter=".cloud" class="s-portfolio__filter-v1-item cbp-filter-item">Cloud Computing</div>
-                <div data-filter=".data" class="s-portfolio__filter-v1-item cbp-filter-item">DATA STORE</div>
-                <div data-filter=".frontend" class="s-portfolio__filter-v1-item cbp-filter-item">Web FrontEnd Desgin</div>
-                <div data-filter=".core" class="s-portfolio__filter-v1-item cbp-filter-item">Core</div>
+    <div class="g-promo-section g-bg-color--sky-light">
+        <div class="container g-padding-y-80--xs">
+            <div class="g-text-center--xs g-margin-b-40--xs">
+                <h2 class="g-font-size-32--xs g-font-size-36--md">Technologies</h2>
             </div>
-        </div>
-    </div>
-    <!-- End Portfolio Filter -->
-
-    <!-- Portfolio Gallery -->
-    <div id="Container" class="container g-margin-b-100--xs">
-        <div id="js__grid-portfolio-gallery" class="cbp">
-            <!-- Item -->
-            <div class="s-portfolio__item cbp-item crm">
-                <div class="s-portfolio__img-effect">
-                    <img src="img/logos/salesforce.png" alt="Portfolio Image">
-                </div>
-                <div class="s-portfolio__caption-hover--cc">
-                    <div class="g-margin-b-25--xs">
-                        <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Salesforce</h4>
-                        <p class="g-color--white-opacity">CRM</p>
-                    </div>
-                    <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                        <!-- <li>
-                            <a href="img/logos/salesforce.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Salesforce<br/> CRM.">
-                                <i class="ti-fullscreen"></i>
-                            </a>
-                        </li> -->
-                        <li>
-                            <a href="https://www.salesforce.com/" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                <i class="ti-link"></i>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
-            <!-- Item -->
-            <div class="s-portfolio__item cbp-item crm">
-                <div class="s-portfolio__img-effect">
-                    <img src="img/logos/heroku.png" alt="Portfolio Image">
-                </div>
-                <div class="s-portfolio__caption-hover--cc">
-                    <div class="g-margin-b-25--xs">
-                        <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Heroku</h4>
-                        <p class="g-color--white-opacity">Platform.</p>
-                    </div>
-                    <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                        <!-- <li>
-                            <a href="img/logos/heroku.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Heroku<br/> Platform.">
-                                <i class="ti-fullscreen"></i>
-                            </a>
-                        </li> -->
-                        <li>
-                            <a href="https://www.heroku.com/" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                <i class="ti-link"></i>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
-            <!-- Item -->
-            <div class="s-portfolio__item cbp-item crm">
-                <div class="s-portfolio__img-effect">
-                    <img src="img/logos/outsystems.png" alt="Portfolio Image">
-                </div>
-                <div class="s-portfolio__caption-hover--cc">
-                    <div class="g-margin-b-25--xs">
-                        <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">OutSystems</h4>
-                        <p class="g-color--white-opacity">Platform.</p>
-                    </div>
-                    <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                        <!-- <li>
-                            <a href="img/logos/outsystems.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Outsystems<br/> Platform.">
-                                <i class="ti-fullscreen"></i>
-                            </a>
-                        </li> -->
-                        <li>
-                            <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                <i class="ti-link"></i>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
-            <!-- Item -->
-            <div class="s-portfolio__item cbp-item crm">
-                <div class="s-portfolio__img-effect">
-                    <img src="img/logos/LifeRay.png" alt="Portfolio Image">
-                </div>
-                <div class="s-portfolio__caption-hover--cc">
-                    <div class="g-margin-b-25--xs">
-                        <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">LIFERAY</h4>
-                        <p class="g-color--white-opacity">Portal.</p>
-                    </div>
-                    <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                        <!-- <li>
-                            <a href="img/logos/LifeRay.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="LifeRay<br/> Portal.">
-                                <i class="ti-fullscreen"></i>
-                            </a>
-                        </li> -->
-                        <li>
-                            <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                <i class="ti-link"></i>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
-            <!-- Item -->
-            <div class="s-portfolio__item cbp-item crm">
-                <div class="s-portfolio__img-effect">
-                    <img src="img/logos/Sfcommunity.png" alt="Portfolio Image">
-                </div>
-                <div class="s-portfolio__caption-hover--cc">
-                    <div class="g-margin-b-25--xs">
-                        <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Salesforce Community</h4>
-                        <p class="g-color--white-opacity">Salesforce CRM.</p>
-                    </div>
-                    <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                        <!-- <li>
-                            <a href="img/logos/Sfcommunity.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Salesforce Community <br/> Salesforce CRM.">
-                                <i class="ti-fullscreen"></i>
-                            </a>
-                        </li> -->
-                        <li>
-                            <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                <i class="ti-link"></i>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
-            <!-- Item -->
-            <div class="s-portfolio__item cbp-item crm">
-                <div class="s-portfolio__img-effect">
-                    <img src="img/logos/sfappechange.png" alt="Portfolio Image">
-                </div>
-                <div class="s-portfolio__caption-hover--cc">
-                    <div class="g-margin-b-25--xs">
-                        <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Portfolio Item</h4>
-                        <p class="g-color--white-opacity">by KeenThemes Inc.</p>
-                    </div>
-                    <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                        <!-- <li>
-                            <a href="img/logos/sfappechange.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Portfolio Item <br/> by KeenThemes Inc.">
-                                <i class="ti-fullscreen"></i>
-                            </a>
-                        </li> -->
-                        <li>
-                            <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                <i class="ti-link"></i>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
-            <!-- Item -->
-            <div class="s-portfolio__item cbp-item cloud">
-                <div class="s-portfolio__img-effect">
-                    <img src="img/logos/amazon.png" alt="Portfolio Image">
-                </div>
-                <div class="s-portfolio__caption-hover--cc">
-                    <div class="g-margin-b-25--xs">
-                        <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Amazon Web-service</h4>
-                        <p class="g-color--white-opacity">Service platform.</p>
-                    </div>
-                    <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                        <!-- <li>
-                            <a href="img/logos/amazon.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Amazon Web-service<br/> Service platform.">
-                                <i class="ti-fullscreen"></i>
-                            </a>
-                        </li> -->
-                        <li>
-                            <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                <i class="ti-link"></i>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
-            <!-- Item -->
-            <div class="s-portfolio__item cbp-item cloud">
-                <div class="s-portfolio__img-effect">
-                    <img src="img/logos/ansible.png" alt="Portfolio Image">
-                </div>
-                <div class="s-portfolio__caption-hover--cc">
-                    <div class="g-margin-b-25--xs">
-                        <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Ansible</h4>
-                        <p class="g-color--white-opacity">Cloud Computing.</p>
-                    </div>
-                    <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                        <!-- <li>
-                            <a href="img/logos/ansible.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Ansible<br/> Cloud Computing.">
-                                <i class="ti-fullscreen"></i>
-                            </a>
-                        </li> -->
-                        <li>
-                            <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                <i class="ti-link"></i>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
-            <!-- Item -->
-            <div class="s-portfolio__item cbp-item cloud">
-                <div class="s-portfolio__img-effect">
-                    <img src="img/logos/kafla.png" alt="Portfolio Image">
-                </div>
-                <div class="s-portfolio__caption-hover--cc">
-                    <div class="g-margin-b-25--xs">
-                        <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Kafla</h4>
-                        <p class="g-color--white-opacity">Cloud Computing.</p>
-                    </div>
-                    <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                        <!-- <li>
-                            <a href="img/logos/kafla.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Kafla<br/> Cloud Computing.">
-                                <i class="ti-fullscreen"></i>
-                            </a>
-                        </li> -->
-                        <li>
-                            <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                <i class="ti-link"></i>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
-            <!-- Item -->
-            <div class="s-portfolio__item cbp-item cloud">
-                <div class="s-portfolio__img-effect">
-                    <img src="img/logos/rabbitmq.png" alt="Portfolio Image">
-                </div>
-                <div class="s-portfolio__caption-hover--cc">
-                    <div class="g-margin-b-25--xs">
-                        <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Rabbitmq</h4>
-                        <p class="g-color--white-opacity">Cloud Computing.</p>
-                    </div>
-                    <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                        <!-- <li>
-                                <a href="img/logos/rabbitmq.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Rabbitmq<br/> Cloud Computing.">
-                                </a>
-                            </li> -->
-                        <li>
-                            <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                <i class="ti-link"></i>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
-            <!-- Item -->
-            <div class="s-portfolio__item cbp-item cloud">
-                <div class="s-portfolio__img-effect">
-                    <img src="img/logos/spring-1.png" alt="Portfolio Image">
-                </div>
-                <div class="s-portfolio__caption-hover--cc">
-                    <div class="g-margin-b-25--xs">
-                        <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Spring</h4>
-                        <p class="g-color--white-opacity">Cloud Computing.</p>
-                    </div>
-                    <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                        <!-- <li>
-                                <a href="img/logos/spring-1.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Spring<br/> Cloud Computing.">
-                                </a>
-                            </li> -->
-                        <li>
-                            <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                <i class="ti-link"></i>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
-            <!-- Item -->
-            <div class="s-portfolio__item cbp-item data">
-                <div class="s-portfolio__img-effect">
-                    <img src="img/logos/oracle.png" alt="Portfolio Image">
-                </div>
-                <div class="s-portfolio__caption-hover--cc">
-                    <div class="g-margin-b-25--xs">
-                        <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Oracle</h4>
-                        <p class="g-color--white-opacity">Database
-                            <base href="">.</p>
-                    </div>
-                    <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                        <!-- <li>
-                                <a href="img/logos/oracle.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Oracle<br/> Database.">
-                                </a>
-                            </li> -->
-                        <li>
-                            <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                <i class="ti-link"></i>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
-            <!-- Item -->
-            <div class="s-portfolio__item cbp-item cloud">
-                <div class="s-portfolio__img-effect">
-                    <img src="img/logos/kubernetes.png" alt="Portfolio Image">
-                </div>
-                <div class="s-portfolio__caption-hover--cc">
-                    <div class="g-margin-b-25--xs">
-                        <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">kubernetes</h4>
-                        <p class="g-color--white-opacity">Cloud Computing.</p>
-                    </div>
-                    <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                        <!-- <li>
-                                <a href="img/logos/kubernetes.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
-                                </a>
-                            </li> -->
-                        <li>
-                            <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                <i class="ti-link"></i>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
-            <!-- Item -->
-            <div class="s-portfolio__item cbp-item data">
-                <div class="s-portfolio__img-effect">
-                    <img src="img/logos/cassandra.png" alt="Portfolio Image">
-                </div>
-                <div class="s-portfolio__caption-hover--cc">
-                    <div class="g-margin-b-25--xs">
-                        <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Cassandra</h4>
-                        <p class="g-color--white-opacity">NoSQL database.</p>
-                    </div>
-                    <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                        <!-- <li>
-                                <a href="img/logos/cassandra.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
-                                </a>
-                            </li> -->
-                        <li>
-                            <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                <i class="ti-link"></i>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
-            <!-- Item -->
-            <div class="s-portfolio__item cbp-item data">
-                <div class="s-portfolio__img-effect">
-                    <img src="img/logos/mysql.png" alt="Portfolio Image">
-                </div>
-                <div class="s-portfolio__caption-hover--cc">
-                    <div class="g-margin-b-25--xs">
-                        <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">mysql</h4>
-                        <p class="g-color--white-opacity">Database.</p>
-                    </div>
-                    <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                        <!-- <li>
-                                <a href="img/logos/mysql.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
-                                </a>
-                            </li> -->
-                        <li>
-                            <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                <i class="ti-link"></i>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
-            <!-- Item -->
-            <div class="s-portfolio__item cbp-item data">
-                <div class="s-portfolio__img-effect">
-                    <img src="img/logos/sqlserver.png" alt="Portfolio Image">
-                </div>
-                <div class="s-portfolio__caption-hover--cc">
-                    <div class="g-margin-b-25--xs">
-                        <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Microsoft SQLserver</h4>
-                        <p class="g-color--white-opacity">Database.</p>
-                    </div>
-                    <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                        <!-- <li>
-                                <a href="img/logos/sqlserver.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
-                                </a>
-                            </li> -->
-                        <li>
-                            <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                <i class="ti-link"></i>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
-            <!-- Item -->
-            <div class="s-portfolio__item cbp-item data">
-                <div class="s-portfolio__img-effect">
-                    <img src="img/logos/elastic.png" alt="Portfolio Image">
-                </div>
-                <div class="s-portfolio__caption-hover--cc">
-                    <div class="g-margin-b-25--xs">
-                        <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Elastic</h4>
-                        <p class="g-color--white-opacity">Search Engine.</p>
-                    </div>
-                    <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                        <!-- <li>
-                                <a href="img/logos/elastic.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
-                                </a>
-                            </li> -->
-                        <li>
-                            <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                <i class="ti-link"></i>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
-            <!-- Item -->
-            <div class="s-portfolio__item cbp-item data">
-                <div class="s-portfolio__img-effect">
-                    <img src="img/logos/couchbase.png" alt="Portfolio Image">
-                </div>
-                <div class="s-portfolio__caption-hover--cc">
-                    <div class="g-margin-b-25--xs">
-                        <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Couchbase</h4>
-                        <p class="g-color--white-opacity">Multi-model NoSQL.</p>
-                    </div>
-                    <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                        <!-- <li>
-                                <a href="img/logos/couchbase.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
-                                </a>
-                            </li> -->
-                        <li>
-                            <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                <i class="ti-link"></i>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
-            <!-- Item -->
-            <div class="s-portfolio__item cbp-item data">
-                <div class="s-portfolio__img-effect">
-                    <img src="img/logos/postgresql.png" alt="Portfolio Image">
-                </div>
-                <div class="s-portfolio__caption-hover--cc">
-                    <div class="g-margin-b-25--xs">
-                        <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Postgresql</h4>
-                        <p class="g-color--white-opacity">Object-relational Database system.</p>
-                    </div>
-                    <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                        <!-- <li>
-                                <a href="img/logos/postgresql.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
-                                </a>
-                            </li> -->
-                        <li>
-                            <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                <i class="ti-link"></i>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
-            <!-- Item -->
-            <div class="s-portfolio__item cbp-item data">
-                <div class="s-portfolio__img-effect">
-                    <img src="img/logos/apachespark.png" alt="Portfolio Image">
-                </div>
-                <div class="s-portfolio__caption-hover--cc">
-                    <div class="g-margin-b-25--xs">
-                        <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Apache Spark</h4>
-                        <p class="g-color--white-opacity"> Cluster-Computing Framework.</p>
-                    </div>
-                    <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                        <!-- <li>
-                                <a href="img/logos/apachespark.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
-                                </a>
-                            </li> -->
-                        <li>
-                            <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                <i class="ti-link"></i>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
-            <!-- Item -->
-            <div class="s-portfolio__item cbp-item frontend">
-                <div class="s-portfolio__img-effect">
-                    <img src="img/logos/angular.png" alt="Portfolio Image">
-                </div>
-                <div class="s-portfolio__caption-hover--cc">
-                    <div class="g-margin-b-25--xs">
-                        <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Angular</h4>
-                        <p class="g-color--white-opacity">Structural Framework.</p>
-                    </div>
-                    <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                        <!-- <li>
-                                <a href="img/logos/angular.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
-                                </a>
-                            </li> -->
-                        <li>
-                            <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                <i class="ti-link"></i>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
-            <!-- Item -->
-            <div class="s-portfolio__item cbp-item frontend">
-                <div class="s-portfolio__img-effect">
-                    <img src="img/logos/boots.png" alt="Portfolio Image">
-                </div>
-                <div class="s-portfolio__caption-hover--cc">
-                    <div class="g-margin-b-25--xs">
-                        <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Bootstrap</h4>
-                        <p class="g-color--white-opacity">Front-end Web Framework.</p>
-                    </div>
-                    <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                        <!-- <li>
-                                <a href="img/logos/boots.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
-                                </a>
-                            </li> -->
-                        <li>
-                            <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                <i class="ti-link"></i>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
-            <!-- Item -->
-            <div class="s-portfolio__item cbp-item frontend">
-                <div class="s-portfolio__img-effect">
-                    <img src="img/logos/html.png" alt="Portfolio Image">
-                </div>
-                <div class="s-portfolio__caption-hover--cc">
-                    <div class="g-margin-b-25--xs">
-                        <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">HTML 5</h4>
-                        <p class="g-color--white-opacity">Standard Markup Language.</p>
-                    </div>
-                    <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                        <!-- <li>
-                                <a href="img/logos/html.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
-                                </a>
-                            </li> -->
-                        <li>
-                            <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                <i class="ti-link"></i>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
-            <!-- Item -->
-            <div class="s-portfolio__item cbp-item frontend">
-                <div class="s-portfolio__img-effect">
-                    <img src="img/logos/css.png" alt="Portfolio Image">
-                </div>
-                <div class="s-portfolio__caption-hover--cc">
-                    <div class="g-margin-b-25--xs">
-                        <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">CSS</h4>
-                        <p class="g-color--white-opacity">Cascading Style Sheets.</p>
-                    </div>
-                    <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                        <!-- <li>
-                                <a href="img/logos/css.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
-                                </a>
-                            </li> -->
-                        <li>
-                            <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                <i class="ti-link"></i>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
-            <!-- Item -->
-            <div class="s-portfolio__item cbp-item frontend">
-                <div class="s-portfolio__img-effect">
-                    <img src="img/logos/d3.png" alt="Portfolio Image">
-                </div>
-                <div class="s-portfolio__caption-hover--cc">
-                    <div class="g-margin-b-25--xs">
-                        <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">d3</h4>
-                        <p class="g-color--white-opacity">JavaScript library.</p>
-                    </div>
-                    <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                        <!-- <li>
-                                <a href="img/logos/d3.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
-                                </a>
-                            </li> -->
-                        <li>
-                            <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                <i class="ti-link"></i>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
-            <!-- Item -->
-            <div class="s-portfolio__item cbp-item frontend">
-                <div class="s-portfolio__img-effect">
-                    <img src="img/logos/jquery.png" alt="Portfolio Image">
-                </div>
-                <div class="s-portfolio__caption-hover--cc">
-                    <div class="g-margin-b-25--xs">
-                        <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">jquery</h4>
-                        <p class="g-color--white-opacity">JavaScript library.</p>
-                    </div>
-                    <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                        <!-- <li>
-                                <a href="img/logos/jquery.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
-                                </a>
-                            </li> -->
-                        <li>
-                            <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                <i class="ti-link"></i>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
-            <!-- Item -->
-            <div class="s-portfolio__item cbp-item frontend">
-                <div class="s-portfolio__img-effect">
-                    <img src="img/logos/websocket.png" alt="Portfolio Image">
-                </div>
-                <div class="s-portfolio__caption-hover--cc">
-                    <div class="g-margin-b-25--xs">
-                        <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Websocket</h4>
-                        <p class="g-color--white-opacity">Computer communications protocol.</p>
-                    </div>
-                    <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                        <!-- <li>
-                                <a href="img/logos/websocket.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
-                                </a>
-                            </li> -->
-                        <li>
-                            <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                <i class="ti-link"></i>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
-            <!-- Item -->
-            <div class="s-portfolio__item cbp-item core">
-                <div class="s-portfolio__img-effect">
-                    <img src="img/logos/python.png" alt="Portfolio Image">
-                </div>
-                <div class="s-portfolio__caption-hover--cc">
-                    <div class="g-margin-b-25--xs">
-                        <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Python</h4>
-                        <p class="g-color--white-opacity">Dynamic and Multipurpose programming language.</p>
-                    </div>
-                    <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                        <!-- <li>
-                                <a href="img/logos/websocket.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
-                                </a>
-                            </li> -->
-                        <li>
-                            <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                <i class="ti-link"></i>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
-            <!-- Item -->
-            <div class="s-portfolio__item cbp-item core">
-                <div class="s-portfolio__img-effect">
-                    <img src="img/logos/java.png" alt="Portfolio Image">
-                </div>
-                <div class="s-portfolio__caption-hover--cc">
-                    <div class="g-margin-b-25--xs">
-                        <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Java</h4>
-                        <p class="g-color--white-opacity">Platform core classes.</p>
-                    </div>
-                    <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                        <!-- <li>
-                                <a href="img/logos/websocket.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
-                                </a>
-                            </li> -->
-                        <li>
-                            <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                <i class="ti-link"></i>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
-            <!-- Item -->
-            <div class="s-portfolio__item cbp-item core">
-                <div class="s-portfolio__img-effect">
-                    <img src="img/logos/liqubase.png" alt="Portfolio Image">
-                </div>
-                <div class="s-portfolio__caption-hover--cc">
-                    <div class="g-margin-b-25--xs">
-                        <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Liquabase</h4>
-                        <p class="g-color--white-opacity">Database-independent library for trackinge.</p>
-                    </div>
-                    <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                        <!-- <li>
-                                <a href="img/logos/websocket.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
-                                </a>
-                            </li> -->
-                        <li>
-                            <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                <i class="ti-link"></i>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
-            <!-- Item -->
-            <div class="s-portfolio__item cbp-item core">
-                <div class="s-portfolio__img-effect">
-                    <img src="img/logos/apachemaven.png" alt="Portfolio Image">
-                </div>
-                <div class="s-portfolio__caption-hover--cc">
-                    <div class="g-margin-b-25--xs">
-                        <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Apache maven</h4>
-                        <p class="g-color--white-opacity">Project management and Comprehension tool.</p>
-                    </div>
-                    <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                        <!-- <li>
-                                <a href="img/logos/websocket.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
-                                </a>
-                            </li> -->
-                        <li>
-                            <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                <i class="ti-link"></i>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
-            <!-- Item -->
-            <div class="s-portfolio__item cbp-item core">
-                <div class="s-portfolio__img-effect">
-                    <img src="img/logos/ionic.png" alt="Portfolio Image">
-                </div>
-                <div class="s-portfolio__caption-hover--cc">
-                    <div class="g-margin-b-25--xs">
-                        <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Ionic</h4>
-                        <p class="g-color--white-opacity">Hybrid mobile app development.</p>
-                    </div>
-                    <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                        <!-- <li>
-                                <a href="img/logos/websocket.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
-                                </a>
-                            </li> -->
-                        <li>
-                            <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                <i class="ti-link"></i>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
-            <!-- Item -->
-            <div class="s-portfolio__item cbp-item core">
-                <div class="s-portfolio__img-effect">
-                    <img src="img/logos/android.png" alt="Portfolio Image">
-                </div>
-                <div class="s-portfolio__caption-hover--cc">
-                    <div class="g-margin-b-25--xs">
-                        <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Android</h4>
-                        <p class="g-color--white-opacity">Mobile operating system.</p>
-                    </div>
-                    <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                        <!-- <li>
-                                <a href="img/logos/websocket.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
-                                </a>
-                            </li> -->
-                        <li>
-                            <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                <i class="ti-link"></i>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
-            <!-- Item -->
-            <div class="s-portfolio__item cbp-item core">
-                <div class="s-portfolio__img-effect">
-                    <img src="img/logos/ios.png" alt="Portfolio Image">
-                </div>
-                <div class="s-portfolio__caption-hover--cc">
-                    <div class="g-margin-b-25--xs">
-                        <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">IOS</h4>
-                        <p class="g-color--white-opacity">Mobile operating system.</p>
-                    </div>
-                    <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                        <!-- <li>
-                                <a href="img/logos/websocket.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
-                                </a>
-                            </li> -->
-                        <li>
-                            <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                <i class="ti-link"></i>
-                            </a>
-                        </li>
-                    </ul>
+            <div class="s-portfolio">
+                <div id="js__filters-portfolio-gallery" class="s-portfolio__filter-v1 cbp-l-filters-text cbp-l-filters-center">
+                    <div data-filter=".crm" class="set-def s-portfolio__filter-v1-item cbp-filter-item">CRM & Portal</div>
+                    <div data-filter=".cloud" class="s-portfolio__filter-v1-item cbp-filter-item">Cloud Computing</div>
+                    <div data-filter=".data" class="s-portfolio__filter-v1-item cbp-filter-item">DATA STORE</div>
+                    <div data-filter=".frontend" class="s-portfolio__filter-v1-item cbp-filter-item">Web FrontEnd Desgin</div>
+                    <div data-filter=".core" class="s-portfolio__filter-v1-item cbp-filter-item">Core</div>
                 </div>
             </div>
         </div>
-        <!-- End Portfolio Gallery -->
+        <!-- End Portfolio Filter -->
+
+        <!-- Portfolio Gallery -->
+        <div id="Container" class="container g-margin-b-100--xs">
+            <div id="js__grid-portfolio-gallery" class="cbp">
+                <!-- Item -->
+                <div class="s-portfolio__item cbp-item crm">
+                    <div class="s-portfolio__img-effect">
+                        <img src="img/logos/salesforce.png" alt="Portfolio Image">
+                    </div>
+                    <div class="s-portfolio__caption-hover--cc">
+                        <div class="g-margin-b-25--xs">
+                            <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Salesforce</h4>
+                            <p class="g-color--white-opacity">CRM</p>
+                        </div>
+                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
+                            <!-- <li>
+                                <a href="img/logos/salesforce.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Salesforce<br/> CRM.">
+                                    <i class="ti-fullscreen"></i>
+                                </a>
+                            </li> -->
+                            <li>
+                                <a href="https://www.salesforce.com/" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
+                                    <i class="ti-link"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Item -->
+                <div class="s-portfolio__item cbp-item crm">
+                    <div class="s-portfolio__img-effect">
+                        <img src="img/logos/heroku.png" alt="Portfolio Image">
+                    </div>
+                    <div class="s-portfolio__caption-hover--cc">
+                        <div class="g-margin-b-25--xs">
+                            <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Heroku</h4>
+                            <p class="g-color--white-opacity">Platform.</p>
+                        </div>
+                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
+                            <!-- <li>
+                                <a href="img/logos/heroku.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Heroku<br/> Platform.">
+                                    <i class="ti-fullscreen"></i>
+                                </a>
+                            </li> -->
+                            <li>
+                                <a href="https://www.heroku.com/" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
+                                    <i class="ti-link"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Item -->
+                <div class="s-portfolio__item cbp-item crm">
+                    <div class="s-portfolio__img-effect">
+                        <img src="img/logos/outsystems.png" alt="Portfolio Image">
+                    </div>
+                    <div class="s-portfolio__caption-hover--cc">
+                        <div class="g-margin-b-25--xs">
+                            <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">OutSystems</h4>
+                            <p class="g-color--white-opacity">Platform.</p>
+                        </div>
+                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
+                            <!-- <li>
+                                <a href="img/logos/outsystems.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Outsystems<br/> Platform.">
+                                    <i class="ti-fullscreen"></i>
+                                </a>
+                            </li> -->
+                            <li>
+                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
+                                    <i class="ti-link"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Item -->
+                <div class="s-portfolio__item cbp-item crm">
+                    <div class="s-portfolio__img-effect">
+                        <img src="img/logos/LifeRay.png" alt="Portfolio Image">
+                    </div>
+                    <div class="s-portfolio__caption-hover--cc">
+                        <div class="g-margin-b-25--xs">
+                            <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">LIFERAY</h4>
+                            <p class="g-color--white-opacity">Portal.</p>
+                        </div>
+                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
+                            <!-- <li>
+                                <a href="img/logos/LifeRay.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="LifeRay<br/> Portal.">
+                                    <i class="ti-fullscreen"></i>
+                                </a>
+                            </li> -->
+                            <li>
+                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
+                                    <i class="ti-link"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Item -->
+                <div class="s-portfolio__item cbp-item crm">
+                    <div class="s-portfolio__img-effect">
+                        <img src="img/logos/Sfcommunity.png" alt="Portfolio Image">
+                    </div>
+                    <div class="s-portfolio__caption-hover--cc">
+                        <div class="g-margin-b-25--xs">
+                            <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Salesforce Community</h4>
+                            <p class="g-color--white-opacity">Salesforce CRM.</p>
+                        </div>
+                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
+                            <!-- <li>
+                                <a href="img/logos/Sfcommunity.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Salesforce Community <br/> Salesforce CRM.">
+                                    <i class="ti-fullscreen"></i>
+                                </a>
+                            </li> -->
+                            <li>
+                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
+                                    <i class="ti-link"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Item -->
+                <div class="s-portfolio__item cbp-item crm">
+                    <div class="s-portfolio__img-effect">
+                        <img src="img/logos/sfappechange.png" alt="Portfolio Image">
+                    </div>
+                    <div class="s-portfolio__caption-hover--cc">
+                        <div class="g-margin-b-25--xs">
+                            <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Portfolio Item</h4>
+                            <p class="g-color--white-opacity">by KeenThemes Inc.</p>
+                        </div>
+                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
+                            <!-- <li>
+                                <a href="img/logos/sfappechange.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Portfolio Item <br/> by KeenThemes Inc.">
+                                    <i class="ti-fullscreen"></i>
+                                </a>
+                            </li> -->
+                            <li>
+                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
+                                    <i class="ti-link"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Item -->
+                <div class="s-portfolio__item cbp-item cloud">
+                    <div class="s-portfolio__img-effect">
+                        <img src="img/logos/amazon.png" alt="Portfolio Image">
+                    </div>
+                    <div class="s-portfolio__caption-hover--cc">
+                        <div class="g-margin-b-25--xs">
+                            <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Amazon Web-service</h4>
+                            <p class="g-color--white-opacity">Service platform.</p>
+                        </div>
+                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
+                            <!-- <li>
+                                <a href="img/logos/amazon.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Amazon Web-service<br/> Service platform.">
+                                    <i class="ti-fullscreen"></i>
+                                </a>
+                            </li> -->
+                            <li>
+                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
+                                    <i class="ti-link"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Item -->
+                <div class="s-portfolio__item cbp-item cloud">
+                    <div class="s-portfolio__img-effect">
+                        <img src="img/logos/ansible.png" alt="Portfolio Image">
+                    </div>
+                    <div class="s-portfolio__caption-hover--cc">
+                        <div class="g-margin-b-25--xs">
+                            <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Ansible</h4>
+                            <p class="g-color--white-opacity">Cloud Computing.</p>
+                        </div>
+                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
+                            <!-- <li>
+                                <a href="img/logos/ansible.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Ansible<br/> Cloud Computing.">
+                                    <i class="ti-fullscreen"></i>
+                                </a>
+                            </li> -->
+                            <li>
+                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
+                                    <i class="ti-link"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Item -->
+                <div class="s-portfolio__item cbp-item cloud">
+                    <div class="s-portfolio__img-effect">
+                        <img src="img/logos/kafla.png" alt="Portfolio Image">
+                    </div>
+                    <div class="s-portfolio__caption-hover--cc">
+                        <div class="g-margin-b-25--xs">
+                            <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Kafla</h4>
+                            <p class="g-color--white-opacity">Cloud Computing.</p>
+                        </div>
+                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
+                            <!-- <li>
+                                <a href="img/logos/kafla.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Kafla<br/> Cloud Computing.">
+                                    <i class="ti-fullscreen"></i>
+                                </a>
+                            </li> -->
+                            <li>
+                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
+                                    <i class="ti-link"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Item -->
+                <div class="s-portfolio__item cbp-item cloud">
+                    <div class="s-portfolio__img-effect">
+                        <img src="img/logos/rabbitmq.png" alt="Portfolio Image">
+                    </div>
+                    <div class="s-portfolio__caption-hover--cc">
+                        <div class="g-margin-b-25--xs">
+                            <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Rabbitmq</h4>
+                            <p class="g-color--white-opacity">Cloud Computing.</p>
+                        </div>
+                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
+                            <!-- <li>
+                                    <a href="img/logos/rabbitmq.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Rabbitmq<br/> Cloud Computing.">
+                                    </a>
+                                </li> -->
+                            <li>
+                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
+                                    <i class="ti-link"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Item -->
+                <div class="s-portfolio__item cbp-item cloud">
+                    <div class="s-portfolio__img-effect">
+                        <img src="img/logos/spring-1.png" alt="Portfolio Image">
+                    </div>
+                    <div class="s-portfolio__caption-hover--cc">
+                        <div class="g-margin-b-25--xs">
+                            <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Spring</h4>
+                            <p class="g-color--white-opacity">Cloud Computing.</p>
+                        </div>
+                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
+                            <!-- <li>
+                                    <a href="img/logos/spring-1.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Spring<br/> Cloud Computing.">
+                                    </a>
+                                </li> -->
+                            <li>
+                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
+                                    <i class="ti-link"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Item -->
+                <div class="s-portfolio__item cbp-item data">
+                    <div class="s-portfolio__img-effect">
+                        <img src="img/logos/oracle.png" alt="Portfolio Image">
+                    </div>
+                    <div class="s-portfolio__caption-hover--cc">
+                        <div class="g-margin-b-25--xs">
+                            <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Oracle</h4>
+                            <p class="g-color--white-opacity">Database
+                                <base href="">.</p>
+                        </div>
+                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
+                            <!-- <li>
+                                    <a href="img/logos/oracle.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Oracle<br/> Database.">
+                                    </a>
+                                </li> -->
+                            <li>
+                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
+                                    <i class="ti-link"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Item -->
+                <div class="s-portfolio__item cbp-item cloud">
+                    <div class="s-portfolio__img-effect">
+                        <img src="img/logos/kubernetes.png" alt="Portfolio Image">
+                    </div>
+                    <div class="s-portfolio__caption-hover--cc">
+                        <div class="g-margin-b-25--xs">
+                            <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">kubernetes</h4>
+                            <p class="g-color--white-opacity">Cloud Computing.</p>
+                        </div>
+                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
+                            <!-- <li>
+                                    <a href="img/logos/kubernetes.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
+                                    </a>
+                                </li> -->
+                            <li>
+                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
+                                    <i class="ti-link"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Item -->
+                <div class="s-portfolio__item cbp-item data">
+                    <div class="s-portfolio__img-effect">
+                        <img src="img/logos/cassandra.png" alt="Portfolio Image">
+                    </div>
+                    <div class="s-portfolio__caption-hover--cc">
+                        <div class="g-margin-b-25--xs">
+                            <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Cassandra</h4>
+                            <p class="g-color--white-opacity">NoSQL database.</p>
+                        </div>
+                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
+                            <!-- <li>
+                                    <a href="img/logos/cassandra.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
+                                    </a>
+                                </li> -->
+                            <li>
+                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
+                                    <i class="ti-link"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Item -->
+                <div class="s-portfolio__item cbp-item data">
+                    <div class="s-portfolio__img-effect">
+                        <img src="img/logos/mysql.png" alt="Portfolio Image">
+                    </div>
+                    <div class="s-portfolio__caption-hover--cc">
+                        <div class="g-margin-b-25--xs">
+                            <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">mysql</h4>
+                            <p class="g-color--white-opacity">Database.</p>
+                        </div>
+                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
+                            <!-- <li>
+                                    <a href="img/logos/mysql.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
+                                    </a>
+                                </li> -->
+                            <li>
+                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
+                                    <i class="ti-link"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Item -->
+                <div class="s-portfolio__item cbp-item data">
+                    <div class="s-portfolio__img-effect">
+                        <img src="img/logos/sqlserver.png" alt="Portfolio Image">
+                    </div>
+                    <div class="s-portfolio__caption-hover--cc">
+                        <div class="g-margin-b-25--xs">
+                            <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Microsoft SQLserver</h4>
+                            <p class="g-color--white-opacity">Database.</p>
+                        </div>
+                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
+                            <!-- <li>
+                                    <a href="img/logos/sqlserver.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
+                                    </a>
+                                </li> -->
+                            <li>
+                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
+                                    <i class="ti-link"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Item -->
+                <div class="s-portfolio__item cbp-item data">
+                    <div class="s-portfolio__img-effect">
+                        <img src="img/logos/elastic.png" alt="Portfolio Image">
+                    </div>
+                    <div class="s-portfolio__caption-hover--cc">
+                        <div class="g-margin-b-25--xs">
+                            <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Elastic</h4>
+                            <p class="g-color--white-opacity">Search Engine.</p>
+                        </div>
+                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
+                            <!-- <li>
+                                    <a href="img/logos/elastic.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
+                                    </a>
+                                </li> -->
+                            <li>
+                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
+                                    <i class="ti-link"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Item -->
+                <div class="s-portfolio__item cbp-item data">
+                    <div class="s-portfolio__img-effect">
+                        <img src="img/logos/couchbase.png" alt="Portfolio Image">
+                    </div>
+                    <div class="s-portfolio__caption-hover--cc">
+                        <div class="g-margin-b-25--xs">
+                            <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Couchbase</h4>
+                            <p class="g-color--white-opacity">Multi-model NoSQL.</p>
+                        </div>
+                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
+                            <!-- <li>
+                                    <a href="img/logos/couchbase.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
+                                    </a>
+                                </li> -->
+                            <li>
+                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
+                                    <i class="ti-link"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Item -->
+                <div class="s-portfolio__item cbp-item data">
+                    <div class="s-portfolio__img-effect">
+                        <img src="img/logos/postgresql.png" alt="Portfolio Image">
+                    </div>
+                    <div class="s-portfolio__caption-hover--cc">
+                        <div class="g-margin-b-25--xs">
+                            <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Postgresql</h4>
+                            <p class="g-color--white-opacity">Object-relational Database system.</p>
+                        </div>
+                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
+                            <!-- <li>
+                                    <a href="img/logos/postgresql.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
+                                    </a>
+                                </li> -->
+                            <li>
+                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
+                                    <i class="ti-link"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Item -->
+                <div class="s-portfolio__item cbp-item data">
+                    <div class="s-portfolio__img-effect">
+                        <img src="img/logos/apachespark.png" alt="Portfolio Image">
+                    </div>
+                    <div class="s-portfolio__caption-hover--cc">
+                        <div class="g-margin-b-25--xs">
+                            <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Apache Spark</h4>
+                            <p class="g-color--white-opacity"> Cluster-Computing Framework.</p>
+                        </div>
+                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
+                            <!-- <li>
+                                    <a href="img/logos/apachespark.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
+                                    </a>
+                                </li> -->
+                            <li>
+                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
+                                    <i class="ti-link"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Item -->
+                <div class="s-portfolio__item cbp-item frontend">
+                    <div class="s-portfolio__img-effect">
+                        <img src="img/logos/angular.png" alt="Portfolio Image">
+                    </div>
+                    <div class="s-portfolio__caption-hover--cc">
+                        <div class="g-margin-b-25--xs">
+                            <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Angular</h4>
+                            <p class="g-color--white-opacity">Structural Framework.</p>
+                        </div>
+                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
+                            <!-- <li>
+                                    <a href="img/logos/angular.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
+                                    </a>
+                                </li> -->
+                            <li>
+                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
+                                    <i class="ti-link"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Item -->
+                <div class="s-portfolio__item cbp-item frontend">
+                    <div class="s-portfolio__img-effect">
+                        <img src="img/logos/boots.png" alt="Portfolio Image">
+                    </div>
+                    <div class="s-portfolio__caption-hover--cc">
+                        <div class="g-margin-b-25--xs">
+                            <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Bootstrap</h4>
+                            <p class="g-color--white-opacity">Front-end Web Framework.</p>
+                        </div>
+                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
+                            <!-- <li>
+                                    <a href="img/logos/boots.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
+                                    </a>
+                                </li> -->
+                            <li>
+                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
+                                    <i class="ti-link"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Item -->
+                <div class="s-portfolio__item cbp-item frontend">
+                    <div class="s-portfolio__img-effect">
+                        <img src="img/logos/html.png" alt="Portfolio Image">
+                    </div>
+                    <div class="s-portfolio__caption-hover--cc">
+                        <div class="g-margin-b-25--xs">
+                            <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">HTML 5</h4>
+                            <p class="g-color--white-opacity">Standard Markup Language.</p>
+                        </div>
+                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
+                            <!-- <li>
+                                    <a href="img/logos/html.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
+                                    </a>
+                                </li> -->
+                            <li>
+                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
+                                    <i class="ti-link"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Item -->
+                <div class="s-portfolio__item cbp-item frontend">
+                    <div class="s-portfolio__img-effect">
+                        <img src="img/logos/css.png" alt="Portfolio Image">
+                    </div>
+                    <div class="s-portfolio__caption-hover--cc">
+                        <div class="g-margin-b-25--xs">
+                            <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">CSS</h4>
+                            <p class="g-color--white-opacity">Cascading Style Sheets.</p>
+                        </div>
+                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
+                            <!-- <li>
+                                    <a href="img/logos/css.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
+                                    </a>
+                                </li> -->
+                            <li>
+                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
+                                    <i class="ti-link"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Item -->
+                <div class="s-portfolio__item cbp-item frontend">
+                    <div class="s-portfolio__img-effect">
+                        <img src="img/logos/d3.png" alt="Portfolio Image">
+                    </div>
+                    <div class="s-portfolio__caption-hover--cc">
+                        <div class="g-margin-b-25--xs">
+                            <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">d3</h4>
+                            <p class="g-color--white-opacity">JavaScript library.</p>
+                        </div>
+                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
+                            <!-- <li>
+                                    <a href="img/logos/d3.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
+                                    </a>
+                                </li> -->
+                            <li>
+                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
+                                    <i class="ti-link"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Item -->
+                <div class="s-portfolio__item cbp-item frontend">
+                    <div class="s-portfolio__img-effect">
+                        <img src="img/logos/jquery.png" alt="Portfolio Image">
+                    </div>
+                    <div class="s-portfolio__caption-hover--cc">
+                        <div class="g-margin-b-25--xs">
+                            <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">jquery</h4>
+                            <p class="g-color--white-opacity">JavaScript library.</p>
+                        </div>
+                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
+                            <!-- <li>
+                                    <a href="img/logos/jquery.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
+                                    </a>
+                                </li> -->
+                            <li>
+                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
+                                    <i class="ti-link"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Item -->
+                <div class="s-portfolio__item cbp-item frontend">
+                    <div class="s-portfolio__img-effect">
+                        <img src="img/logos/websocket.png" alt="Portfolio Image">
+                    </div>
+                    <div class="s-portfolio__caption-hover--cc">
+                        <div class="g-margin-b-25--xs">
+                            <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Websocket</h4>
+                            <p class="g-color--white-opacity">Computer communications protocol.</p>
+                        </div>
+                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
+                            <!-- <li>
+                                    <a href="img/logos/websocket.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
+                                    </a>
+                                </li> -->
+                            <li>
+                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
+                                    <i class="ti-link"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Item -->
+                <div class="s-portfolio__item cbp-item core">
+                    <div class="s-portfolio__img-effect">
+                        <img src="img/logos/python.png" alt="Portfolio Image">
+                    </div>
+                    <div class="s-portfolio__caption-hover--cc">
+                        <div class="g-margin-b-25--xs">
+                            <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Python</h4>
+                            <p class="g-color--white-opacity">Dynamic and Multipurpose programming language.</p>
+                        </div>
+                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
+                            <!-- <li>
+                                    <a href="img/logos/websocket.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
+                                    </a>
+                                </li> -->
+                            <li>
+                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
+                                    <i class="ti-link"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Item -->
+                <div class="s-portfolio__item cbp-item core">
+                    <div class="s-portfolio__img-effect">
+                        <img src="img/logos/java.png" alt="Portfolio Image">
+                    </div>
+                    <div class="s-portfolio__caption-hover--cc">
+                        <div class="g-margin-b-25--xs">
+                            <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Java</h4>
+                            <p class="g-color--white-opacity">Platform core classes.</p>
+                        </div>
+                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
+                            <!-- <li>
+                                    <a href="img/logos/websocket.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
+                                    </a>
+                                </li> -->
+                            <li>
+                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
+                                    <i class="ti-link"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Item -->
+                <div class="s-portfolio__item cbp-item core">
+                    <div class="s-portfolio__img-effect">
+                        <img src="img/logos/liqubase.png" alt="Portfolio Image">
+                    </div>
+                    <div class="s-portfolio__caption-hover--cc">
+                        <div class="g-margin-b-25--xs">
+                            <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Liquabase</h4>
+                            <p class="g-color--white-opacity">Database-independent library for trackinge.</p>
+                        </div>
+                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
+                            <!-- <li>
+                                    <a href="img/logos/websocket.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
+                                    </a>
+                                </li> -->
+                            <li>
+                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
+                                    <i class="ti-link"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Item -->
+                <div class="s-portfolio__item cbp-item core">
+                    <div class="s-portfolio__img-effect">
+                        <img src="img/logos/apachemaven.png" alt="Portfolio Image">
+                    </div>
+                    <div class="s-portfolio__caption-hover--cc">
+                        <div class="g-margin-b-25--xs">
+                            <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Apache maven</h4>
+                            <p class="g-color--white-opacity">Project management and Comprehension tool.</p>
+                        </div>
+                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
+                            <!-- <li>
+                                    <a href="img/logos/websocket.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
+                                    </a>
+                                </li> -->
+                            <li>
+                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
+                                    <i class="ti-link"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Item -->
+                <div class="s-portfolio__item cbp-item core">
+                    <div class="s-portfolio__img-effect">
+                        <img src="img/logos/ionic.png" alt="Portfolio Image">
+                    </div>
+                    <div class="s-portfolio__caption-hover--cc">
+                        <div class="g-margin-b-25--xs">
+                            <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Ionic</h4>
+                            <p class="g-color--white-opacity">Hybrid mobile app development.</p>
+                        </div>
+                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
+                            <!-- <li>
+                                    <a href="img/logos/websocket.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
+                                    </a>
+                                </li> -->
+                            <li>
+                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
+                                    <i class="ti-link"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Item -->
+                <div class="s-portfolio__item cbp-item core">
+                    <div class="s-portfolio__img-effect">
+                        <img src="img/logos/android.png" alt="Portfolio Image">
+                    </div>
+                    <div class="s-portfolio__caption-hover--cc">
+                        <div class="g-margin-b-25--xs">
+                            <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Android</h4>
+                            <p class="g-color--white-opacity">Mobile operating system.</p>
+                        </div>
+                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
+                            <!-- <li>
+                                    <a href="img/logos/websocket.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
+                                    </a>
+                                </li> -->
+                            <li>
+                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
+                                    <i class="ti-link"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Item -->
+                <div class="s-portfolio__item cbp-item core">
+                    <div class="s-portfolio__img-effect">
+                        <img src="img/logos/ios.png" alt="Portfolio Image">
+                    </div>
+                    <div class="s-portfolio__caption-hover--cc">
+                        <div class="g-margin-b-25--xs">
+                            <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">IOS</h4>
+                            <p class="g-color--white-opacity">Mobile operating system.</p>
+                        </div>
+                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
+                            <!-- <li>
+                                    <a href="img/logos/websocket.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
+                                    </a>
+                                </li> -->
+                            <li>
+                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
+                                    <i class="ti-link"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <!-- End Portfolio Gallery -->
+        </div>
     </div>
     <!-- End Portfolio -->
-
-    <!-- Testimonials -->
-    <div class="js__parallax-window" style="background: url(img/1920x1080/04.jpg) 50% 0 no-repeat fixed;">
-        <div class="container g-text-center--xs g-padding-y-80--xs g-padding-y-125--sm">
-            <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--white-opacity g-letter-spacing--2 g-margin-b-50--xs">Testimonials</p>
-            <div class="s-swiper js__swiper-testimonials">
-                <!-- Swiper Wrapper -->
-                <div class="swiper-wrapper g-margin-b-50--xs">
-                    <div class="swiper-slide g-padding-x-130--sm g-padding-x-150--lg">
-                        <div class="g-padding-x-20--xs g-padding-x-50--lg">
-                            <div class="g-margin-b-40--xs">
-                                <p class="g-font-size-22--xs g-font-size-28--sm g-color--white">
-                                    <i>"Thank you for all that you do for US"</i>
-                                </p>
-                            </div>
-                            <div class="center-block g-hor-divider__solid--white-opacity-lightest g-width-100--xs g-margin-b-30--xs"></div>
-                            <h4 class="g-font-size-15--xs g-font-size-18--sm g-color--white-opacity-light g-margin-b-5--xs"> - John</h4>
-                        </div>
-                    </div>
-                    <div class="swiper-slide g-padding-x-130--sm g-padding-x-150--lg">
-                        <div class="g-padding-x-20--xs g-padding-x-50--lg">
-                            <div class="g-margin-b-40--xs">
-                                <p class="g-font-size-22--xs g-font-size-28--sm g-color--white">
-                                    <i>" Thank you and good luck "</i>
-                                </p>
-                            </div>
-                            <div class="center-block g-hor-divider__solid--white-opacity-lightest g-width-100--xs g-margin-b-30--xs"></div>
-                            <h4 class="g-font-size-15--xs g-font-size-18--sm g-color--white-opacity-light g-margin-b-5--xs"> - Christy</h4>
-                        </div>
-                    </div>
-                    <div class="swiper-slide g-padding-x-130--sm g-padding-x-150--lg">
-                        <div class="g-padding-x-20--xs g-padding-x-50--lg">
-                            <div class="g-margin-b-40--xs">
-                                <p class="g-font-size-22--xs g-font-size-28--sm g-color--white">
-                                    <i>" Thank you for all the great work you've done, Its exciting to see the users reaction
-                                        to what you have created "</i>
-                                </p>
-                            </div>
-                            <div class="center-block g-hor-divider__solid--white-opacity-lightest g-width-100--xs g-margin-b-30--xs"></div>
-                            <h4 class="g-font-size-15--xs g-font-size-18--sm g-color--white-opacity-light g-margin-b-5--xs"> - Steven</h4>
-                        </div>
-                    </div>
-                    <div class="swiper-slide g-padding-x-130--sm g-padding-x-150--lg">
-                        <div class="g-padding-x-20--xs g-padding-x-50--lg">
-                            <div class="g-margin-b-40--xs">
-                                <p class="g-font-size-22--xs g-font-size-28--sm g-color--white">
-                                    <i>" I love having such high confidence in a partner, thank u so much!"</i>
-                                </p>
-                            </div>
-                            <div class="center-block g-hor-divider__solid--white-opacity-lightest g-width-100--xs g-margin-b-30--xs"></div>
-                            <h4 class="g-font-size-15--xs g-font-size-18--sm g-color--white-opacity-light g-margin-b-5--xs"> - Xue helan</h4>
-                        </div>
-                    </div>
-                    <div class="swiper-slide g-padding-x-130--sm g-padding-x-150--lg">
-                        <div class="g-padding-x-20--xs g-padding-x-50--lg">
-                            <div class="g-margin-b-40--xs">
-                                <p class="g-font-size-22--xs g-font-size-28--sm g-color--white">
-                                    <i>" You all are OSM for all the hardwork!"</i>
-                                </p>
-                            </div>
-                            <div class="center-block g-hor-divider__solid--white-opacity-lightest g-width-100--xs g-margin-b-30--xs"></div>
-                            <h4 class="g-font-size-15--xs g-font-size-18--sm g-color--white-opacity-light g-margin-b-5--xs"> - Jack</h4>
-                        </div>
-                    </div>
-                </div>
-                <!-- End Swipper Wrapper -->
-
-                <!-- Arrows -->
-                <div class="g-font-size-22--xs g-color--white-opacity js__swiper-fraction"></div>
-                <a href="javascript:void(0);" class="g-display-none--xs g-display-inline-block--sm s-swiper__arrow-v1--right s-icon s-icon--md s-icon--white-brd g-radius--circle ti-angle-right js__swiper-btn--next rad"></a>
-                <a href="javascript:void(0);" class="g-display-none--xs g-display-inline-block--sm s-swiper__arrow-v1--left s-icon s-icon--md s-icon--white-brd g-radius--circle ti-angle-left js__swiper-btn--prev rad"></a>
-                <!-- End Arrows -->
-            </div>
-        </div>
-    </div>
-    <!-- End Testimonials -->
-
 
     <!-- Blog -->
     <div class="container g-padding-y-80--xs g-padding-y-125--sm">
