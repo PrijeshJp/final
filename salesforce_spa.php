@@ -37,12 +37,12 @@
     <!--========== END PROMO BLOCK ==========-->
     <!--========== PAGE CONTENT ==========-->
     <div class="container blogpad">
-				<div class="wow fadeInDown animated " style="visibility: visible; animation-name: fadeInDown;">
+				<div class="wow animated " style="visibility: visible;">
 					<h2><span class="item active">What is your choice for SPAs in Salesforce - Aura or AngularJS?</span></h2>
 				</div>
 				<!-- about us slider -->
 				<div class="skill-wrap clearfix">
-					<div class="wow fadeInDown animated" style="visibility: visible; animation-name: fadeInDown;">
+					<div class="wow animated" style="visibility: visible;">
 						<p class="lead">
 							Single Page Applications (SPAs) provides an enhanced level of responsiveness and smoothness to the user interactions. SPAs provide native mobile application feeling to users rather than traditional web feeling. The biggest criticism against SPAs is that it is hard to build, will lead to fragile code and difficult to test. Fortunately robust Javascript frameworks like AngularJS, Aura etc. help us to build and run even the most complex of application front-ends.
 							<br><br> 

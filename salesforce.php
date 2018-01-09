@@ -46,7 +46,7 @@
 
         <div class="row g-margin-b-30--xs">
             <div class="col-sm-12">
-                <div class="g-margin-t-20--md g-margin-b-40--xs  wow fadeInLeft animated" >
+                <div class="g-margin-t-20--md g-margin-b-40--xs  wow animated" >
                     <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs">Branding Work</p>
                     <h2 class="g-font-size-32--xs g-font-size-36--md">Salesforce</h2>
                     <p> Salesforce Minuscule Team has deep expertise and understanding of Salesforce CRM and Force.com. Our offshore team of Developers, Architects, Analysts, Team Leads and Administrators have delivered several advanced implementations for global clients.</p>
@@ -55,7 +55,7 @@
                         <div class="features">
                                 <div class="row">
                                         <div class="col-sm-6 col-md-4 curPoint">
-                                            <div class="media services-wrap wow fadeInRight animated" style="visibility: visible; animation-name: fadeInRight;">
+                                            <div class="media services-wrap wow animated" style="visibility: visible;">
                     
                                                 <div class="media-body">
                                                     <h4 class="media-heading">Salesforce Development </h4>
@@ -64,7 +64,7 @@
                                             </div>
                                         </div>
                                         <div class="col-sm-6 col-md-4 curPoint">
-                                            <div class="media services-wrap wow fadeInLeft animated" style="visibility: visible; animation-name: fadeInLeft;">
+                                            <div class="media services-wrap wow animated" style="visibility: visible;">
                                                 <div class="media-body">
                                                     <h4 class="media-heading">Salesforce Customization</h4>
                                                     <p>We have the ability to customize salesforce UI/UX and functionality based on client requirement using Apex, Visualforce and reusing Components, and write the best test cases ensuring atleast 95% code coverage for the code added.</p>
@@ -72,7 +72,7 @@
                                             </div>
                                         </div>
                                         <div class="col-sm-6 col-md-4 curPoint">
-                                            <div class="media services-wrap wow fadeInRight animated" style="visibility: visible; animation-name: fadeInRight;">
+                                            <div class="media services-wrap wow animated" style="visibility: visible;">
                                                 <div class="media-body">
                                                     <h4 class="media-heading">Salesforce Integration</h4>
                                                     <p>We have expertise in Data.com for Prospect and Lead Generation in Org, and experience Integrating with external system like Heroku, Informatica and Custom Web Services. </p>
@@ -82,7 +82,7 @@
                                     </div>
                                     <div class="row">
                                         <div class="col-sm-6 col-md-4">
-                                            <div class="media services-wrap wow fadeInLeft animated" style="visibility: visible; animation-name: fadeInLeft;">
+                                            <div class="media services-wrap wow animated" style="visibility: visible;">
                                                 <div class="media-body">
                                                     <h4 class="media-heading">Salesforce Migration</h4>
                                                     <p>Performance and Governance limit are our main concerns while developing Apex Class, Apex Trigger, Apex Batch and Apex Scheduler. Wide exposure in SOQL helps us to write optimized queries.</p>
@@ -90,7 +90,7 @@
                                             </div>
                                         </div>
                                         <div class="col-sm-6 col-md-4">
-                                            <div class="media services-wrap wow fadeInRight animated" style="visibility: visible; animation-name: fadeInRight;">
+                                            <div class="media services-wrap wow animated" style="visibility: visible;">
                                                 <div class="media-body">
                                                     <h4 class="media-heading">Salesforce Administration</h4>
                                                     <p>We follow deployment flow from checking in the code to the versioning system (GitHub), building and deploying in development, QA and staging environment by executing test cases, validating minimum code coverage and deploying code to production.</p>
@@ -98,7 +98,7 @@
                                             </div>
                                         </div>
                                         <div class="col-sm-6 col-md-4 curPoint">
-                                            <div class="media services-wrap wow fadeInLeft animated" style="visibility: visible; animation-name: fadeInLeft;">
+                                            <div class="media services-wrap wow animated" style="visibility: visible;">
                                                 <div class="media-body">
                                                     <h4 class="media-heading">Salesforce Consulting</h4>
                                                     <p>We have extensive knowledge in Workflow, Approval Process, and Process Builder creation in the organization for achieving business process.</p>
@@ -108,7 +108,7 @@
                                     </div>
                         </div>
                     </div>
-                        <div class="wow fadeInRight animated" style="visibility: visible; animation-name: fadeInRight;">
+                        <div class="wow animated" style="visibility: visible;">
                             <h2>Salesforce Capabilities</h2>
                             <h3> Salesforce CRM Customization</h3>
                             <ul>

@@ -76,7 +76,7 @@
                 <div class="col-sm-4 g-margin-b-60--xs g-margin-b-0--md">
                     <div class="clearfix">
                         <div class="g-media g-width-30--xs">
-                            <div class="wow fadeInDown" data-wow-duration=".3" data-wow-delay=".1s">
+                            <div class="wow" data-wow-duration=".3" data-wow-delay=".1s">
                                 <!-- <i class="g-font-size-28--xs g-color--primary ti-desktop"></i> -->
                                 <img src="img/icons/crm.png" alt="crm">
                             </div>
@@ -90,7 +90,7 @@
                 <div class="col-sm-4 g-margin-b-60--xs g-margin-b-0--md">
                     <div class="clearfix">
                         <div class="g-media g-width-30--xs">
-                            <div class="wow fadeInDown" data-wow-duration=".3" data-wow-delay=".2s">
+                            <div class="wow" data-wow-duration=".3" data-wow-delay=".2s">
                                 <!-- <i class="g-font-size-28--xs g-color--primary ti-settings"></i> -->
                                 <img src="img/icons/programming.png" alt="crm">
                             </div>
@@ -104,7 +104,7 @@
                 <div class="col-sm-4">
                     <div class="clearfix">
                         <div class="g-media g-width-30--xs">
-                            <div class="wow fadeInDown" data-wow-duration=".3" data-wow-delay=".3s">
+                            <div class="wow" data-wow-duration=".3" data-wow-delay=".3s">
                                 <!-- <i class="g-font-size-28--xs g-color--primary ti-ruler-alt-2"></i> -->
                                 <img src="img/icons/mob.png" alt="Mobile Development">
                             </div>
@@ -121,7 +121,7 @@
                 <div class="col-sm-4 g-margin-b-60--xs g-margin-b-0--md">
                     <div class="clearfix">
                         <div class="g-media g-width-30--xs">
-                            <div class="wow fadeInDown" data-wow-duration=".3" data-wow-delay=".4s">
+                            <div class="wow" data-wow-duration=".3" data-wow-delay=".4s">
                                 <!-- <i class="g-font-size-28--xs g-color--primary ti-package"></i> -->
                                 <img src="img/icons/think.png" alt="">
                             </div>
@@ -135,7 +135,7 @@
                 <div class="col-sm-4 g-margin-b-60--xs g-margin-b-0--md">
                     <div class="clearfix">
                         <div class="g-media g-width-30--xs">
-                            <div class="wow fadeInDown" data-wow-duration=".3" data-wow-delay=".5s">
+                            <div class="wow" data-wow-duration=".3" data-wow-delay=".5s">
                                 <!-- <i class="g-font-size-28--xs g-color--primary ti-star"></i> -->
                                 <img src="img/icons/award.png" alt="QA">
                             </div>
@@ -149,7 +149,7 @@
                 <div class="col-sm-4">
                     <div class="clearfix">
                         <div class="g-media g-width-30--xs">
-                            <div class="wow fadeInDown" data-wow-duration=".3" data-wow-delay=".6s">
+                            <div class="wow" data-wow-duration=".3" data-wow-delay=".6s">
                                 <!-- <i class="g-font-size-28--xs g-color--primary ti-panel"></i> -->
                                 <img src="img/icons/idea.png" alt="Idea">
                             </div>
@@ -171,30 +171,30 @@
             <div class="row">
                 <!-- <div class="col-md-4 g-margin-t-15--xs g-margin-b-60--xs g-margin-b-0--lg">
                     <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs">Culture</p>
-                    <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".1s">
+                    <div class="wow" data-wow-duration=".3" data-wow-delay=".1s">
                         <h2 class="g-font-size-40--xs g-font-size-50--sm g-font-size-60--md">About</h2>
                     </div>
-                    <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".3s">
+                    <div class="wow" data-wow-duration=".3" data-wow-delay=".3s">
                         <h2 class="g-font-size-40--xs g-font-size-50--sm g-font-size-60--md">Minuscule</h2>
                     </div>
                 </div> -->
 
                 <div class="col-md-7 col-md-offset-1">
-                    <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".1s">
+                    <div class="wow" data-wow-duration=".3" data-wow-delay=".1s">
                         <h2 class="g-font-size-40--xs g-font-size-50--sm g-font-size-60--md">About Minuscule</h2>
                     </div>
-                    <p class="g-font-size-18--xs wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".3s"> Minuscule Technologies, an Indian software development company, was founded in 2006 by a group of
+                    <p class="g-font-size-18--xs wow" data-wow-duration=".3" data-wow-delay=".3s"> Minuscule Technologies, an Indian software development company, was founded in 2006 by a group of
                         people who are passionate about technology. Our expertise cover everything from product development
                         to service support. The core team includes skilled personnel who have experience working with
                         global companies that develop products and/or serving clients. The motto of Minuscule Technologies
                         is to leverage the team's technical and domain expertise and work with clients to help them empower
                         their businesses by creating cutting edge software solutions.</p>
-                    <p class="g-font-size-18--xs wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".4s">Minuscule Technologies has top-notch talents for Software design, Architecture, Creative and Responsive
+                    <p class="g-font-size-18--xs wow" data-wow-duration=".3" data-wow-delay=".4s">Minuscule Technologies has top-notch talents for Software design, Architecture, Creative and Responsive
                         UI/UX, Mobile App Development, Digital Marketing and Quality Assurance Services. The company
                         believes in using different platforms/technologies to find out-of-box solutions for issues that
                         otherwise might throw off others. At Minuscule, we do not give up, we just try harder and harder
                         till we find the solution.</p>
-                    <p class="g-font-size-18--xs wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".5s">Minuscule serves multiple clients on different technologies stacks across the globe through state
+                    <p class="g-font-size-18--xs wow" data-wow-duration=".3" data-wow-delay=".5s">Minuscule serves multiple clients on different technologies stacks across the globe through state
                         of the art delivery facility and follows the best practices, methodologies and processes for
                         software development to deliver quality output on time every time</p>
                 </div>
@@ -230,7 +230,7 @@
                 <!-- Item -->
                 <div class="s-portfolio__item cbp-item crm">
                     <div class="s-portfolio__img-effect">
-                        <img src="img/logos/salesforce.png" alt="Portfolio Image">
+                        <img src= "img/logos/salesforce.png" alt="Portfolio Image">
                     </div>
                     <div class="s-portfolio__caption-hover--cc">
                         <div class="g-margin-b-25--xs">
@@ -255,7 +255,7 @@
                 <!-- Item -->
                 <div class="s-portfolio__item cbp-item crm">
                     <div class="s-portfolio__img-effect">
-                        <img src="img/logos/heroku.png" alt="Portfolio Image">
+                        <img src= "img/logos/heroku.png" alt="Portfolio Image">
                     </div>
                     <div class="s-portfolio__caption-hover--cc">
                         <div class="g-margin-b-25--xs">
@@ -280,7 +280,7 @@
                 <!-- Item -->
                 <div class="s-portfolio__item cbp-item crm">
                     <div class="s-portfolio__img-effect">
-                        <img src="img/logos/outsystems.png" alt="Portfolio Image">
+                        <img src= "img/logos/outsystems.png" alt="Portfolio Image">
                     </div>
                     <div class="s-portfolio__caption-hover--cc">
                         <div class="g-margin-b-25--xs">
@@ -305,7 +305,7 @@
                 <!-- Item -->
                 <div class="s-portfolio__item cbp-item crm">
                     <div class="s-portfolio__img-effect">
-                        <img src="img/logos/LifeRay.png" alt="Portfolio Image">
+                        <img src= "img/logos/LifeRay.png" alt="Portfolio Image">
                     </div>
                     <div class="s-portfolio__caption-hover--cc">
                         <div class="g-margin-b-25--xs">
@@ -330,7 +330,7 @@
                 <!-- Item -->
                 <div class="s-portfolio__item cbp-item crm">
                     <div class="s-portfolio__img-effect">
-                        <img src="img/logos/Sfcommunity.png" alt="Portfolio Image">
+                        <img src= "img/logos/Sfcommunity.png" alt="Portfolio Image">
                     </div>
                     <div class="s-portfolio__caption-hover--cc">
                         <div class="g-margin-b-25--xs">
@@ -355,7 +355,7 @@
                 <!-- Item -->
                 <div class="s-portfolio__item cbp-item crm">
                     <div class="s-portfolio__img-effect">
-                        <img src="img/logos/sfappechange.png" alt="Portfolio Image">
+                        <img src= "img/logos/sfappechange.png" alt="Portfolio Image">
                     </div>
                     <div class="s-portfolio__caption-hover--cc">
                         <div class="g-margin-b-25--xs">
@@ -380,7 +380,7 @@
                 <!-- Item -->
                 <div class="s-portfolio__item cbp-item cloud">
                     <div class="s-portfolio__img-effect">
-                        <img src="img/logos/amazon.png" alt="Portfolio Image">
+                        <img src= "img/logos/amazon.png" alt="Portfolio Image">
                     </div>
                     <div class="s-portfolio__caption-hover--cc">
                         <div class="g-margin-b-25--xs">
@@ -405,7 +405,7 @@
                 <!-- Item -->
                 <div class="s-portfolio__item cbp-item cloud">
                     <div class="s-portfolio__img-effect">
-                        <img src="img/logos/ansible.png" alt="Portfolio Image">
+                        <img src= "img/logos/ansible.png" alt="Portfolio Image">
                     </div>
                     <div class="s-portfolio__caption-hover--cc">
                         <div class="g-margin-b-25--xs">
@@ -430,7 +430,7 @@
                 <!-- Item -->
                 <div class="s-portfolio__item cbp-item cloud">
                     <div class="s-portfolio__img-effect">
-                        <img src="img/logos/kafla.png" alt="Portfolio Image">
+                        <img src= "img/logos/kafla.png" alt="Portfolio Image">
                     </div>
                     <div class="s-portfolio__caption-hover--cc">
                         <div class="g-margin-b-25--xs">
@@ -455,7 +455,7 @@
                 <!-- Item -->
                 <div class="s-portfolio__item cbp-item cloud">
                     <div class="s-portfolio__img-effect">
-                        <img src="img/logos/rabbitmq.png" alt="Portfolio Image">
+                        <img src= "img/logos/rabbitmq.png" alt="Portfolio Image">
                     </div>
                     <div class="s-portfolio__caption-hover--cc">
                         <div class="g-margin-b-25--xs">
@@ -479,7 +479,7 @@
                 <!-- Item -->
                 <div class="s-portfolio__item cbp-item cloud">
                     <div class="s-portfolio__img-effect">
-                        <img src="img/logos/spring-1.png" alt="Portfolio Image">
+                        <img src= "img/logos/spring-1.png" alt="Portfolio Image">
                     </div>
                     <div class="s-portfolio__caption-hover--cc">
                         <div class="g-margin-b-25--xs">
@@ -503,7 +503,7 @@
                 <!-- Item -->
                 <div class="s-portfolio__item cbp-item data">
                     <div class="s-portfolio__img-effect">
-                        <img src="img/logos/oracle.png" alt="Portfolio Image">
+                        <img src= "img/logos/oracle.png" alt="Portfolio Image">
                     </div>
                     <div class="s-portfolio__caption-hover--cc">
                         <div class="g-margin-b-25--xs">
@@ -528,7 +528,7 @@
                 <!-- Item -->
                 <div class="s-portfolio__item cbp-item cloud">
                     <div class="s-portfolio__img-effect">
-                        <img src="img/logos/kubernetes.png" alt="Portfolio Image">
+                        <img src= "img/logos/kubernetes.png" alt="Portfolio Image">
                     </div>
                     <div class="s-portfolio__caption-hover--cc">
                         <div class="g-margin-b-25--xs">
@@ -552,7 +552,7 @@
                 <!-- Item -->
                 <div class="s-portfolio__item cbp-item data">
                     <div class="s-portfolio__img-effect">
-                        <img src="img/logos/cassandra.png" alt="Portfolio Image">
+                        <img src= "img/logos/cassandra.png" alt="Portfolio Image">
                     </div>
                     <div class="s-portfolio__caption-hover--cc">
                         <div class="g-margin-b-25--xs">
@@ -576,7 +576,7 @@
                 <!-- Item -->
                 <div class="s-portfolio__item cbp-item data">
                     <div class="s-portfolio__img-effect">
-                        <img src="img/logos/mysql.png" alt="Portfolio Image">
+                        <img src= "img/logos/mysql.png" alt="Portfolio Image">
                     </div>
                     <div class="s-portfolio__caption-hover--cc">
                         <div class="g-margin-b-25--xs">
@@ -600,7 +600,7 @@
                 <!-- Item -->
                 <div class="s-portfolio__item cbp-item data">
                     <div class="s-portfolio__img-effect">
-                        <img src="img/logos/sqlserver.png" alt="Portfolio Image">
+                        <img src= "img/logos/sqlserver.png" alt="Portfolio Image">
                     </div>
                     <div class="s-portfolio__caption-hover--cc">
                         <div class="g-margin-b-25--xs">
@@ -624,7 +624,7 @@
                 <!-- Item -->
                 <div class="s-portfolio__item cbp-item data">
                     <div class="s-portfolio__img-effect">
-                        <img src="img/logos/elastic.png" alt="Portfolio Image">
+                        <img src= "img/logos/elastic.png" alt="Portfolio Image">
                     </div>
                     <div class="s-portfolio__caption-hover--cc">
                         <div class="g-margin-b-25--xs">
@@ -648,7 +648,7 @@
                 <!-- Item -->
                 <div class="s-portfolio__item cbp-item data">
                     <div class="s-portfolio__img-effect">
-                        <img src="img/logos/couchbase.png" alt="Portfolio Image">
+                        <img src= "img/logos/couchbase.png" alt="Portfolio Image">
                     </div>
                     <div class="s-portfolio__caption-hover--cc">
                         <div class="g-margin-b-25--xs">
@@ -672,7 +672,7 @@
                 <!-- Item -->
                 <div class="s-portfolio__item cbp-item data">
                     <div class="s-portfolio__img-effect">
-                        <img src="img/logos/postgresql.png" alt="Portfolio Image">
+                        <img src= "img/logos/postgresql.png" alt="Portfolio Image">
                     </div>
                     <div class="s-portfolio__caption-hover--cc">
                         <div class="g-margin-b-25--xs">
@@ -696,7 +696,7 @@
                 <!-- Item -->
                 <div class="s-portfolio__item cbp-item data">
                     <div class="s-portfolio__img-effect">
-                        <img src="img/logos/apachespark.png" alt="Portfolio Image">
+                        <img src= "img/logos/apachespark.png" alt="Portfolio Image">
                     </div>
                     <div class="s-portfolio__caption-hover--cc">
                         <div class="g-margin-b-25--xs">
@@ -720,7 +720,7 @@
                 <!-- Item -->
                 <div class="s-portfolio__item cbp-item frontend">
                     <div class="s-portfolio__img-effect">
-                        <img src="img/logos/angular.png" alt="Portfolio Image">
+                        <img src= "img/logos/angular.png" alt="Portfolio Image">
                     </div>
                     <div class="s-portfolio__caption-hover--cc">
                         <div class="g-margin-b-25--xs">
@@ -744,7 +744,7 @@
                 <!-- Item -->
                 <div class="s-portfolio__item cbp-item frontend">
                     <div class="s-portfolio__img-effect">
-                        <img src="img/logos/boots.png" alt="Portfolio Image">
+                        <img src= "img/logos/boots.png" alt="Portfolio Image">
                     </div>
                     <div class="s-portfolio__caption-hover--cc">
                         <div class="g-margin-b-25--xs">
@@ -768,7 +768,7 @@
                 <!-- Item -->
                 <div class="s-portfolio__item cbp-item frontend">
                     <div class="s-portfolio__img-effect">
-                        <img src="img/logos/html.png" alt="Portfolio Image">
+                        <img src= "img/logos/html.png" alt="Portfolio Image">
                     </div>
                     <div class="s-portfolio__caption-hover--cc">
                         <div class="g-margin-b-25--xs">
@@ -792,7 +792,7 @@
                 <!-- Item -->
                 <div class="s-portfolio__item cbp-item frontend">
                     <div class="s-portfolio__img-effect">
-                        <img src="img/logos/css.png" alt="Portfolio Image">
+                        <img src= "img/logos/css.png" alt="Portfolio Image">
                     </div>
                     <div class="s-portfolio__caption-hover--cc">
                         <div class="g-margin-b-25--xs">
@@ -816,7 +816,7 @@
                 <!-- Item -->
                 <div class="s-portfolio__item cbp-item frontend">
                     <div class="s-portfolio__img-effect">
-                        <img src="img/logos/d3.png" alt="Portfolio Image">
+                        <img src= "img/logos/d3.png" alt="Portfolio Image">
                     </div>
                     <div class="s-portfolio__caption-hover--cc">
                         <div class="g-margin-b-25--xs">
@@ -840,7 +840,7 @@
                 <!-- Item -->
                 <div class="s-portfolio__item cbp-item frontend">
                     <div class="s-portfolio__img-effect">
-                        <img src="img/logos/jquery.png" alt="Portfolio Image">
+                        <img src= "img/logos/jquery.png" alt="Portfolio Image">
                     </div>
                     <div class="s-portfolio__caption-hover--cc">
                         <div class="g-margin-b-25--xs">
@@ -864,7 +864,7 @@
                 <!-- Item -->
                 <div class="s-portfolio__item cbp-item frontend">
                     <div class="s-portfolio__img-effect">
-                        <img src="img/logos/websocket.png" alt="Portfolio Image">
+                        <img src= "img/logos/websocket.png" alt="Portfolio Image">
                     </div>
                     <div class="s-portfolio__caption-hover--cc">
                         <div class="g-margin-b-25--xs">
@@ -888,7 +888,7 @@
                 <!-- Item -->
                 <div class="s-portfolio__item cbp-item core">
                     <div class="s-portfolio__img-effect">
-                        <img src="img/logos/python.png" alt="Portfolio Image">
+                        <img src= "img/logos/python.png" alt="Portfolio Image">
                     </div>
                     <div class="s-portfolio__caption-hover--cc">
                         <div class="g-margin-b-25--xs">

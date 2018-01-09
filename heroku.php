@@ -40,11 +40,11 @@
     <!--========== END PROMO BLOCK ==========-->
     <!--========== PAGE CONTENT ==========-->
     <div class="container blogpad">
-        <div class="wow fadeInLeft animated " style="visibility: visible; animation-name: fadeInLeft;">
+        <div class="wow animated " style="visibility: visible;">
             <h2><span class="item active">Heroku - Salesforce integrated Solution</span></h2>
         </div>
         <div class="skill-wrap clearfix">
-            <div class="wow fadeInRight animated" style="visibility: visible; animation-name: fadeInRight;">
+            <div class="wow animated" style="visibility: visible;">
                 <p class="lead">
                     We at Minuscule Technologies have done a solution on <b>Heroku</b> which interfaced with <b>Salesforce</b> and other applications. Following are the high-level details of our solution.
                     <br><br>
@@ -79,3 +79,4 @@
     ?>
 </body>
 <!-- End Body -->
+</html>

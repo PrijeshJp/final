@@ -37,12 +37,12 @@
     <!--========== END PROMO BLOCK ==========-->
     <!--========== PAGE CONTENT ==========-->
     <div class="container blogpad">
-        <div class="wow fadeInDown animated " style="visibility: visible; animation-name: fadeInDown;">
+        <div class="wow animated " style="visibility: visible;">
             <h2><span class="item active">Oracle Business Intelligence (OBIEE)</span></h2>
         </div>
         <!-- about us slider -->
         <div class="skill-wrap clearfix">
-            <div class="wow fadeInDown animated" style="visibility: visible; animation-name: fadeInDown;">
+            <div class="wow animated" style="visibility: visible;">
                 <p class="lead">
                     We have developed a series of innovative implementation, upgrade and consulting services designed to maximize the return on existing and future Oracle BI investments. We can help you unlock the powerful and comprehensive features that come with OBIEE through our custom solutions and consulting.
                     <br>
@@ -50,7 +50,7 @@
             </div>
         </div>
         <div class="skill-wrap clearfix">
-            <div class="wow fadeInDown animated" style="visibility: visible; animation-name: fadeInDown;">
+            <div class="wow animated" style="visibility: visible;">
                 OBIEE customization
                 <p class="lead">
                     Our team can support you to customize the OBIEE that suits your organisation needs along with your own branding customization for both web and mobile solutions.
@@ -59,7 +59,7 @@
             </div>
         </div>
         <div class="skill-wrap clearfix">
-            <div class="wow fadeInDown animated" style="visibility: visible; animation-name: fadeInDown;">
+            <div class="wow animated" style="visibility: visible;">
                 OBIEE Implementation
                 <p class="lead">
                     We provide a full end-to-end OBIEE Implementation Service based upon our proven implementation methodologies. Our approach of agile and iterative method ensures engagement at all levels of your organization, from the earliest planning stages through going live, driving successful user adoption throughout the enterprise thus by maximizing the ROI.
@@ -69,7 +69,7 @@
             </div>
         </div>
         <div class="skill-wrap clearfix">
-            <div class="wow fadeInDown animated" style="visibility: visible; animation-name: fadeInDown;">
+            <div class="wow animated" style="visibility: visible;">
                 OBIEE Mobile app customization
                 <p class="lead">
                     This service from Minuscule help in customizing your OBIEE mobile apps based on your business needs and also we will customize the OBIEE app with your own branding and logo to give your organization the opportunity to take advantage of the newest capabilities offered in OBIEE.
@@ -77,7 +77,7 @@
                 </p>
             </div>
         </div>
-        <ul class="keyFeatureList wow fadeInDown animated" data-wow-delay="600ms" data-wow-duration="1000ms" style="visibility: visible; animation-duration: 1000ms; animation-delay: 600ms; animation-name: fadeInDown;">
+        <ul class="keyFeatureList wow animated" data-wow-delay="600ms" data-wow-duration="1000ms" style="visibility: visible; animation-duration: 1000ms; animation-delay: 600ms;">
             <li><i class="fa fa-hand-o-right" aria-hidden="true"></i> OBIEE Development</li>
             <li><i class="fa fa-hand-o-right" aria-hidden="true"></i> OBIEE Customization</li>
             <li><i class="fa fa-hand-o-right" aria-hidden="true"></i> OBIEE Integration</li>
@@ -95,3 +95,4 @@
     ?>
 </body>
 <!-- End Body -->
+</html>

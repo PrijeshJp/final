@@ -28,11 +28,11 @@
     <!--========== END PROMO BLOCK ==========-->
     <!--========== PAGE CONTENT ==========-->
     <div class="container blogpad ">
-        <div class="wow fadeInLeft animated " style="visibility: visible; animation-name: fadeInLeft;">
+        <div class="wow animated " style="visibility: visible;">
             <h2><span class="item active">OutSystems - Platform As a Service (PaaS) Solutions</span></h2>
         </div>
         <div class="skill-wrap clearfix">
-            <div class="wow fadeInRight animated" style="visibility: visible; animation-name: fadeInRight;">
+            <div class="wow animated" style="visibility: visible;;">
                 About OutSystems Platform
                 <p class="lead">
                     OutSystems is a low-code Rapid Application Development Platform that lets users visually develop entire application, easily integrate with existing systems and allows to add their own custom code.
@@ -41,7 +41,7 @@
             </div>
         </div>
         <div class="skill-wrap clearfix">
-            <div class="wow fadeInLeft animated" style="visibility: visible; animation-name: fadeInLeft;">
+            <div class="wow animated" style="visibility: visible;">
                 OutSystems Solutions
                 <p class="lead">
                     We have extensive expertise in developing and delivering enterprise web and mobile applications in platform as a service (PaaS) product like OutSystems which run in the cloud, on-premises or in hybrid environments. Following are some of the integrations that we have developed.
@@ -73,7 +73,7 @@
             </div>
         </div>
 
-        <div class="col-sm-12 wow fadeInRight animated" style="visibility: visible; animation-name: fadeInRight;">
+        <div class="col-sm-12 wow animated" style="visibility: visible;;">
 
             <div class="col-sm-6">
             <img src="img/970x647/outsystems2.png" alt="Outsystems" class="responsive">
@@ -81,7 +81,7 @@
 
             <div class="col-sm-6">
                 <p>Our aim is to have a successful partnership with any organisation, whatever its size or complexity through our unique offerings at optimal cost and reducing the risks to specific business processes and maximizing the ROI through rapid application delivery.</p><br>
-                    <ul class="keyFeatureList wow fadeInLeft animated" data-wow-delay="600ms" data-wow-duration="1000ms" style="visibility: visible; animation-duration: 1000ms; animation-delay: 600ms; animation-name: fadeInLeft;">
+                    <ul class="keyFeatureList wow animated" data-wow-delay="600ms" data-wow-duration="1000ms" style="visibility: visible; animation-duration: 1000ms; animation-delay: 600ms;">
                     <li><i class="fa fa-hand-o-right" aria-hidden="true"></i>OutSystems Development</li>
                     <li><i class="fa fa-hand-o-right" aria-hidden="true"></i>OutSystems Customization</li>
                     <li><i class="fa fa-hand-o-right" aria-hidden="true"></i>OutSystems Integration</li>
@@ -102,3 +102,4 @@
     ?>
 </body>
 <!-- End Body -->
+</html>

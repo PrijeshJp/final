@@ -28,8 +28,8 @@
     </div>
     <div class="container">
         <div class="">
-            <h2 class="text-left wow fadeInLeft spacebtm animated" style="visibility: visible; animation-name: fadeInLeft;">Minuscule’s IoT Projects</h2>
-            <div class="col-sm-12 wow fadeInRight spacebtm animated" style="visibility: visible; animation-name: fadeInRight;">
+            <h2 class="text-left wow spacebtm animated" style="visibility: visible;">Minuscule’s IoT Projects</h2>
+            <div class="col-sm-12 wow spacebtm animated" style="visibility: visible;">
                     <ul class="text-left lead">
                         <li>Setup IoT devices in geographically distributed locations and started gathering data through cloud</li>
                         <li>Processed huge volume of data for data analysis and decision making recommendations</li>
@@ -44,7 +44,7 @@
                     </ul>
             </div>
             <div class="col-sm-12 spacebtm animated" >
-                <h2 class="text-left wow fadeInRight" style="visibility: visible; animation-name: fadeInRight;">IoT Expertise</h2>
+                <h2 class="text-left wow" style="visibility: visible;">IoT Expertise</h2>
                 <p>Our primary goal is to collect IOT data from various sources and provide a customizable dashboard to visualize the progress in cloud.</p>
                 <ul class="text-left lead">
                     <li><strong>IOT devices can send and fetch data via AWS IOT which enables</strong>
@@ -59,8 +59,8 @@
                 <p>We are using <strong>AWS Device Shadowing</strong> to control IoT devices using Mobile application which helps us to set the required state even if the device is in offline state.
                 Once IoT topic collects the data via <strong>MQTT protocol</strong>, it sends the data to <strong>AWS Lambda</strong> for processing inputs and communicate with other devices via different Topic.
             </div>
-            <div class="col-sm-12 wow fadeInLeft spacebtm animated" style="visibility: visible; animation-name: fadeInLeft;">
-                <h2 class="text-left wow fadeInRight" style="visibility: visible; animation-name: fadeInRight;">IoT Data & Analytics – Elastic Search</h2>
+            <div class="col-sm-12 wow spacebtm animated" style="visibility: visible;">
+                <h2 class="text-left wow" style="visibility: visible;">IoT Data & Analytics – Elastic Search</h2>
                 <div class="col-sm-7">
                     <ul>
                         <li>Distributed analytics engine capable of parsing JSON data based on index mapping and retrieve data near real time. </li>
@@ -74,8 +74,8 @@
                     <img src="img/logos/elastic.png" alt="Elastic" class="responsive">
                 </div>
             </div>
-            <div class="col-sm-12  wow fadeInLeft spacebtm animated" style="visibility: visible; animation-name: fadeInLeft;">
-                <h2 class="text-left wow fadeInRight" style="visibility: visible; animation-name: fadeInRight;">IoT Data & Analytics</h2>
+            <div class="col-sm-12  wow spacebtm animated" style="visibility: visible;">
+                <h2 class="text-left wow" style="visibility: visible;">IoT Data & Analytics</h2>
                 <h3>Firehose Delivery Stream & Amazon QuickSight</h3>
                 <div class="col-sm-6">
                     <p>Incoming data from the Firehose delivery stream is fed into an Analytics application that provides an easy way to process the data in real time using standard SQL queries.</p>
@@ -84,7 +84,7 @@
                     <p>Analytics allows writing standard SQL queries to extract specific components from the incoming data stream and perform real-time ETL on it which is loaded in Amazon QuickSight to create a monitoring dashboard and check if the devices are over-heating or cooling down during use</p>              
                 </div>
             </div>
-            <div class="col-sm-12 wow fadeInLeft spacebtm animated" style="visibility: visible; animation-name: fadeInLeft;">
+            <div class="col-sm-12 wow spacebtm animated" style="visibility: visible;">
                 <div class="col-sm-6">
                     <p>Redirecting all IoT related data to S3 and doing analytics using Apache Spark via AWS Elastic MapReduce. This approach gives us a channel to do analysis of millions of records in an effective way. </p>
                 </div>
@@ -93,8 +93,8 @@
                     <img src="img/mockups/logos1.png" alt="logos" class="responsive">
                 </div>
             </div>
-            <div class="col-sm-12  wow fadeInLeft spacebtm animated" style="visibility: visible; animation-name: fadeInLeft;">
-                <h2 class="text-left wow fadeInRight" style="visibility: visible; animation-name: fadeInRight;">IoT Flow Chart</h2>
+            <div class="col-sm-12  wow spacebtm animated" style="visibility: visible;">
+                <h2 class="text-left wow" style="visibility: visible;">IoT Flow Chart</h2>
                 <img src="img/1920x1080/flow.png" alt="flowchart" class="responsive">
             </div>
         </div>
@@ -104,3 +104,4 @@
 <?php
     include "footer.php";
 ?>
+</html>

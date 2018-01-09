@@ -7382,6 +7382,10 @@
   .javaHeader{
     margin-top: 230px;
   }
+  img.img-responsive.digital {
+    position: relative !important;
+    bottom: 0px !important;
+}
 }
 .row.g-overflow--hidden{
   margin-top: 35px;
@@ -7391,6 +7395,10 @@
     position: relative;
     top: 88px;
   }
+  img.img-responsive.digital {
+    position: relative !important;
+    bottom: 0px !important;
+}
   img.img-responsive.res1{
     position: relative;
     top: 220px;
@@ -7454,3 +7462,7 @@ body > section {
   .cont{
     bottom: 204px;
   }
+  img.img-responsive.digital {
+    position: relative;
+    bottom: 70px;
+}

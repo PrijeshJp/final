@@ -32,12 +32,12 @@
     <!--========== END PROMO BLOCK ==========-->
     <!--========== PAGE CONTENT ==========-->
     <div class="container blogpad">
-        <div class="wow fadeInDown animated " style="visibility: visible; animation-name: fadeInDown;">
+        <div class="wow animated " style="visibility: visible;">
             <h2><span class="item active">SAP ABAP</span></h2>
         </div>
         <!-- about us slider -->
         <div class="skill-wrap clearfix">
-            <div class="wow fadeInDown animated" style="visibility: visible; animation-name: fadeInDown;">
+            <div class="wow animated" style="visibility: visible;">
                 <p class="lead">
                     If you are looking for sustainable ABAP developments across your SAP landscape, Minuscule Technologie's SAP consulting experts can support you either offshore or onsite. Our SAP ABAP development team of Technical and techno functional consultants specialize in development of ABAP based development across the core ERP modules like SD, MM, FICO, PS, WM, PP, QM as well as new dimensional modules like SAP CRM, SAP HCM, SAP SRM, SAP APO etc. 
                     <br><br>
@@ -59,7 +59,7 @@
             </div>
         </div>
         <div class="skill-wrap clearfix">
-            <div class="wow fadeInDown animated" style="visibility: visible; animation-name: fadeInDown;">
+            <div class="wow animated" style="visibility: visible;">
                 SAP ABAP enhancements
                 <p class="lead">
                     Minuscule SAP expert team provides SAP ABAP enhancement services either offsite or onsite and these include BADIS, User exits, Field exits, FQ Events, Business data toolsets (BDT), Business transaction events (BTE).
@@ -84,3 +84,4 @@
     ?>
 </body>
 <!-- End Body -->
+</html>
