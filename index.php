@@ -57,9 +57,10 @@
         <a href="javascript:void(0);" class="s-swiper__arrow-v1--left s-icon s-icon--md s-icon--white-brd g-radius--circle ti-angle-left js__swiper-btn--prev rad"></a>
         <!-- End Arrows -->
 
-        <a href="#js__scroll-to-section" class="s-scroll-to-section-v1--bc g-margin-b-15--xs scroll-down">
-            <span class="g-font-size-18--xs g-color--white scrolldwn"></span>
-        </a>
+        <a href="#js__scroll-to-section" class="s-scroll-to-section-v1--bc g-margin-b-15--xs">
+        <span class="g-font-size-18--xs g-color--white ti-angle-double-down"></span>
+        <p class="text-uppercase g-color--white g-letter-spacing--3 g-margin-b-0--xs">Learn More</p>
+    </a>
     </div>
     <!--========== END SWIPER SLIDER ==========-->
 
