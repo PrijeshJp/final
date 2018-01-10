@@ -4,6 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Salesforce Consulting, CRM customization and Development - Minuscule Technologies</title>
+    <link rel="shortcut icon" href="favicon.ico" />
     <meta name="description" content="Salesforce consulting services, CRM customization, Development by Minuscule Technologies to help enterprises implement CRM solutions, customize, integrate, and develop using salesforce.com and the Force.com platform, Angular JS">
     <meta name="author" content="">
     <link rel="canonical" href="http://www.minusculetechnologies.com/salesforce.html" />
@@ -43,7 +44,7 @@
         <div class="row g-margin-b-30--xs">
             <div class="col-sm-12">
                 <div class="g-margin-t-20--md g-margin-b-40--xs  wow animated" >
-                    <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs">Branding Work</p>
+                    <!-- <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs">Branding Work</p> -->
                     <h2 class="g-font-size-32--xs g-font-size-36--md">Salesforce</h2>
                     <p> Salesforce Minuscule Team has deep expertise and understanding of Salesforce CRM and Force.com. Our offshore team of Developers, Architects, Analysts, Team Leads and Administrators have delivered several advanced implementations for global clients.</p>
                     <p>Minuscule can enable you to maximize returns from your investment in Salesforce.com and reap the rewards of successful customer relationship management and Salesforce automation. Among the emerging Salesforce companies in India, we are one of the key player. We ensure greater client satisfaction and provide best user experience through best-in-class UI/UX team at Minuscule. We have extensive expertise in the following areas of Salesforce development</p>

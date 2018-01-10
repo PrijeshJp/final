@@ -6,7 +6,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <title>Heroku Solutions | Minuscule Technologies</title>
-    
+    <link rel="shortcut icon" href="favicon.ico" />
     <!-- core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/font-awesome.min.css" rel="stylesheet">

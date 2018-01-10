@@ -4,6 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>OutSystems consulting and development solutions outsourcing for rapid enterprise web applications agile development - Minuscule Technologies</title>
+    <link rel="shortcut icon" href="favicon.ico" />
     <meta name="description" content="Expertise in consulting and developing solutions on rapid low code PAAS application delivery platform, Platform as a service (PaaS) like OutSystems from Minuscule Technologies">
     <meta name="author" content="">
     <link rel="canonical" href="http://www.minusculetechnologies.com/outsystems.html" />

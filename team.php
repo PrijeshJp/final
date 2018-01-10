@@ -4,6 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Minuscule Technologies - Salesforce Consulting, OutSystems Development , Digital marketing, OBIEE development outsourcing experts</title>
+        <link rel="shortcut icon" href="favicon.ico" />
         <meta name="description" content="Experts from Minuscule Technologies offers consulting and development solutions on Salesforce CRM, OutSystems platform on PaaS, digital marketing and strategy solutions on both on-shore and off-shore model.">
         <meta name="author" content="">
         <link rel="canonical" href="http://www.minusculetechnologies.com/about-us.html" />

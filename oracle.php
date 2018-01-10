@@ -4,6 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Oracle Business Intelligence Enterprise Edition OBIEE customization and development outsourcing - Minuscule Technologies</title>
+    <link rel="shortcut icon" href="favicon.ico" />
     <meta name="description" content="OBIEE customization and development outsourcing solutions for reporting, querying, analytic, OLAP, dashboard and scorecard functionalities on OBIEE.">
     <meta name="author" content="">
     <link rel="canonical" href="http://www.minusculetechnologies.com/obiee.html" />

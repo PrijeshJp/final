@@ -4,6 +4,7 @@
         <meta charset="utf-8">
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
             <title>Digital Marketing and Digital Strategy solutions consulting outsourcing - Minuscule Technologies </title>
+            <link rel="shortcut icon" href="favicon.ico" />
             <meta name="description" content="Minuscule Technologies offers expert digital business consulting solutions that will help your business grow through digital platforms e-commerce, marketing, and digital analytics solutions" />
             <meta name="keywords" content="digital business solutions, digital commerce, digital marketing consulting, digital marketing analytics, digital supply chain, sharepoint consulting services, mobility solutions, enterprise mobility services" />
             <meta name="author" content="">

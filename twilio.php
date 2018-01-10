@@ -4,6 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Twilio API integration and development for Messaging, Voice, Video and Authentication - Minuscule Technologies</title>
+    <link rel="shortcut icon" href="favicon.ico" />     
     <meta name="description" content="Developing and integrating IVR with Twilio, TwiML Voice, TwiML SMS, Appointment Reminders, Automated Phone Order and Payment Verification, Integrations for Emergency Call, Customer Click to Call, SMS, Twilio REST API with CodeIgniter.">
     <meta name="author" content="">
     <link rel="canonical" href="http://www.minusculetechnologies.com/twilio.html" />

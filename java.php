@@ -4,7 +4,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Java development services, Enterprise Java application development outsourcing - Minuscule Technologies</title>
-    <meta name="description" content="Minuscule Technologies provides Java Development Services solutions on Enterprise Java Development, Java Web Development and Java Software Development with experienced Java Architects and Developers">
+	<link rel="shortcut icon" href="favicon.ico" />
+	<meta name="description" content="Minuscule Technologies provides Java Development Services solutions on Enterprise Java Development, Java Web Development and Java Software Development with experienced Java Architects and Developers">
     <meta name="author" content="">
     <link rel="canonical" href="http://www.minusculetechnologies.com/java-development-services.html" />
     <meta property="og:locale" content="en_US" />

@@ -4,6 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Salesforce Single Page Application SPAs on Aura or AngularJS? by Minuscule Technologies</title>
+    <link rel="shortcut icon" href="favicon.ico" />
     <meta name="description" content="Salesforce consulting developing SPA through Lightning Aura and AngularJS by Minuscule Technologies to help enterprises implement CRM solutions, customize, integrate, and develop using salesforce.com and the Force.com platform, Angular JS">
     <meta name="author" content="">
     <link rel="canonical" href="http://www.minusculetechnologies.com/salesforce-SPAs-Aura-or-AngularJS.html" />
