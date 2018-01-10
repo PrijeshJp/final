@@ -2388,39 +2388,8 @@ fieldset[disabled] .s-btn {
   font-weight: 300;
   color: white;
 }
-/* jp */
-/* service */
-.bgservice{
-  background-image: url('../img/1920x1080/salesforce.jpg');
-  position: relative;
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 90vh;
-}
-
-.bgsap{
-  background-image: url('../img/1920x1080/sap.jpg');
-  position: relative;
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 70vh;
-}
-.bgabout{
-  background-image: url('../img/1920x1080/about.jpg');
-  position: relative;
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 70vh;
-}
-/* end service */
 
 .bgclr{
-  /* position: fixed;
-  top: 0;
-  left: 0;
-  z-index: 103;
-  height: 70px;
-  width: 100%; */
   border-bottom: 1px solid #e8ebed;
   background: linear-gradient(to right, rgba(255,255,255,1),hsla(225, 100%, 100%, 0.9));
 }

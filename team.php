@@ -105,7 +105,7 @@
                             <div class="g-bg-color--primary g-padding-x-15--xs g-padding-y-10--xs g-margin-b-20--xs">
                                 <h4 class="g-font-size-22--xs g-font-size-26--sm g-color--white g-margin-b-0--xs">Anantharaman</h4>
                             </div>
-                            <p class="g-font-weight--700">Technical Architect</p>
+                            <p class="g-font-weight--700">Technology Evangelist</p>
                             <p>Over a decade of experience in software archicture, design, development and delivery. Very strong skills in JAVA, Salesforce and Mobile Platforms. Worked on cutting-edge technology solutions for some of the top global companies.</p>
                         </div>
                     </div>
