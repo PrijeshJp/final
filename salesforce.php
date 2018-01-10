@@ -25,10 +25,6 @@
     <!--========== END HEADER ==========-->
 
     <!--========== PROMO BLOCK ==========-->
-    <!-- <section class="bgservice" >
-        <div class="container g-position--overlay g-text-center--xs">
-        </div>
-    </section> -->
     <img src="img/1920x1080/salesforce1.jpg" class="img-responsive res">
     <!--========== END PROMO BLOCK ==========-->
 

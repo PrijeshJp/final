@@ -24,11 +24,8 @@
         include ("nav.php");
     ?>
     <!--========== PROMO BLOCK ==========-->
-    <section class="bgsap" >
-        <div class="container g-position--overlay g-text-center--xs">
+    <img src="img/1920x1080/sap.jpg" class="img-responsive res">
 
-        </div>
-    </section>
     <!--========== END PROMO BLOCK ==========-->
     <!--========== PAGE CONTENT ==========-->
     <div class="container blogpad">
