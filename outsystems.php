@@ -74,12 +74,7 @@
         </div>
 
         <div class="col-sm-12 wow animated" style="visibility: visible;;">
-
-            <div class="col-sm-6">
-            <img src="img/970x647/outsystems2.png" alt="Outsystems" class="responsive">
-            </div>
-
-            <div class="col-sm-6">
+            <div class="col-sm-12">
                 <p>Our aim is to have a successful partnership with any organisation, whatever its size or complexity through our unique offerings at optimal cost and reducing the risks to specific business processes and maximizing the ROI through rapid application delivery.</p><br>
                     <ul class="keyFeatureList wow animated" data-wow-delay="600ms" data-wow-duration="1000ms" style="visibility: visible; animation-duration: 1000ms; animation-delay: 600ms;">
                     <li><i class="fa fa-hand-o-right" aria-hidden="true"></i>OutSystems Development</li>

@@ -24,13 +24,7 @@
         include ("nav.php");
     ?>
     <!--========== PROMO BLOCK ==========-->
-    <section class="bgabout" >
-        <div class="container g-position--overlay g-text-center--xs">
-            <!-- <div class="g-padding-y-50--xs g-margin-t-100--xs g-margin-b-100--xs g-margin-b-250--md bgblog-white">
-                <h1 class="g-font-size-36--xs g-font-size-50--sm g-font-size-60--md">More Than A Just A Blog</h1>
-            </div> -->
-        </div>
-    </section>
+    <img src="img/1920x1080/about.jpg" class="img-responsive res">
     <!--========== END PROMO BLOCK ==========-->
     <!--========== PAGE CONTENT ==========-->
     <div class="container blogpad">
