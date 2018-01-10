@@ -359,8 +359,8 @@
                     </div>
                     <div class="s-portfolio__caption-hover--cc">
                         <div class="g-margin-b-25--xs">
-                            <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Portfolio Item</h4>
-                            <p class="g-color--white-opacity">by KeenThemes Inc.</p>
+                            <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Salesforce Appexchange</h4>
+                            <p class="g-color--white-opacity">Salesforce CRM.</p>
                         </div>
                         <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
                             <!-- <li>
