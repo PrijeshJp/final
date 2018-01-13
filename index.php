@@ -246,9 +246,6 @@
                                 </a>
                             </li> -->
                             <li>
-                                <a href="https://www.salesforce.com/" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                    <i class="ti-link"></i>
-                                </a>
                             </li>
                         </ul>
                     </div>
@@ -270,11 +267,6 @@
                                     <i class="ti-fullscreen"></i>
                                 </a>
                             </li> -->
-                            <li>
-                                <a href="https://www.heroku.com/" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                    <i class="ti-link"></i>
-                                </a>
-                            </li>
                         </ul>
                     </div>
                 </div>
@@ -295,11 +287,6 @@
                                     <i class="ti-fullscreen"></i>
                                 </a>
                             </li> -->
-                            <li>
-                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                    <i class="ti-link"></i>
-                                </a>
-                            </li>
                         </ul>
                     </div>
                 </div>
@@ -320,11 +307,6 @@
                                     <i class="ti-fullscreen"></i>
                                 </a>
                             </li> -->
-                            <li>
-                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                    <i class="ti-link"></i>
-                                </a>
-                            </li>
                         </ul>
                     </div>
                 </div>
@@ -345,11 +327,6 @@
                                     <i class="ti-fullscreen"></i>
                                 </a>
                             </li> -->
-                            <li>
-                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                    <i class="ti-link"></i>
-                                </a>
-                            </li>
                         </ul>
                     </div>
                 </div>
@@ -370,11 +347,7 @@
                                     <i class="ti-fullscreen"></i>
                                 </a>
                             </li> -->
-                            <li>
-                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                    <i class="ti-link"></i>
-                                </a>
-                            </li>
+                          
                         </ul>
                     </div>
                 </div>
@@ -395,11 +368,7 @@
                                     <i class="ti-fullscreen"></i>
                                 </a>
                             </li> -->
-                            <li>
-                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                    <i class="ti-link"></i>
-                                </a>
-                            </li>
+                           
                         </ul>
                     </div>
                 </div>
@@ -420,11 +389,6 @@
                                     <i class="ti-fullscreen"></i>
                                 </a>
                             </li> -->
-                            <li>
-                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                    <i class="ti-link"></i>
-                                </a>
-                            </li>
                         </ul>
                     </div>
                 </div>
@@ -445,11 +409,6 @@
                                     <i class="ti-fullscreen"></i>
                                 </a>
                             </li> -->
-                            <li>
-                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                    <i class="ti-link"></i>
-                                </a>
-                            </li>
                         </ul>
                     </div>
                 </div>
@@ -469,11 +428,7 @@
                                     <a href="img/logos/rabbitmq.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Rabbitmq<br/> Cloud Computing.">
                                     </a>
                                 </li> -->
-                            <li>
-                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                    <i class="ti-link"></i>
-                                </a>
-                            </li>
+                           
                         </ul>
                     </div>
                 </div>
@@ -493,11 +448,7 @@
                                     <a href="img/logos/spring-1.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Spring<br/> Cloud Computing.">
                                     </a>
                                 </li> -->
-                            <li>
-                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                    <i class="ti-link"></i>
-                                </a>
-                            </li>
+                            
                         </ul>
                     </div>
                 </div>
@@ -518,11 +469,7 @@
                                     <a href="img/logos/oracle.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Oracle<br/> Database.">
                                     </a>
                                 </li> -->
-                            <li>
-                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                    <i class="ti-link"></i>
-                                </a>
-                            </li>
+                            
                         </ul>
                     </div>
                 </div>
@@ -542,11 +489,7 @@
                                     <a href="img/logos/kubernetes.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
                                     </a>
                                 </li> -->
-                            <li>
-                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                    <i class="ti-link"></i>
-                                </a>
-                            </li>
+                          
                         </ul>
                     </div>
                 </div>
@@ -566,11 +509,7 @@
                                     <a href="img/logos/cassandra.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
                                     </a>
                                 </li> -->
-                            <li>
-                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                    <i class="ti-link"></i>
-                                </a>
-                            </li>
+                           
                         </ul>
                     </div>
                 </div>
@@ -590,11 +529,7 @@
                                     <a href="img/logos/mysql.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
                                     </a>
                                 </li> -->
-                            <li>
-                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                    <i class="ti-link"></i>
-                                </a>
-                            </li>
+                            
                         </ul>
                     </div>
                 </div>
@@ -614,11 +549,7 @@
                                     <a href="img/logos/sqlserver.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
                                     </a>
                                 </li> -->
-                            <li>
-                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                    <i class="ti-link"></i>
-                                </a>
-                            </li>
+                            
                         </ul>
                     </div>
                 </div>
@@ -638,11 +569,7 @@
                                     <a href="img/logos/elastic.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
                                     </a>
                                 </li> -->
-                            <li>
-                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                    <i class="ti-link"></i>
-                                </a>
-                            </li>
+                        
                         </ul>
                     </div>
                 </div>
@@ -662,11 +589,7 @@
                                     <a href="img/logos/couchbase.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
                                     </a>
                                 </li> -->
-                            <li>
-                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                    <i class="ti-link"></i>
-                                </a>
-                            </li>
+                          
                         </ul>
                     </div>
                 </div>
@@ -686,11 +609,7 @@
                                     <a href="img/logos/postgresql.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
                                     </a>
                                 </li> -->
-                            <li>
-                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                    <i class="ti-link"></i>
-                                </a>
-                            </li>
+                            
                         </ul>
                     </div>
                 </div>
@@ -710,11 +629,7 @@
                                     <a href="img/logos/apachespark.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
                                     </a>
                                 </li> -->
-                            <li>
-                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                    <i class="ti-link"></i>
-                                </a>
-                            </li>
+                           
                         </ul>
                     </div>
                 </div>
@@ -734,11 +649,7 @@
                                     <a href="img/logos/angular.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
                                     </a>
                                 </li> -->
-                            <li>
-                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                    <i class="ti-link"></i>
-                                </a>
-                            </li>
+                          
                         </ul>
                     </div>
                 </div>
@@ -758,11 +669,7 @@
                                     <a href="img/logos/boots.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
                                     </a>
                                 </li> -->
-                            <li>
-                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                    <i class="ti-link"></i>
-                                </a>
-                            </li>
+                           
                         </ul>
                     </div>
                 </div>
@@ -782,11 +689,7 @@
                                     <a href="img/logos/html.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
                                     </a>
                                 </li> -->
-                            <li>
-                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                    <i class="ti-link"></i>
-                                </a>
-                            </li>
+                           
                         </ul>
                     </div>
                 </div>
@@ -806,11 +709,7 @@
                                     <a href="img/logos/css.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
                                     </a>
                                 </li> -->
-                            <li>
-                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                    <i class="ti-link"></i>
-                                </a>
-                            </li>
+                            
                         </ul>
                     </div>
                 </div>
@@ -830,11 +729,7 @@
                                     <a href="img/logos/d3.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
                                     </a>
                                 </li> -->
-                            <li>
-                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                    <i class="ti-link"></i>
-                                </a>
-                            </li>
+                           
                         </ul>
                     </div>
                 </div>
@@ -854,11 +749,7 @@
                                     <a href="img/logos/jquery.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
                                     </a>
                                 </li> -->
-                            <li>
-                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                    <i class="ti-link"></i>
-                                </a>
-                            </li>
+                           
                         </ul>
                     </div>
                 </div>
@@ -878,11 +769,7 @@
                                     <a href="img/logos/websocket.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
                                     </a>
                                 </li> -->
-                            <li>
-                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                    <i class="ti-link"></i>
-                                </a>
-                            </li>
+                          
                         </ul>
                     </div>
                 </div>
@@ -902,11 +789,7 @@
                                     <a href="img/logos/websocket.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
                                     </a>
                                 </li> -->
-                            <li>
-                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                    <i class="ti-link"></i>
-                                </a>
-                            </li>
+                            
                         </ul>
                     </div>
                 </div>
@@ -926,11 +809,7 @@
                                     <a href="img/logos/websocket.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
                                     </a>
                                 </li> -->
-                            <li>
-                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                    <i class="ti-link"></i>
-                                </a>
-                            </li>
+                          
                         </ul>
                     </div>
                 </div>
@@ -950,11 +829,7 @@
                                     <a href="img/logos/websocket.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
                                     </a>
                                 </li> -->
-                            <li>
-                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                    <i class="ti-link"></i>
-                                </a>
-                            </li>
+                           
                         </ul>
                     </div>
                 </div>
@@ -974,11 +849,7 @@
                                     <a href="img/logos/websocket.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
                                     </a>
                                 </li> -->
-                            <li>
-                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                    <i class="ti-link"></i>
-                                </a>
-                            </li>
+                         
                         </ul>
                     </div>
                 </div>
@@ -998,11 +869,7 @@
                                     <a href="img/logos/websocket.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
                                     </a>
                                 </li> -->
-                            <li>
-                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                    <i class="ti-link"></i>
-                                </a>
-                            </li>
+                         
                         </ul>
                     </div>
                 </div>
@@ -1022,11 +889,7 @@
                                     <a href="img/logos/websocket.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
                                     </a>
                                 </li> -->
-                            <li>
-                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                    <i class="ti-link"></i>
-                                </a>
-                            </li>
+                            
                         </ul>
                     </div>
                 </div>
@@ -1046,11 +909,7 @@
                                     <a href="img/logos/websocket.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
                                     </a>
                                 </li> -->
-                            <li>
-                                <a href="" class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-                                    <i class="ti-link"></i>
-                                </a>
-                            </li>
+                            
                         </ul>
                     </div>
                 </div>
