@@ -39,18 +39,18 @@
     <div class="container">
 				<div class="center wow spacebtm animated" style="visibility: visible;">
 					<h2 class="text-left javaHeader">Java Development Services</h2>
-					<p class="text-left lead">Minuscule Technologies offers exceptional Java/J2EE programming services to suit the Enterprise, web and mobile application development requirements of the clients. We do fulfill the needs of diverse enterprises impeccably. Our Java application development service is scalable and easy to implement.</p>
+					<p class="text-left lead fontSizeChange">Minuscule Technologies offers exceptional Java/J2EE programming services to suit the Enterprise, web and mobile application development requirements of the clients. We do fulfill the needs of diverse enterprises impeccably. Our Java application development service is scalable and easy to implement.</p>
 					<br><br>
                     <div class="col-sm-12">
                         <div class="col-sm-6">
                             <img class="responsive" src="img/newImg/javaDev.png" />
                         </div>
                         <div class="col-sm-6">
-                            <ul class="text-left lead" style="margin-top: 140px;">
-                                <li>We develop reliable and secure Java Enterprise, web and mobile applications</li>
-                                <li>We have skilled and experienced Java developers having the splendid experience in developing robust Java based applications</li>
-                                <li>Our team of professional developers remains abreast of the latest developments in the Java J2EE technology to offer the right business solutions</li>
-                                <li>We have vast experience in working with global clients on onshore/offshore model</li>
+                            <ul class="text-left lead listSpacing">
+                                <li class="fontSizeChange">We develop reliable and secure Java Enterprise, web and mobile applications</li>
+                                <li class="fontSizeChange">We have skilled and experienced Java developers having the splendid experience in developing robust Java based applications</li>
+                                <li class="fontSizeChange">Our team of professional developers remains abreast of the latest developments in the Java J2EE technology to offer the right business solutions</li>
+                                <li class="fontSizeChange">We have vast experience in working with global clients on onshore/offshore model</li>
                             </ul>
                         </div>
                     </div>
@@ -69,7 +69,7 @@
 						<div class="media services-wrap wow animated" style="visibility: visible;">
 							<div class="media-body">
 								<h4 class="media-heading">JAVA WEB DEVELOPMENT</h4>
-								<p>Well-equipped to build fast, secure &amp; incredible Java websites for varied sectors, like healthcare, finance retail, telecommunication, etc.</p>
+								<p class="fontSizeChange">Well-equipped to build fast, secure &amp; incredible Java websites for varied sectors, like healthcare, finance retail, telecommunication, etc.</p>
 							</div>
 						</div>
 					</div>
@@ -77,7 +77,7 @@
 						<div class="media services-wrap wow" style="visibility: visible;">
 							<div class="media-body">
 								<h4 class="media-heading">CUSTOM JAVA DEVELOPMENT</h4>
-								<p>Deploys collaborative and integrated approach in customizing Java-based applications and website to fulfill the businesses’ requirements.</p>
+								<p class="fontSizeChange">Deploys collaborative and integrated approach in customizing Java-based applications and website to fulfill the businesses’ requirements.</p>
 							</div>
 						</div>
                     </div>
@@ -87,7 +87,7 @@
 						<div class="media services-wrap wow animated" style="visibility: visible;">
 							<div class="media-body">
 								<h4 class="media-heading">JAVA MAINTENANCE SUPPORT</h4>
-								<p>Ensures smooth workflow of the Java application and website with all-the-time active Java application and maintenance technical support.</p>
+								<p class="fontSizeChange">Ensures smooth workflow of the Java application and website with all-the-time active Java application and maintenance technical support.</p>
 							</div>
 						</div>
 					</div>
@@ -95,7 +95,7 @@
 						<div class="media services-wrap wow" style="visibility: visible;">
 							<div class="media-body">
 								<h4 class="media-heading">JAVA/J2EE DEVELOPMENT</h4>
-								<p>Renders scalable, robust, high-end &amp; cost-effective Java application by using the advanced framework J2EE brilliantly for different enterprises.</p>
+								<p class="fontSizeChange">Renders scalable, robust, high-end &amp; cost-effective Java application by using the advanced framework J2EE brilliantly for different enterprises.</p>
 							</div>
 						</div>
 					</div>
@@ -103,7 +103,7 @@
 						<div class="media services-wrap wow animated" style="visibility: visible;">
 							<div class="media-body">
 								<h4 class="media-heading">JAVA MIGRATION SERVICE</h4>
-								<p>We have expertise in migrating the business platform to Java-based framework in order to ensure a better, scalable prospect in the future.</p>
+								<p class="fontSizeChange">We have expertise in migrating the business platform to Java-based framework in order to ensure a better, scalable prospect in the future.</p>
 							</div>
 						</div>
 					</div>

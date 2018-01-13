@@ -34,13 +34,13 @@
         </div>
         <div class="skill-wrap clearfix">
             <div class="wow fadeInDown animated" style="visibility: visible; animation-name: fadeInDown;">
-                <p class="lead">
+                <p class="lead fontSizeChange">
                     We are a team of passionate IT professionals with more than a decade experience in IT consulting, developing and delivering technology solutions based in JAVA, J2EE, .Net and digital solutions for global clients. We have expertise in working with top global clients in delivering solutions.
                     <br><br>
                     As Stephen Hawking said that Intelligence is the ability to adapt to change, we have leveraged our extensive web application development experience to deliver best in class solutions on latest technology platforms like SalesForce, Mobile app development, cloud based solutions and Oracle Business Intelligence suits. Also, our team has expertise in developing and delivering enterprise web and mobile applications in platform as a service (PaaS) products like OutSystems which run in the cloud, on-premises or in hybrid environments.
                     <br><br>
                 </p>
-                <p class="lead">
+                <p class="lead fontSizeChange">
                     Minuscule Technologies, an Indian software development company, was founded in 2006 by a group of
                     people who are passionate about technology. Our expertise cover everything from product development
                     to service support. The core team includes skilled personnel who have experience working with
@@ -48,7 +48,7 @@
                     is to leverage the team's technical and domain expertise and work with clients to help them empower
                     their businesses by creating cutting edge software solutions.
                </p>
-               <p class="lead">
+               <p class="lead fontSizeChange">
                     Minuscule Technologies has top-notch talents for Software design, Architecture, Creative and Responsive
                     UI/UX, Mobile App Development, Digital Marketing and Quality Assurance Services. The company
                     believes in using different platforms/technologies to find out-of-box solutions for issues that

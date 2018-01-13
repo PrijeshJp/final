@@ -39,7 +39,7 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="container g-padding-y-50--xs">
+                    <div class="container g-padding-y-50--xs footerPadding">
                         <div class="col-xs-6 ">
                             <ul class="list-inline s-header__action">
                                 <li class="s-header__action-item">
@@ -63,7 +63,7 @@
                             </ul>
                         </div>
                         <div class="col-xs-6 g-text-right--xs">
-                            <p class="g-font-size-14--xs g-margin-b-0--xs g-color--white-opacity-light">© 2016 Minuscule Technologies Pvt. Ltd.. All Rights Reserved.</p>
+                            <p class="g-font-size-14--xs g-margin-b-0--xs g-color--white-opacity-light">© <?php echo date("Y"); ?> Minuscule Technologies Pvt. Ltd.. All Rights Reserved.</p>
                         </div>
                     </div>
                 </div>

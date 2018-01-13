@@ -40,12 +40,12 @@
     <!--========== END PROMO BLOCK ==========-->
     <!--========== PAGE CONTENT ==========-->
     <div class="container blogpad">
-        <div class="wow animated " style="visibility: visible;">
+        <div class="wow animated fontSizeChange" style="visibility: visible;">
             <h2><span class="item active">Heroku - Salesforce integrated Solution</span></h2>
         </div>
         <div class="skill-wrap clearfix">
             <div class="wow animated" style="visibility: visible;">
-                <p class="lead">
+                <p class="lead fontSizeChange">
                     We at Minuscule Technologies have done a solution on <b>Heroku</b> which interfaced with <b>Salesforce</b> and other applications. Following are the high-level details of our solution.
                     <br><br>
                     The <b>Hybrid App</b> solution is for an Application that has Web/App solution and we have done using and <b>OAuth 2.0</b>.
@@ -59,13 +59,13 @@
                     Technically, the mobile app is a responsive and Hybrid app that works in multiple devices i.e. Android, iOS and Web browsers.
                     <br>
                     <ul>
-                        <li>The Web application supports responsive UI and can run as standalone app in Linux, Windows and Mac </li>
-                        <li>The app is done on <b><i>JAVA, AngularJS </i></b>and uses <b><i>Heroku PostgreSQL</i></b> as a backend</li>
-                        <li>Mobile app has been developed on Ionic 2 with Angular 2 and this helps us to reuse the same code base to build Android and iOS Applications</li>
-                        <li><b><i>OAuth2.0</i></b> is being used in the security module</li>
-                        <li>Web server notifies mobile app using Firebase cloud messaging to manage notifications, handling remote configs and gathering analytics</li>
-                        <li>We are using <b><i>Heroku Connect</i></b> to communicate with <b><i>Salesforce </i></b>to gather all custom objects associated with the Application</li>
-                        <li>High-level solution diagram as below</li>
+                        <li class="fontSizeChange">The Web application supports responsive UI and can run as standalone app in Linux, Windows and Mac </li>
+                        <li class="fontSizeChange">The app is done on <b><i>JAVA, AngularJS </i></b>and uses <b><i>Heroku PostgreSQL</i></b> as a backend</li>
+                        <li class="fontSizeChange">Mobile app has been developed on Ionic 2 with Angular 2 and this helps us to reuse the same code base to build Android and iOS Applications</li>
+                        <li class="fontSizeChange"><b><i>OAuth2.0</i></b> is being used in the security module</li>
+                        <li class="fontSizeChange">Web server notifies mobile app using Firebase cloud messaging to manage notifications, handling remote configs and gathering analytics</li>
+                        <li class="fontSizeChange">We are using <b><i>Heroku Connect</i></b> to communicate with <b><i>Salesforce </i></b>to gather all custom objects associated with the Application</li>
+                        <li class="fontSizeChange">High-level solution diagram as below</li>
                     </ul>
                     <br><br>
                 </p>

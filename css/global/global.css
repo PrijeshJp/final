@@ -7468,9 +7468,36 @@ body > section {
 }
 @media (max-width: 500px){
   .aboutImg{
-    display: none;
+    display: none;    
   }
   .arrow{
     display: none;
   }
+  .contactMap{
+    margin-top: 60px;
+  }
+  .listSpacing{
+    margin-top: 0px !important;
+  }
+  .services-wrap {
+    padding: 2px 40px !important;
+  }
+  .blogpad {
+    margin-top: 15vh !important;
+}
+}
+.footerPadding{
+  padding-top: 25px !important;
+  padding-bottom: 25px !important;
+}
+.oracleSpacing{
+  margin-top:0px;
+}
+@media (min-width: 900px ){
+  .fontSizeChange{
+  font-size: 19px;
+}
+.listSpacing{
+  margin-top: 140px;
+}
 }

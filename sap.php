@@ -36,39 +36,39 @@
         <!-- about us slider -->
         <div class="skill-wrap clearfix">
             <div class="wow animated" style="visibility: visible;">
-                <p class="lead">
+                <p class="lead fontSizeChange">
                     If you are looking for sustainable ABAP developments across your SAP landscape, Minuscule Technologie's SAP consulting experts can support you either offshore or onsite. Our SAP ABAP development team of Technical and techno functional consultants specialize in development of ABAP based development across the core ERP modules like SD, MM, FICO, PS, WM, PP, QM as well as new dimensional modules like SAP CRM, SAP HCM, SAP SRM, SAP APO etc. 
                     <br><br>
                     Our ABAP Development services include
                     <ul>
-                        <li>ABAP development for Reports, Interfaces, Transactions, Conversions, Enhancements, Forms, Workflows</li>
-                        <li>Data Migration using LSMW</li>
-                        <li>Data Migration using SAP BDC</li>
-                        <li>OOPS ABAP</li>
-                        <li>SmartForms. SAPscript. Adobe Interactive Forms</li>
-                        <li>ABAP HR</li>
-                        <li>Advanced ALV reporting to provide feature-rich reports directly from SAP ERP</li>
-                        <li>Adobe Interactive Forms based rich end user interaction</li>
-                        <li>SAP BSP and Webdynpro for Web enablement</li>
-                        <li>Workflows linked to organization hierarchies for purchase, HR or financial document approvals</li>
-                        <li>Document Management-auditing, routing & archiving</li>
+                        <li class="fontSizeChange">ABAP development for Reports, Interfaces, Transactions, Conversions, Enhancements, Forms, Workflows</li>
+                        <li class="fontSizeChange">Data Migration using LSMW</li>
+                        <li class="fontSizeChange">Data Migration using SAP BDC</li>
+                        <li class="fontSizeChange">OOPS ABAP</li>
+                        <li class="fontSizeChange">SmartForms. SAPscript. Adobe Interactive Forms</li>
+                        <li class="fontSizeChange">ABAP HR</li>
+                        <li class="fontSizeChange">Advanced ALV reporting to provide feature-rich reports directly from SAP ERP</li>
+                        <li class="fontSizeChange">Adobe Interactive Forms based rich end user interaction</li>
+                        <li class="fontSizeChange">SAP BSP and Webdynpro for Web enablement</li>
+                        <li class="fontSizeChange">Workflows linked to organization hierarchies for purchase, HR or financial document approvals</li>
+                        <li class="fontSizeChange">Document Management-auditing, routing & archiving</li>
                     </ul>
                 </p>
             </div>
         </div>
         <div class="skill-wrap clearfix">
-            <div class="wow animated" style="visibility: visible;">
+            <div class="wow animated fontSizeChange" style="visibility: visible;">
                 SAP ABAP enhancements
-                <p class="lead">
+                <p class="lead fontSizeChange">
                     Minuscule SAP expert team provides SAP ABAP enhancement services either offsite or onsite and these include BADIS, User exits, Field exits, FQ Events, Business data toolsets (BDT), Business transaction events (BTE).
                     <br>
                     <ul>
-                        <li>SAP ABAP Consulting</li>
-                        <li>ABAP & Java Stack</li>
-                        <li>ABAP Webdynpro developments</li>
-                        <li>Adobe Forms</li>
-                        <li>Data Migration</li>
-                        <li>Business Workflows</li>
+                        <li class="fontSizeChange">SAP ABAP Consulting</li>
+                        <li class="fontSizeChange">ABAP & Java Stack</li>
+                        <li class="fontSizeChange">ABAP Webdynpro developments</li>
+                        <li class="fontSizeChange">Adobe Forms</li>
+                        <li class="fontSizeChange">Data Migration</li>
+                        <li class="fontSizeChange">Business Workflows</li>
                     </ul>
                 </p>
             </div>

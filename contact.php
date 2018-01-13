@@ -21,8 +21,6 @@
     <?php
         include "nav.php";
     ?>  
-    <img src="img/1920x1080/topbanner.jpg" class="img-responsive res" style="width:100%">
-
         <!--========== PAGE CONTENT ==========-->
         <!-- Feedback Form -->
         <div class="se-pre-con"></div>
@@ -35,8 +33,8 @@
             </div>
         </div> -->
       
-		<section id="contact-info">
-			<div class="gmap-area">
+		<section id="contact-info" style="padding: 0px;">
+			<div class="gmap-area contactMap">
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-12 text-center">
@@ -48,7 +46,7 @@
 				</div>
 			</div>
         </section>
-        <section class="gmappad">
+        <section>
             <div class="g-position--relative ">
                     <div class="row g-row-col--5 g-margin-b-80--xs">
                         <div class="col-xs-4 g-full-width--xs g-margin-b-50--xs g-margin-b-0--sm">
