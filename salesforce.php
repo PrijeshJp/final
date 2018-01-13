@@ -43,7 +43,7 @@
 
         <div class="row g-margin-b-30--xs">
             <div class="col-sm-12">
-                <div class="g-margin-t-20--md g-margin-b-40--xs  wow animated" >
+                <div class="g-margin-t-20--md g-margin-b-40--xs  wow animated javaHeader" >
                     <!-- <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs">Branding Work</p> -->
                     <h2 class="g-font-size-32--xs g-font-size-36--md">Salesforce</h2>
                     <p> Salesforce Minuscule Team has deep expertise and understanding of Salesforce CRM and Force.com. Our offshore team of Developers, Architects, Analysts, Team Leads and Administrators have delivered several advanced implementations for global clients.</p>

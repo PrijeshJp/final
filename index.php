@@ -54,8 +54,8 @@
         <!-- End Swiper Wrapper -->
 
         <!-- Arrows -->
-        <a href="javascript:void(0);" class="s-swiper__arrow-v1--right s-icon s-icon--md s-icon--white-brd g-radius--circle ti-angle-right js__swiper-btn--next rad"></a>
-        <a href="javascript:void(0);" class="s-swiper__arrow-v1--left s-icon s-icon--md s-icon--white-brd g-radius--circle ti-angle-left js__swiper-btn--prev rad"></a>
+        <a href="javascript:void(0);" class="s-swiper__arrow-v1--right s-icon s-icon--md s-icon--white-brd g-radius--circle ti-angle-right js__swiper-btn--next rad arrow"></a>
+        <a href="javascript:void(0);" class="s-swiper__arrow-v1--left s-icon s-icon--md s-icon--white-brd g-radius--circle ti-angle-left js__swiper-btn--prev rad arrow"></a>
         <!-- End Arrows -->
 
         <a href="#js__scroll-to-section" class="s-scroll-to-section-v1--bc g-margin-b-15--xs">
@@ -67,11 +67,11 @@
 
     <!--========== PAGE CONTENT ==========-->
     <!-- Features -->
-    <div class="g-promo-section g-bg-color--sky-light">
+    <div id="js__scroll-to-section" class="g-promo-section g-bg-color--sky-light">
         <div class="container g-padding-y-80--xs g-padding-y-125--sm">
             <div class="g-text-center--xs g-margin-b-100--xs">
                 <!-- <p id="js__scroll-to-section" class="g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs">Welcome to Minuscule Technologies Ltd.</p> -->
-                <h2 id="js__scroll-to-section" class="g-font-size-32--xs g-font-size-36--md">We're Serious About
+                <h2 class="g-font-size-32--xs g-font-size-36--md">We're Serious About
                     <br> Software Development</h2>
             </div>
             <div class="row g-margin-b-60--xs g-margin-b-70--md">
@@ -202,7 +202,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-sm-3 g-promo-section__img-right--lg g-bg-position--center g-height-100-percent--md js__fullwidth-img">
+        <div class="col-sm-3 g-promo-section__img-right--lg g-bg-position--center g-height-100-percent--md js__fullwidth-img aboutImg">
             <img class="img-responsive" src="img/970x970/about.jpg" alt="Image">
         </div>
     </div>

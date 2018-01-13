@@ -7466,3 +7466,11 @@ body > section {
     position: relative;
     bottom: 70px;
 }
+@media (max-width: 500px){
+  .aboutImg{
+    display: none;
+  }
+  .arrow{
+    display: none;
+  }
+}
