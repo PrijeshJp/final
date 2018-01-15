@@ -24,20 +24,11 @@
     <?php
         include ("nav.php");
     ?>
-    <section class="g-bg-position--center backdrop-60px"></section>
-    <!--========== END HEADER ==========-->
-
     <!--========== PROMO BLOCK ==========-->
-    <!-- <section class="bgblog g-bg-position--center" >
-        <div class="container g-position--overlay g-text-center--xs">
-            <div class="g-padding-y-50--xs g-margin-t-100--xs g-margin-b-100--xs g-margin-b-250--md bgblog-white">
-                <h1 class="g-font-size-36--xs g-font-size-50--sm g-font-size-60--md">More Than A Just A Blog</h1>
-            </div>
-        </div>
-    </section> -->
+    <img src="img/1920x1080/oracle.jpg" class="img-responsive res">
     <!--========== END PROMO BLOCK ==========-->
     <!--========== PAGE CONTENT ==========-->
-    <div class="container blogpad oracleSpacing">
+    <div class="container blogpad">
         <div class="wow animated " style="visibility: visible;">
             <h2><span class="item active">Oracle Business Intelligence (OBIEE)</span></h2>
         </div>
