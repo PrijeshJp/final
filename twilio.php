@@ -20,19 +20,14 @@
 </head>
 <!-- Body -->
 <body>
-    <div class="se-pre-con"></div>
     <?php
         include ("nav.php");
     ?>
-    <!--========== PROMO BLOCK ==========-->
+    <!--========== Banner ==========-->
     <div style="max-height:55vh; overflow:hidden;">
         <img src="img/1920x1080/blog.jpg" class="img-responsive res" style="width:100%">
     </div>
-    <!-- <section class="" >
-        <div class="container g-position--overlay g-text-center--xs">
-        </div>
-    </section> -->
-    <!--========== END PROMO BLOCK ==========-->
+    <!--========== END Banner ==========-->
     <!--========== PAGE CONTENT ==========-->
     <div class="container blogpad">
         <div class="wow animated " style="visibility: visible;">

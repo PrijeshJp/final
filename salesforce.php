@@ -19,7 +19,6 @@
 </head>
 <!-- Body -->
 <body>
-    <div class="se-pre-con"></div>
     <?php
         include ("nav.php");
     ?>

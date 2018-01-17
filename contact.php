@@ -21,19 +21,7 @@
     <?php
         include "nav.php";
     ?>  
-        <!--========== PAGE CONTENT ==========-->
-        <!-- Feedback Form -->
-        <div class="se-pre-con"></div>
-        <!-- <div class="center">
-            <div class="g-container--md g-padding-y-125--xs" style="padding-bottom: 50px;padding-top: 50px;">
-                <div class="g-text-center--xs g-margin-t-50--xs g-margin-b-80--xs">
-                    <p class="text-uppercase g-font-size-14--xs g-font-weight--700  g-letter-spacing--2 g-margin-b-25--xs">Contact Us</p>
-                    <h2 class="g-font-size-32--xs g-font-size-36--sm g-color--blue">Get in Touch</h2>
-                </div>
-            </div>
-        </div> -->
-      
-		<section id="contact-info" style="padding: 0px;">
+	<section id="contact-info" style="padding: 0px;">
 			<div class="gmap-area contactMap">
 				<div class="container">
 					<div class="row">
