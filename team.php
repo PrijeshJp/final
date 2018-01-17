@@ -90,7 +90,7 @@
                                 <h4 class="g-font-size-22--xs g-font-size-26--sm g-color--white g-margin-b-0--xs">Ganesh Veerappin</h4>
                             </div>
                             <p class="g-font-weight--700">Thought Leader</p>
-                            <p>I have 12 years of experience in IT industry, was working on different domains (Telecom, Clearing and settlement division, HealthCare and Insurance). I always like to do something new and not to follow the crowd. Keen to update my technical expertise by doing certificate, discuss with experts and attending conference. I have completed 12+ certificates in different technologies and it increase my vision towards technologies.</p>
+                            <p>Having 12 years of experience in IT industry, was working on different domains (Telecom, Clearing and settlement division, HealthCare and Insurance). He always like to do something new and not to follow the crowd. Keen to update his technical expertise by doing certificate, discuss with experts and attending conference. He had completed 12+ certificates in different technologies and it increase his vision towards technologies.</p>
                             <p>Hobby is spending time with friends and thrilled with innovation.</p>
                         </div>
                     </div>
