@@ -2670,8 +2670,3 @@ box-sizing: border-box;
   content: '';
   background-color: rgba(0,0,0,.5);
 }
-@media (max-width: 500px){
-  .g-bg-position--center{
-    display: none;
-  }
-}

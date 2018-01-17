@@ -2,12 +2,12 @@
 <html lang="en" class="no-js">
 <head>
     <!-- Basic -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0 shrink-to-fit=no">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0 shrink-to-fit=no" />
     <title>Salesforce CRM, OutSystems, Digital marketing and strategy solutions, OBIEE development outsourcing - Minuscule Technologies</title>
     <link rel="shortcut icon" href="favicon.ico" />
     <meta name="description" content="Minuscule Technologies offers consulting and development solutions on Salesforce CRM, OutSystems platform on PaaS, digital marketing and strategy solutions on both on-shore and off-shore model.">
-    <meta name="author" content="">
+    <meta name="author" content="" />
     <link rel="canonical" href="http://www.minusculetechnologies.com/" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
@@ -16,8 +16,7 @@
     <meta property="og:description" content="Consulting and development solutions on Salesforce CRM, OutSystems platform on PaaS, digital marketing and strategy solutions on both on-shore and off-shore model from Minuscule Technologies "
     />
     <meta property="og:url" content="http://www.minusculetechnologies.com/" />
-    <meta charset="utf-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
     <?php
         include "script.php";
     ?>
@@ -59,9 +58,9 @@
         <!-- End Arrows -->
 
         <a href="#js__scroll-to-section" class="s-scroll-to-section-v1--bc g-margin-b-15--xs">
-        <span class="g-font-size-18--xs g-color--white ti-angle-double-down"></span>
-        <p class="text-uppercase g-color--white g-letter-spacing--3 g-margin-b-0--xs">Learn More</p>
-    </a>
+            <span class="g-font-size-18--xs g-color--white ti-angle-double-down"></span>
+            <p class="text-uppercase g-color--white g-letter-spacing--3 g-margin-b-0--xs">Learn More</p>
+        </a>
     </div>
     <!--========== END SWIPER SLIDER ==========-->
 
@@ -171,16 +170,6 @@
     <div class="g-promo-section">
         <div class="container g-padding-y-80--xs g-padding-y-125--sm">
             <div class="row">
-                <!-- <div class="col-md-4 g-margin-t-15--xs g-margin-b-60--xs g-margin-b-0--lg">
-                    <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs">Culture</p>
-                    <div class="wow" data-wow-duration=".3" data-wow-delay=".1s">
-                        <h2 class="g-font-size-40--xs g-font-size-50--sm g-font-size-60--md">About</h2>
-                    </div>
-                    <div class="wow" data-wow-duration=".3" data-wow-delay=".3s">
-                        <h2 class="g-font-size-40--xs g-font-size-50--sm g-font-size-60--md">Minuscule</h2>
-                    </div>
-                </div> -->
-
                 <div class="col-md-7 col-md-offset-1">
                     <div class="wow" data-wow-duration=".3" data-wow-delay=".1s">
                         <h2 class="g-font-size-40--xs g-font-size-50--sm g-font-size-60--md">About Minuscule</h2>
@@ -629,7 +618,6 @@
                                     <a href="img/logos/apachespark.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
                                     </a>
                                 </li> -->
-                           
                         </ul>
                     </div>
                 </div>
@@ -645,11 +633,6 @@
                             <p class="g-color--white-opacity">Structural Framework.</p>
                         </div>
                         <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                            <!-- <li>
-                                    <a href="img/logos/angular.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
-                                    </a>
-                                </li> -->
-                          
                         </ul>
                     </div>
                 </div>
