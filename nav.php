@@ -85,10 +85,10 @@
                                     <a href="team.php" class="s-header-v2__nav-link">Team</a>
                                 </li>
                                 <li class="s-header-v2__nav-item">
-                                    <a href="about.php" class="s-header-v2__nav-link">About</a>
+                                    <a href="about.php" class="s-header-v2__nav-link">About Us</a>
                                 </li>
                                 <li class="s-header-v2__nav-item">
-                                    <a href="contact.php" class="s-header-v2__nav-link s-header-v2__nav-link--dark">Contacts</a>
+                                    <a href="contact.php" class="s-header-v2__nav-link s-header-v2__nav-link--dark">Contact Us</a>
                                 </li>
                             </ul>
                         </div>
