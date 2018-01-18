@@ -68,7 +68,6 @@
     <div id="js__scroll-to-section" class="g-promo-section g-bg-color--sky-light">
         <div class="container g-padding-y-80--xs g-padding-y-125--sm">
             <div class="g-text-center--xs g-margin-b-100--xs">
-                <!-- <p id="js__scroll-to-section" class="g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs">Welcome to Minuscule Technologies Ltd.</p> -->
                 <h2 class="g-font-size-32--xs g-font-size-36--md">We're Serious About
                     <br> Software Development</h2>
             </div>
@@ -77,7 +76,6 @@
                     <div class="clearfix">
                         <div class="g-media g-width-30--xs">
                             <div class="wow" data-wow-duration=".3" data-wow-delay=".1s">
-                                <!-- <i class="g-font-size-28--xs g-color--primary ti-desktop"></i> -->
                                 <img src="img/icons/crm.png" alt="crm">
                             </div>
                         </div>
@@ -91,7 +89,6 @@
                     <div class="clearfix">
                         <div class="g-media g-width-30--xs">
                             <div class="wow" data-wow-duration=".3" data-wow-delay=".2s">
-                                <!-- <i class="g-font-size-28--xs g-color--primary ti-settings"></i> -->
                                 <img src="img/icons/programming.png" alt="crm">
                             </div>
                         </div>
@@ -105,7 +102,6 @@
                     <div class="clearfix">
                         <div class="g-media g-width-30--xs">
                             <div class="wow" data-wow-duration=".3" data-wow-delay=".3s">
-                                <!-- <i class="g-font-size-28--xs g-color--primary ti-ruler-alt-2"></i> -->
                                 <img src="img/icons/mob.png" alt="Mobile Development">
                             </div>
                         </div>
@@ -122,7 +118,6 @@
                     <div class="clearfix">
                         <div class="g-media g-width-30--xs">
                             <div class="wow" data-wow-duration=".3" data-wow-delay=".4s">
-                                <!-- <i class="g-font-size-28--xs g-color--primary ti-package"></i> -->
                                 <img src="img/icons/think.png" alt="">
                             </div>
                         </div>
@@ -227,15 +222,6 @@
                             <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Salesforce</h4>
                             <p class="g-color--white-opacity">CRM</p>
                         </div>
-                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                            <!-- <li>
-                                <a href="img/logos/salesforce.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Salesforce<br/> CRM.">
-                                    <i class="ti-fullscreen"></i>
-                                </a>
-                            </li> -->
-                            <li>
-                            </li>
-                        </ul>
                     </div>
                 </div>
 
@@ -249,13 +235,6 @@
                             <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Heroku</h4>
                             <p class="g-color--white-opacity">Platform.</p>
                         </div>
-                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                            <!-- <li>
-                                <a href="img/logos/heroku.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Heroku<br/> Platform.">
-                                    <i class="ti-fullscreen"></i>
-                                </a>
-                            </li> -->
-                        </ul>
                     </div>
                 </div>
 
@@ -269,13 +248,6 @@
                             <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">OutSystems</h4>
                             <p class="g-color--white-opacity">Platform.</p>
                         </div>
-                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                            <!-- <li>
-                                <a href="img/logos/outsystems.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Outsystems<br/> Platform.">
-                                    <i class="ti-fullscreen"></i>
-                                </a>
-                            </li> -->
-                        </ul>
                     </div>
                 </div>
 
@@ -289,13 +261,6 @@
                             <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">LIFERAY</h4>
                             <p class="g-color--white-opacity">Portal.</p>
                         </div>
-                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                            <!-- <li>
-                                <a href="img/logos/LifeRay.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="LifeRay<br/> Portal.">
-                                    <i class="ti-fullscreen"></i>
-                                </a>
-                            </li> -->
-                        </ul>
                     </div>
                 </div>
 
@@ -309,13 +274,6 @@
                             <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Salesforce Community</h4>
                             <p class="g-color--white-opacity">Salesforce CRM.</p>
                         </div>
-                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                            <!-- <li>
-                                <a href="img/logos/Sfcommunity.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Salesforce Community <br/> Salesforce CRM.">
-                                    <i class="ti-fullscreen"></i>
-                                </a>
-                            </li> -->
-                        </ul>
                     </div>
                 </div>
 
@@ -329,14 +287,6 @@
                             <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Salesforce Appexchange</h4>
                             <p class="g-color--white-opacity">Salesforce CRM.</p>
                         </div>
-                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                            <!-- <li>
-                                <a href="img/logos/sfappechange.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Portfolio Item <br/> by KeenThemes Inc.">
-                                    <i class="ti-fullscreen"></i>
-                                </a>
-                            </li> -->
-                          
-                        </ul>
                     </div>
                 </div>
 
@@ -350,14 +300,6 @@
                             <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Amazon Web-service</h4>
                             <p class="g-color--white-opacity">Service platform.</p>
                         </div>
-                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                            <!-- <li>
-                                <a href="img/logos/amazon.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Amazon Web-service<br/> Service platform.">
-                                    <i class="ti-fullscreen"></i>
-                                </a>
-                            </li> -->
-                           
-                        </ul>
                     </div>
                 </div>
 
@@ -371,13 +313,6 @@
                             <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Ansible</h4>
                             <p class="g-color--white-opacity">Cloud Computing.</p>
                         </div>
-                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                            <!-- <li>
-                                <a href="img/logos/ansible.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Ansible<br/> Cloud Computing.">
-                                    <i class="ti-fullscreen"></i>
-                                </a>
-                            </li> -->
-                        </ul>
                     </div>
                 </div>
 
@@ -391,13 +326,6 @@
                             <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Kafla</h4>
                             <p class="g-color--white-opacity">Cloud Computing.</p>
                         </div>
-                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                            <!-- <li>
-                                <a href="img/logos/kafla.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Kafla<br/> Cloud Computing.">
-                                    <i class="ti-fullscreen"></i>
-                                </a>
-                            </li> -->
-                        </ul>
                     </div>
                 </div>
 
@@ -411,13 +339,6 @@
                             <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Rabbitmq</h4>
                             <p class="g-color--white-opacity">Cloud Computing.</p>
                         </div>
-                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                            <!-- <li>
-                                    <a href="img/logos/rabbitmq.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Rabbitmq<br/> Cloud Computing.">
-                                    </a>
-                                </li> -->
-                           
-                        </ul>
                     </div>
                 </div>
 
@@ -431,13 +352,6 @@
                             <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Spring</h4>
                             <p class="g-color--white-opacity">Cloud Computing.</p>
                         </div>
-                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                            <!-- <li>
-                                    <a href="img/logos/spring-1.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Spring<br/> Cloud Computing.">
-                                    </a>
-                                </li> -->
-                            
-                        </ul>
                     </div>
                 </div>
 
@@ -449,16 +363,8 @@
                     <div class="s-portfolio__caption-hover--cc">
                         <div class="g-margin-b-25--xs">
                             <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Oracle</h4>
-                            <p class="g-color--white-opacity">Database
-                                <base href="">.</p>
+                            <p class="g-color--white-opacity">Database.</p>
                         </div>
-                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                            <!-- <li>
-                                    <a href="img/logos/oracle.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Oracle<br/> Database.">
-                                    </a>
-                                </li> -->
-                            
-                        </ul>
                     </div>
                 </div>
 
@@ -472,13 +378,6 @@
                             <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">kubernetes</h4>
                             <p class="g-color--white-opacity">Cloud Computing.</p>
                         </div>
-                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                            <!-- <li>
-                                    <a href="img/logos/kubernetes.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
-                                    </a>
-                                </li> -->
-                          
-                        </ul>
                     </div>
                 </div>
 
@@ -492,13 +391,6 @@
                             <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Cassandra</h4>
                             <p class="g-color--white-opacity">NoSQL database.</p>
                         </div>
-                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                            <!-- <li>
-                                    <a href="img/logos/cassandra.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
-                                    </a>
-                                </li> -->
-                           
-                        </ul>
                     </div>
                 </div>
 
@@ -512,13 +404,6 @@
                             <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">mysql</h4>
                             <p class="g-color--white-opacity">Database.</p>
                         </div>
-                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                            <!-- <li>
-                                    <a href="img/logos/mysql.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
-                                    </a>
-                                </li> -->
-                            
-                        </ul>
                     </div>
                 </div>
 
@@ -532,13 +417,6 @@
                             <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Microsoft SQLserver</h4>
                             <p class="g-color--white-opacity">Database.</p>
                         </div>
-                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                            <!-- <li>
-                                    <a href="img/logos/sqlserver.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
-                                    </a>
-                                </li> -->
-                            
-                        </ul>
                     </div>
                 </div>
 
@@ -552,13 +430,6 @@
                             <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Elastic</h4>
                             <p class="g-color--white-opacity">Search Engine.</p>
                         </div>
-                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                            <!-- <li>
-                                    <a href="img/logos/elastic.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
-                                    </a>
-                                </li> -->
-                        
-                        </ul>
                     </div>
                 </div>
 
@@ -572,13 +443,6 @@
                             <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Couchbase</h4>
                             <p class="g-color--white-opacity">Multi-model NoSQL.</p>
                         </div>
-                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                            <!-- <li>
-                                    <a href="img/logos/couchbase.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
-                                    </a>
-                                </li> -->
-                          
-                        </ul>
                     </div>
                 </div>
 
@@ -592,13 +456,6 @@
                             <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Postgresql</h4>
                             <p class="g-color--white-opacity">Object-relational Database system.</p>
                         </div>
-                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                            <!-- <li>
-                                    <a href="img/logos/postgresql.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
-                                    </a>
-                                </li> -->
-                            
-                        </ul>
                     </div>
                 </div>
 
@@ -612,12 +469,6 @@
                             <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Apache Spark</h4>
                             <p class="g-color--white-opacity"> Cluster-Computing Framework.</p>
                         </div>
-                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                            <!-- <li>
-                                    <a href="img/logos/apachespark.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
-                                    </a>
-                                </li> -->
-                        </ul>
                     </div>
                 </div>
 
@@ -646,13 +497,6 @@
                             <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Bootstrap</h4>
                             <p class="g-color--white-opacity">Front-end Web Framework.</p>
                         </div>
-                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                            <!-- <li>
-                                    <a href="img/logos/boots.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
-                                    </a>
-                                </li> -->
-                           
-                        </ul>
                     </div>
                 </div>
 
@@ -666,13 +510,6 @@
                             <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">HTML 5</h4>
                             <p class="g-color--white-opacity">Standard Markup Language.</p>
                         </div>
-                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                            <!-- <li>
-                                    <a href="img/logos/html.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
-                                    </a>
-                                </li> -->
-                           
-                        </ul>
                     </div>
                 </div>
 
@@ -686,13 +523,6 @@
                             <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">CSS</h4>
                             <p class="g-color--white-opacity">Cascading Style Sheets.</p>
                         </div>
-                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                            <!-- <li>
-                                    <a href="img/logos/css.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
-                                    </a>
-                                </li> -->
-                            
-                        </ul>
                     </div>
                 </div>
 
@@ -706,13 +536,6 @@
                             <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">d3</h4>
                             <p class="g-color--white-opacity">JavaScript library.</p>
                         </div>
-                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                            <!-- <li>
-                                    <a href="img/logos/d3.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
-                                    </a>
-                                </li> -->
-                           
-                        </ul>
                     </div>
                 </div>
 
@@ -726,13 +549,6 @@
                             <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">jquery</h4>
                             <p class="g-color--white-opacity">JavaScript library.</p>
                         </div>
-                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                            <!-- <li>
-                                    <a href="img/logos/jquery.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
-                                    </a>
-                                </li> -->
-                           
-                        </ul>
                     </div>
                 </div>
 
@@ -746,13 +562,6 @@
                             <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Websocket</h4>
                             <p class="g-color--white-opacity">Computer communications protocol.</p>
                         </div>
-                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                            <!-- <li>
-                                    <a href="img/logos/websocket.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
-                                    </a>
-                                </li> -->
-                          
-                        </ul>
                     </div>
                 </div>
 
@@ -766,13 +575,7 @@
                             <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Python</h4>
                             <p class="g-color--white-opacity">Dynamic and Multipurpose programming language.</p>
                         </div>
-                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                            <!-- <li>
-                                    <a href="img/logos/websocket.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
-                                    </a>
-                                </li> -->
-                            
-                        </ul>
+
                     </div>
                 </div>
 
@@ -786,13 +589,6 @@
                             <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Java</h4>
                             <p class="g-color--white-opacity">Platform core classes.</p>
                         </div>
-                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                            <!-- <li>
-                                    <a href="img/logos/websocket.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
-                                    </a>
-                                </li> -->
-                          
-                        </ul>
                     </div>
                 </div>
 
@@ -806,13 +602,6 @@
                             <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Liquabase</h4>
                             <p class="g-color--white-opacity">Database-independent library for trackinge.</p>
                         </div>
-                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                            <!-- <li>
-                                    <a href="img/logos/websocket.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
-                                    </a>
-                                </li> -->
-                           
-                        </ul>
                     </div>
                 </div>
 
@@ -826,13 +615,6 @@
                             <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Apache maven</h4>
                             <p class="g-color--white-opacity">Project management and Comprehension tool.</p>
                         </div>
-                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                            <!-- <li>
-                                    <a href="img/logos/websocket.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
-                                    </a>
-                                </li> -->
-                         
-                        </ul>
                     </div>
                 </div>
 
@@ -846,13 +628,6 @@
                             <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Ionic</h4>
                             <p class="g-color--white-opacity">Hybrid mobile app development.</p>
                         </div>
-                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                            <!-- <li>
-                                    <a href="img/logos/websocket.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
-                                    </a>
-                                </li> -->
-                         
-                        </ul>
                     </div>
                 </div>
 
@@ -866,13 +641,6 @@
                             <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Android</h4>
                             <p class="g-color--white-opacity">Mobile operating system.</p>
                         </div>
-                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                            <!-- <li>
-                                    <a href="img/logos/websocket.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
-                                    </a>
-                                </li> -->
-                            
-                        </ul>
                     </div>
                 </div>
 
@@ -886,13 +654,6 @@
                             <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">IOS</h4>
                             <p class="g-color--white-opacity">Mobile operating system.</p>
                         </div>
-                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                            <!-- <li>
-                                    <a href="img/logos/websocket.png" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="K   ubernetes<br/> Cloud Computing.">
-                                    </a>
-                                </li> -->
-                            
-                        </ul>
                     </div>
                 </div>
             </div>
@@ -900,59 +661,48 @@
         </div>
     </div>
     <!-- End Portfolio -->
-
+    
     <!-- Blog -->
-    <div class="container g-padding-y-80--xs g-padding-y-125--sm" style="padding-top:0px;">
+    <div class="container">
         <div class="g-text-center--xs g-margin-b-80--xs">
-            <h2 class="g-font-size-32--xs g-font-size-36--md">Latest Blog</h2>
+                <h2 class="g-font-size-32--xs g-font-size-36--md">Latest Blog</h2>
         </div>
         <div class="row">
-            <div class="col-sm-4 g-margin-b-30--xs g-margin-b-0--md">
-                <!-- News -->
-                <article>
-                <a href="salesforce_spa.php">
-                    <img class="img-responsive" src="img/970x970/spa.jpg" alt="Image">
-                    <div class="g-bg-color--white g-box-shadow__dark-lightest-v2 g-text-center--xs g-padding-x-40--xs g-padding-y-40--xs">
+            <div class="col-sm-12" style="margin-bottom: 150px;">
+                <div class="col-sm-4" style="box-shadow: 5px 0 5px -5px #333;">
+                    <div class="col-sm-6">
+                        <img class="img-responsive" src="img/970x970/spa.jpg" alt="Image">
+                    </div>
+                    <div class="col-sm-6">
                         <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2">Blog</p>
-                        <h3 class="g-font-size-22--xs g-letter-spacing--1">
-                            SPAs in Salesforce
-                        </h3>
-                    </a>
+                        <h3 class="g-font-size-14--xs g-letter-spacing--1">SPAs in Salesforce</h3>
                         <p>Aura or AngularJS</p>
                     </div>
-                </article>
-                <!-- End News -->
-            </div>
-            <div class="col-sm-4 g-margin-b-30--xs g-margin-b-0--md">
-                <!-- News -->
-                <article>
-                    <a href="heroku.php">
+                </div>
+                <div class="col-sm-4" style="box-shadow: 5px 0 5px -5px #333;">
+                    <div class="col-sm-6">
                         <img class="img-responsive" src="img/970x970/digital.jpg" alt="Image">
-                        <div class="g-bg-color--white g-box-shadow__dark-lightest-v2 g-text-center--xs g-padding-x-40--xs g-padding-y-40--xs">
-                            <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2">Blog</p>
-                            <h3 class="g-font-size-22--xs g-letter-spacing--1">Digital Practice</h3>
-                    </a>
-                        <p>Digital</p>
                     </div>
-                </article>
-                <!-- End Blog -->
-            </div>
-            <div class="col-sm-4">
-                <!-- News -->
-                <article>
-                    <a href="oracle.php">
+                    <div class="col-sm-6">
+                        <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2">Blog</p>
+                        <h3 class="g-font-size-14--xs g-letter-spacing--1">Digital Practice</h3>
+                        <p>Digital Marketing</p>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="col-sm-6">
                         <img class="img-responsive" src="img/970x970/twilio.jpg" alt="Image">
-                        <div class="g-bg-color--white g-box-shadow__dark-lightest-v2 g-text-center--xs g-padding-x-40--xs g-padding-y-40--xs">
-                            <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2">Blog</p>
-                            <h3 class="g-font-size-22--xs g-letter-spacing--1">Oracle</h3>
-                    </a>
+                    </div>
+                    <div class="col-sm-6">
+                        <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2">Blog</p>
+                        <h3 class="g-font-size-14--xs g-letter-spacing--1">Oracle</h3>
                         <p>Oracle Consulting</p>
                     </div>
-                </article>
-                <!-- End Blog -->
+                </div>                
             </div>
         </div>
     </div>
+
     <!-- End Blog -->
 
     <!-- Feedback Form -->
