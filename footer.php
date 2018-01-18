@@ -8,8 +8,8 @@
                                 <ul class="list-unstyled g-ul-li-tb-5--xs g-margin-b-0--xs">
                                     <li><a class="g-font-size-15--xs g-color--white-opacity" href="index.php">Home</a></li>
                                     <li><a class="g-font-size-15--xs g-color--white-opacity" href="team.php">Team</a></li>
-                                    <li><a class="g-font-size-15--xs g-color--white-opacity" href="about.php">About</a></li>
-                                    <li><a class="g-font-size-15--xs g-color--white-opacity" href="contact.php">Contact</a></li>
+                                    <li><a class="g-font-size-15--xs g-color--white-opacity" href="about.php">About us</a></li>
+                                    <li><a class="g-font-size-15--xs g-color--white-opacity" href="contact.php">Contact us</a></li>
                                 </ul>
                             </div>
                             <div class="col-sm-2 g-margin-b-20--xs g-margin-b-0--md">
