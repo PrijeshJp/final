@@ -53,7 +53,7 @@
                                             <a href="java.php" class="s-header-v2__dropdown-menu-link">Java Development</a>
                                         </li>
                                         <li>
-                                            <a href="twilio.php" class="s-header-v2__dropdown-menu-link">Twilio Integrations</a>
+                                            <a href="oracle.php" class="s-header-v2__dropdown-menu-link">Oracle Consulting</a>
                                         </li>
                                     </ul>
                                 </li>
@@ -66,13 +66,13 @@
                                     </a>
                                     <ul class="dropdown-menu s-header-v2__dropdown-menu">
                                         <li>
-                                            <a href="oracle.php" class="s-header-v2__dropdown-menu-link">Oracle Consulting</a>
-                                        </li>
-                                        <li>
                                             <a href="digitalpractice.php" class="s-header-v2__dropdown-menu-link">Digital Practice</a>
                                         </li>
                                         <li>
                                             <a href="sap.php" class="s-header-v2__dropdown-menu-link">SAP ABAP</a>
+                                        </li>
+                                        <li>
+                                            <a href="twilio.php" class="s-header-v2__dropdown-menu-link">Twilio Integrations</a>
                                         </li>
                                         <li>
                                             <a href="salesforce_spa.php" class="s-header-v2__dropdown-menu-link">Salesforce SPA</a>

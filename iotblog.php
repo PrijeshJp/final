@@ -11,20 +11,9 @@
     <?php
         include "nav.php";
     ?>
-    <section class="bgiot g-bg-position--center backdrop-60px" style="max-height: 40vh;">
-        <div class="container g-position--overlay g-text-center--xs">
-
-        </div>
-    </section>
+      <!--========== PROMO BLOCK ==========-->
+      <img src="img/1920x1080/IoT-Graphic.jpg" class="img-responsive res">
     <!--========== END PROMO BLOCK ==========-->
-
-    <!--========== PAGE CONTENT ==========-->
-    <!-- Mockup -->
-    <!-- <div class="container g-margin-t-o-150--xs">
-        <div class="center-block s-mockup-v1">
-            <img class="img-responsive" src="img/newImg/iot.png" alt="sf Image">
-        </div>
-    </div> -->
     <div class="container blogpad">
         <div class="">
             <h2 class="text-left wow spacebtm animated" style="visibility: visible;">Minuscule’s IoT Projects</h2>
