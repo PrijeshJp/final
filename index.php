@@ -131,7 +131,6 @@
                     <div class="clearfix">
                         <div class="g-media g-width-30--xs">
                             <div class="wow" data-wow-duration=".3" data-wow-delay=".5s">
-                                <!-- <i class="g-font-size-28--xs g-color--primary ti-star"></i> -->
                                 <img src="img/icons/award.png" alt="QA">
                             </div>
                         </div>
@@ -145,7 +144,6 @@
                     <div class="clearfix">
                         <div class="g-media g-width-30--xs">
                             <div class="wow" data-wow-duration=".3" data-wow-delay=".6s">
-                                <!-- <i class="g-font-size-28--xs g-color--primary ti-panel"></i> -->
                                 <img src="img/icons/idea.png" alt="Idea">
                             </div>
                         </div>
@@ -670,34 +668,40 @@
         <div class="row">
             <div class="col-sm-12" style="margin-bottom: 150px;">
                 <div class="col-sm-4" style="box-shadow: 5px 0 5px -5px #333;">
-                    <div class="col-sm-6">
-                        <img class="img-responsive" src="img/970x970/spa.jpg" alt="Image">
-                    </div>
-                    <div class="col-sm-6">
-                        <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2">Blog</p>
-                        <h3 class="g-font-size-14--xs g-letter-spacing--1">SPAs in Salesforce</h3>
-                        <p>Aura or AngularJS</p>
-                    </div>
+                    <a href="salesforce_spa.php">
+                        <div class="col-sm-6">
+                            <img class="img-responsive" src="img/970x970/spa.jpg" alt="Image">
+                        </div>
+                        <div class="col-sm-6">
+                            <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2">Blog</p>
+                            <h3 class="g-font-size-14--xs g-letter-spacing--1">SPAs in Salesforce</h3>
+                            <p>Aura or AngularJS</p>
+                        </div>
+                    </a>
                 </div>
                 <div class="col-sm-4" style="box-shadow: 5px 0 5px -5px #333;">
-                    <div class="col-sm-6">
-                        <img class="img-responsive" src="img/970x970/digital.jpg" alt="Image">
-                    </div>
-                    <div class="col-sm-6">
-                        <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2">Blog</p>
-                        <h3 class="g-font-size-14--xs g-letter-spacing--1">Digital Practice</h3>
-                        <p>Digital Marketing</p>
-                    </div>
+                    <a href="digitalpractice.php">
+                        <div class="col-sm-6">
+                            <img class="img-responsive" src="img/970x970/digital.jpg" alt="Image">
+                        </div>
+                        <div class="col-sm-6">
+                            <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2">Blog</p>
+                            <h3 class="g-font-size-14--xs g-letter-spacing--1">Digital Practice</h3>
+                            <p>Digital Marketing</p>
+                        </div>
+                    </a>
                 </div>
                 <div class="col-sm-4">
-                    <div class="col-sm-6">
-                        <img class="img-responsive" src="img/970x970/twilio.jpg" alt="Image">
-                    </div>
-                    <div class="col-sm-6">
-                        <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2">Blog</p>
-                        <h3 class="g-font-size-14--xs g-letter-spacing--1">Oracle</h3>
-                        <p>Oracle Consulting</p>
-                    </div>
+                    <a href="twilio.php">
+                        <div class="col-sm-6">
+                            <img class="img-responsive" src="img/970x970/twilio.jpg" alt="Image">
+                        </div>
+                        <div class="col-sm-6">
+                            <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2">Blog</p>
+                            <h3 class="g-font-size-14--xs g-letter-spacing--1">Oracle</h3>
+                            <p>Oracle Consulting</p>
+                        </div>
+                    </a>
                 </div>                
             </div>
         </div>
