@@ -4,16 +4,16 @@
     <!-- Basic -->
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0 shrink-to-fit=no" />
-    <title>Salesforce CRM, OutSystems, Digital marketing and strategy solutions, OBIEE development outsourcing - Minuscule Technologies</title>
+    <title>Minuscule Technologies.</title>
     <link rel="shortcut icon" href="favicon.ico" />
-    <meta name="description" content="Minuscule Technologies offers consulting and development solutions on Salesforce CRM, OutSystems platform on PaaS, digital marketing and strategy solutions on both on-shore and off-shore model.">
+    <meta name="description" content="Minuscule Technologies.">
     <meta name="author" content="" />
     <link rel="canonical" href="http://www.minusculetechnologies.com/" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Salesforce CRM, OutSystems, Digital marketing and strategy solutions, OBIEE development outsourcing - Minuscule Technologies"
+    <meta property="og:title" content="Minuscule Technologies."
     />
-    <meta property="og:description" content="Consulting and development solutions on Salesforce CRM, OutSystems platform on PaaS, digital marketing and strategy solutions on both on-shore and off-shore model from Minuscule Technologies "
+    <meta property="og:description" content="Minuscule Technologies."
     />
     <meta property="og:url" content="http://www.minusculetechnologies.com/" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
