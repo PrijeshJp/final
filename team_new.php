@@ -21,6 +21,63 @@
     <?php
         include "script.php";
     ?>
+    <style>
+        .newstyle{
+            position: relative;
+            width: 100%;
+            height: 53vh;
+        }
+        
+        .newstyle:after{
+            position: absolute;
+            z-index: 1;
+            top: 0;
+            left: 0;
+            display: block;
+            width: 100%;
+            height: 100%;
+            content: '';
+            background-color: rgba(0,0,0,.5);
+        }
+
+        .frameBorder{
+            width: 100%;
+            border-radius: 50%;
+            border: 4px solid whitesmoke;
+        } 
+
+        .padding_xs{
+            padding-top: 15px;
+            padding-bottom: 15px;
+        } 
+
+        .middle {
+            transition: .5s ease;
+            opacity: 0;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+            text-align: center;
+        }
+
+        .gallerycard:hover .image {
+            opacity: 0.3;
+            
+        }
+
+        .gallerycard:hover .middle {
+            opacity: 1;
+        }
+
+        .text {
+            background-color: #4CAF50;
+            color: black;
+            font-size: 16px;
+            padding: 16px 32px;
+        }
+    </style>
 </head>
 <!-- Body -->
 
@@ -29,12 +86,7 @@
             include ("nav.php");
         ?>
         <!--========== PROMO BLOCK ==========-->
-        <div class="backdrop">
-            <img src="img/400x400/team.jpg" class="img-responsive res backdrop">
-        </div>
-        <!-- <div class="backdrop img-responsive res" style="background: url('img/400x400/team.jpg'); width:1920px; height: 500px;">
-
-        </div> -->
+        <img src="img/400x400/team1.jpg" class="img-responsive res">
         <!--========== END PROMO BLOCK ==========-->
 
         <!--========== PAGE CONTENT ==========-->
@@ -42,53 +94,56 @@
             <div class="container-fluid bg-3 text-center">
                 <br>
                 <div class="row">
-                    <div class="col-sm-3">
-                        <p>Some text..</p>
-                        <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
+                    <div class="col-lg-15 col-md-3 col-sm-4 col-xs-6 gallerycard padding_xs">
+                        <img src="img/400x400/sendil2.jpg" class="img-responsive frameBorder image" style="width:100%" alt="Image">
+                        <div class="middle">
+                            <div class="text">Sendil</div>
+                        </div>
                     </div>
-                    <div class="col-sm-3">
-                        <p>Some text..</p>
-                        <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
+                    <div class="col-lg-15 col-md-3 col-sm-4 col-xs-6 gallerycard padding_xs">
+                        <img src="img/400x400/suresh1.jpg" class="img-responsive frameBorder image" style="width:100%" alt="Image">
+                        <div class="middle">
+                            <div class="text">Suresh</div>
+                        </div>
                     </div>
-                    <div class="col-sm-3">
-                        <p>Some text..</p>
-                        <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
+                    <div class="col-lg-15 col-md-3 col-sm-4 col-xs-6 gallerycard padding_xs">
+                        <img src="img/400x400/sajiv.jpg" class="img-responsive frameBorder image" style="width:100%" alt="Image">
+                        <div class="middle">
+                            <div class="text">Sajeev</div>
+                        </div>
                     </div>
-                    <div class="col-sm-3">
-                        <p>Some text..</p>
-                        <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
+                    <div class="col-lg-15 col-md-3 col-sm-4 col-xs-6 gallerycard padding_xs">
+                        <img src="img/400x400/ganesh1.jpeg" class="img-responsive frameBorder image" style="width:100%" alt="Image">
+                        <div class="middle">
+                            <div class="text">Ganesh</div>
+                        </div>
                     </div>
-                </div>
-            </div>
-            <br>
-
-            <div class="container-fluid bg-3 text-center">
-                <div class="row">
-                    <div class="col-sm-3">
-                        <p>Some text..</p>
-                        <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
+                    <div class="col-lg-15 col-md-3 col-sm-4 col-xs-6 gallerycard padding_xs">
+                        &nbsp;
                     </div>
-                    <div class="col-sm-3">
-                        <p>Some text..</p>
-                        <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
+                    <div class="col-lg-15 col-md-3 col-sm-4 col-xs-6 gallerycard padding_xs">
+                        <img src="img/400x400/ananth1.jpg" class="img-responsive frameBorder image" style="width:100%" alt="Image">
+                        <div class="middle">
+                            <div class="text">Ananth</div>
+                        </div>
                     </div>
-                    <div class="col-sm-3">
-                        <p>Some text..</p>
-                        <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
+                    <div class="col-lg-15 col-md-3 col-sm-4 col-xs-6 gallerycard padding_xs">
+                        <img src="img/400x400/meyyappan.jpeg" class="img-responsive frameBorder image" style="width:100%" alt="Image">
+                        <div class="middle">
+                            <div class="text">Meyyappan</div>
+                        </div>
                     </div>
-                    <div class="col-sm-3">
-                        <p>Some text..</p>
-                        <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
+                    <div class="col-lg-15 col-md-3 col-sm-4 col-xs-6 gallerycard padding_xs">
+                        &nbsp;
                     </div>
                 </div>
             </div>
         </div>
-
         <!--========== END PAGE CONTENT ==========-->
 
         <!--========== FOOTER ==========-->
         <?php
-        include "footer.php";
+            include "footer.php";
         ?>
 </body>
 <!-- End Body -->

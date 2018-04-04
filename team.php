@@ -39,7 +39,7 @@
                 <div class="col-xs-6 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
                     <!-- Speaker -->
                     <div class="center-block g-box-shadow__dark-lightest-v1 g-width-100-percent--xs g-width-400--lg">
-                        <img class="img-responsive g-width-100-percent--xs" src="img/400x400/sendil.jpg" alt="Image">
+                        <img class="img-responsive g-width-100-percent--xs" src="img/400x400/sendil2.jpg" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-margin-t-o-60--xs">
                             <div class="g-bg-color--primary g-padding-x-15--xs g-padding-y-10--xs g-margin-b-20--xs">
                                 <h4 class="g-font-size-22--xs g-font-size-26--sm g-color--white g-margin-b-0--xs">Sendil Coumar</h4>
@@ -53,7 +53,7 @@
                 <div class="col-xs-6 g-full-width--xs">
                     <!-- Speaker -->
                     <div class="center-block g-box-shadow__dark-lightest-v1 g-width-100-percent--xs g-width-400--lg">
-                        <img class="img-responsive g-width-100-percent--xs" src="img/400x400/suresh.jpg" alt="Image">
+                        <img class="img-responsive g-width-100-percent--xs" src="img/400x400/suresh1.jpg" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-margin-t-o-60--xs">
                             <div class="g-bg-color--primary g-padding-x-15--xs g-padding-y-10--xs g-margin-b-20--xs">
                                 <h4 class="g-font-size-22--xs g-font-size-26--sm g-color--white g-margin-b-0--xs">Suresh Mahadevan</h4>
@@ -83,7 +83,7 @@
                 <div class="col-xs-6 g-full-width--xs">
                     <!-- Speaker -->
                     <div class="center-block g-box-shadow__dark-lightest-v1 g-width-100-percent--xs g-width-400--lg">
-                        <img class="img-responsive g-width-100-percent--xs" src="img/400x400/ganesh.jpeg" alt="Image">
+                        <img class="img-responsive g-width-100-percent--xs" src="img/400x400/ganesh1.jpeg" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-margin-t-o-60--xs">
                             <div class="g-bg-color--primary g-padding-x-15--xs g-padding-y-10--xs g-margin-b-20--xs">
                                 <h4 class="g-font-size-22--xs g-font-size-26--sm g-color--white g-margin-b-0--xs">Ganesh Veerappin</h4>
@@ -100,13 +100,33 @@
                 <div class="col-xs-6 g-full-width--xs">
                     <!-- Speaker -->
                     <div class="center-block g-box-shadow__dark-lightest-v1 g-width-100-percent--xs g-width-400--lg">
-                        <img class="img-responsive g-width-100-percent--xs" src="img/400x400/ananth.jpg" alt="Image">
+                        <img class="img-responsive g-width-100-percent--xs" src="img/400x400/ananth1.jpg" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-margin-t-o-60--xs">
                             <div class="g-bg-color--primary g-padding-x-15--xs g-padding-y-10--xs g-margin-b-20--xs">
                                 <h4 class="g-font-size-22--xs g-font-size-26--sm g-color--white g-margin-b-0--xs">Anantharaman</h4>
                             </div>
                             <p class="g-font-weight--700">Technology Evangelist</p>
                             <p>Over a decade of experience in software archicture, design, development and delivery. Very strong skills in JAVA, Salesforce and Mobile Platforms. Worked on cutting-edge technology solutions for some of the top global companies.</p>
+                        </div>
+                    </div>
+                    <!-- End Speaker -->
+                </div>
+                <div class="col-xs-6 g-full-width--xs">
+                    <!-- Speaker -->
+                    <div class="center-block g-box-shadow__dark-lightest-v1 g-width-100-percent--xs g-width-400--lg">
+                        <img class="img-responsive g-width-100-percent--xs" src="img/400x400/meyyappan.jpeg" alt="Image">
+                        <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-margin-t-o-60--xs">
+                            <div class="g-bg-color--primary g-padding-x-15--xs g-padding-y-10--xs g-margin-b-20--xs">
+                                <h4 class="g-font-size-22--xs g-font-size-26--sm g-color--white g-margin-b-0--xs">Meyyappan</h4>
+                            </div>
+                            <p class="g-font-weight--700">Manager - Service Delivery / Client Relations</p>
+                            <p>Strong Logistics Domain knowledge in Sales, Customer service, Operations, Finance, Legal & customs for Far East, Indian Sub continent, Middle East, North America and Europe countries
+                                Having Strong Exposure in Pre-sales - Deliver powerful, coherent and engaging presentations / web ex demos
+                                Strong Experience in Implementing ERP to Large, Medium & Small customers from Perpetual to cloud based environment
+                                </p>
+                            <!-- <p>Maintain effective levels of communication with all key business Stakeholders in both External & Internal
+                                Proven people management skills with positive attitude 
+                                Mentoring Employee Behavior towards transforming satisfied customers to Engaged customers</p> -->
                         </div>
                     </div>
                     <!-- End Speaker -->
