@@ -27,7 +27,7 @@
 					<div class="row">
 						<div class="col-sm-12 text-center">
 							<div class="gmap">
-<iframe allowfullscreen="" height="450" width="100%" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.0750447371197!2d80.16173431482264!3d13.030892990817025!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5260e06a33ce31%3A0x39be3744de608b18!2sMinuscule+Technologies+Pvt.+Ltd.!5e0!3m2!1sen!2sin!4v1491829933297" style="border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px" width="600"></iframe>
+<iframe allowfullscreen="" height="450" width="100%" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1944.141259471195!2d80.17241835222815!3d12.953765126954078!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a525ff2e4be8ad7%3A0x17ba6abc6b67e199!2sMinuscule+Technologies!5e0!3m2!1sen!2sin!4v1559537276096!5m2!1sen!2sin" style="border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px" width="600"></iframe>
 							</div>
 						</div>
 					</div>
@@ -51,10 +51,8 @@
                                 <img src="img/icons/map.png" alt="Direction" style="margin-bottom: 10px;">
                                 <h4 class="g-font-size-18--xs g-color--blue g-margin-b-5--xs">Address</h4>
                                 <address>
-                                    <p>Global Delivery Center<br />
-                                        No. 5, AKS Tower, First Floor<br />
-                                        Sakthi Nagar, Porur,<br />
-                                        Chennai - 600116<br />
+                                    <p>No 4, Natpu nagar, Zamin Pallavaram<br />
+                                        Chennai - 600117<br />
                                         Tamil Nadu, India
                                     </p>
                                 </address>
